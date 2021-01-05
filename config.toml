@@ -1187,7 +1187,7 @@ uglyURLs = false
     ######################################
     # Minimal Footer
 
-    enableMinimalFooter = true
+    enableMinimalFooter = false
     enableVerticalBarStructure = true
     # Note: If you enable this, the
     #       categories or sections that
