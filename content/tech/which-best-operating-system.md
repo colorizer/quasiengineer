@@ -38,7 +38,7 @@ Apple:
 
 #### Mac OS X:
 
-[![](http://2.bp.blogspot.com/-8pJTWJeg6ig/UVbd7H_6YbI/AAAAAAAAAb0/4RIBmnUgcvU/s1600/overview_hero2.jpg)](http://2.bp.blogspot.com/-8pJTWJeg6ig/UVbd7H_6YbI/AAAAAAAAAb0/4RIBmnUgcvU/s1600/overview_hero2.jpg)
+[![](https://2.bp.blogspot.com/-8pJTWJeg6ig/UVbd7H_6YbI/AAAAAAAAAb0/4RIBmnUgcvU/s1600/overview_hero2.jpg)](https://2.bp.blogspot.com/-8pJTWJeg6ig/UVbd7H_6YbI/AAAAAAAAAb0/4RIBmnUgcvU/s1600/overview_hero2.jpg)
 
   
 
@@ -52,7 +52,7 @@ Though this OS is not available for non-Mac devices, it is the best operating sy
 
 #### iOS 6:
 
-[![](http://1.bp.blogspot.com/-xeNDExni3So/UVbhqkGDocI/AAAAAAAAAcE/i2f8jVzVoEU/s1600/ios6.jpg)](http://1.bp.blogspot.com/-xeNDExni3So/UVbhqkGDocI/AAAAAAAAAcE/i2f8jVzVoEU/s1600/ios6.jpg)
+[![](https://1.bp.blogspot.com/-xeNDExni3So/UVbhqkGDocI/AAAAAAAAAcE/i2f8jVzVoEU/s1600/ios6.jpg)](https://1.bp.blogspot.com/-xeNDExni3So/UVbhqkGDocI/AAAAAAAAAcE/i2f8jVzVoEU/s1600/ios6.jpg)
 
 While iOS 5 was good, giving us nice features, iOS 6 is not. While it might have cleared some problems, it created many more problems which over-shadows the previous ones. By present situation, don't go for iOS at all.
 
@@ -69,7 +69,7 @@ Windows:
 
 #### Windows 7:
 
-[![](http://2.bp.blogspot.com/-cO9cuXTYnEk/UVbnHaOR7RI/AAAAAAAAAcU/ZHkJNpKd7oU/s1600/win7_full_desktop.jpg)](http://2.bp.blogspot.com/-cO9cuXTYnEk/UVbnHaOR7RI/AAAAAAAAAcU/ZHkJNpKd7oU/s1600/win7_full_desktop.jpg)
+[![](https://2.bp.blogspot.com/-cO9cuXTYnEk/UVbnHaOR7RI/AAAAAAAAAcU/ZHkJNpKd7oU/s1600/win7_full_desktop.jpg)](https://2.bp.blogspot.com/-cO9cuXTYnEk/UVbnHaOR7RI/AAAAAAAAAcU/ZHkJNpKd7oU/s1600/win7_full_desktop.jpg)
 
   
 
@@ -78,7 +78,7 @@ Microsoft, after the complete blunder of windows vista, created this new OS whic
 
 #### Windows 8:
 
-[![](http://1.bp.blogspot.com/-ArF5wAWdpV0/UVblEaTM4yI/AAAAAAAAAcM/leiikG7Iy-8/s1600/Windows-8.jpg)](http://1.bp.blogspot.com/-ArF5wAWdpV0/UVblEaTM4yI/AAAAAAAAAcM/leiikG7Iy-8/s1600/Windows-8.jpg)
+[![](https://1.bp.blogspot.com/-ArF5wAWdpV0/UVblEaTM4yI/AAAAAAAAAcM/leiikG7Iy-8/s1600/Windows-8.jpg)](https://1.bp.blogspot.com/-ArF5wAWdpV0/UVblEaTM4yI/AAAAAAAAAcM/leiikG7Iy-8/s1600/Windows-8.jpg)
 
   
 
@@ -92,7 +92,7 @@ I think Windows 8 is the best operating system available today but I would never
 
 #### Windows phone 8:
 
-[![](http://3.bp.blogspot.com/-20tV_2wscDQ/UVf3a8kij5I/AAAAAAAAAdk/uDF2erY7CMQ/s1600/surface-tablet-running-windows-phone-81.jpg)](http://3.bp.blogspot.com/-20tV_2wscDQ/UVf3a8kij5I/AAAAAAAAAdk/uDF2erY7CMQ/s1600/surface-tablet-running-windows-phone-81.jpg)
+[![](https://3.bp.blogspot.com/-20tV_2wscDQ/UVf3a8kij5I/AAAAAAAAAdk/uDF2erY7CMQ/s1600/surface-tablet-running-windows-phone-81.jpg)](https://3.bp.blogspot.com/-20tV_2wscDQ/UVf3a8kij5I/AAAAAAAAAdk/uDF2erY7CMQ/s1600/surface-tablet-running-windows-phone-81.jpg)
 
   
 
@@ -111,17 +111,17 @@ Linux:
 
 #### Ubuntu:
 
-![](http://4.bp.blogspot.com/-SYm4bzE4fKo/UVbtcHvhH-I/AAAAAAAAAck/vIDURv4bPkg/s1600/ubuntu.jpg)
+![](https://4.bp.blogspot.com/-SYm4bzE4fKo/UVbtcHvhH-I/AAAAAAAAAck/vIDURv4bPkg/s1600/ubuntu.jpg)
 
   
 
-I must say this one is the best free desktop operating system available. But, like Windows, this one is also in the evolution of a new interface called "Unity" and so people began to move away from it. I prefer this one and use this as my primary OS. But, if you think cost is not a problem, then go for anything among the first two in the list. You can also dual boot this OS along with them and this one gotta nice and easy way for it. If you decide to check this one, [here](http://www.ubuntu.com/) the link for their website.
+I must say this one is the best free desktop operating system available. But, like Windows, this one is also in the evolution of a new interface called "Unity" and so people began to move away from it. I prefer this one and use this as my primary OS. But, if you think cost is not a problem, then go for anything among the first two in the list. You can also dual boot this OS along with them and this one gotta nice and easy way for it. If you decide to check this one, [here](https://www.ubuntu.com/) the link for their website.
 
   
 
 #### Linux Mint:
 
-[![](http://3.bp.blogspot.com/-nnJjGhY21q4/UVfwTvuGN8I/AAAAAAAAAc0/eWCTf1TTBCU/s1600/ss1.jpeg)](http://3.bp.blogspot.com/-nnJjGhY21q4/UVfwTvuGN8I/AAAAAAAAAc0/eWCTf1TTBCU/s1600/ss1.jpeg)
+[![](https://3.bp.blogspot.com/-nnJjGhY21q4/UVfwTvuGN8I/AAAAAAAAAc0/eWCTf1TTBCU/s1600/ss1.jpeg)](https://3.bp.blogspot.com/-nnJjGhY21q4/UVfwTvuGN8I/AAAAAAAAAc0/eWCTf1TTBCU/s1600/ss1.jpeg)
 
   
 
@@ -135,7 +135,7 @@ This brother of Ubuntu is now the favorite operating system of many previous
 
 #### Android Jelly Bean:
 
-[![](http://4.bp.blogspot.com/-dorBnnhlf0w/UVfyRbQWJRI/AAAAAAAAAdA/Xgk-JFL97HM/s1600/jelly.jpg)](http://4.bp.blogspot.com/-dorBnnhlf0w/UVfyRbQWJRI/AAAAAAAAAdA/Xgk-JFL97HM/s1600/jelly.jpg)
+[![](https://4.bp.blogspot.com/-dorBnnhlf0w/UVfyRbQWJRI/AAAAAAAAAdA/Xgk-JFL97HM/s1600/jelly.jpg)](https://4.bp.blogspot.com/-dorBnnhlf0w/UVfyRbQWJRI/AAAAAAAAAdA/Xgk-JFL97HM/s1600/jelly.jpg)
 
   
 
@@ -145,6 +145,6 @@ This one operating system has got nearly all of it -Wonderful architecture, nic
 
 #### Upcoming OS:
 
-[![](http://2.bp.blogspot.com/-NWhZOBrijRw/UVf0G4xpqRI/AAAAAAAAAdU/TIXY7LSU2e8/s1600/upcom.jpg)](http://2.bp.blogspot.com/-NWhZOBrijRw/UVf0G4xpqRI/AAAAAAAAAdU/TIXY7LSU2e8/s1600/upcom.jpg)
+[![](https://2.bp.blogspot.com/-NWhZOBrijRw/UVf0G4xpqRI/AAAAAAAAAdU/TIXY7LSU2e8/s1600/upcom.jpg)](https://2.bp.blogspot.com/-NWhZOBrijRw/UVf0G4xpqRI/AAAAAAAAAdU/TIXY7LSU2e8/s1600/upcom.jpg)
 
-We have got a big amount of Linux based mobile operating systems coming out this year. If you wanna know about them, [click here](http://www.technologyinfinite.blogspot.in/2013/03/mobile-operating-systems-of-2013.html).
+We have got a big amount of Linux based mobile operating systems coming out this year. If you wanna know about them, [click here](https://www.technologyinfinite.blogspot.in/2013/03/mobile-operating-systems-of-2013.html).

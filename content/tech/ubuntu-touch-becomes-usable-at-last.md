@@ -6,11 +6,11 @@ aliases: [ "/2013/06/ubuntu-touch-becomes-usable-at-last.html" ]
 tags : [Ubuntu touch, update, Ubuntu, Software, Ubuntu phone, smartphone]
 ---
 
-[![](http://2.bp.blogspot.com/-poRhnrZEUX4/UVgZ7MOnKsI/AAAAAAAAAfI/x8zuK4qwGzI/s640/1671742-inline-inline-ubuntu-101.jpg)](http://2.bp.blogspot.com/-poRhnrZEUX4/UVgZ7MOnKsI/AAAAAAAAAfI/x8zuK4qwGzI/s1600/1671742-inline-inline-ubuntu-101.jpg)
+[![](https://2.bp.blogspot.com/-poRhnrZEUX4/UVgZ7MOnKsI/AAAAAAAAAfI/x8zuK4qwGzI/s640/1671742-inline-inline-ubuntu-101.jpg)](https://2.bp.blogspot.com/-poRhnrZEUX4/UVgZ7MOnKsI/AAAAAAAAAfI/x8zuK4qwGzI/s1600/1671742-inline-inline-ubuntu-101.jpg)
 
   
   
-Its around time when many busy geeks around the world forgot about the ubuntu touch did canonical release the update which made the Ubuntu Touch usable at last. Ubuntu's [+Jono Bacon](http://plus.google.com/114419073019603780828)  [published](http://www.jonobacon.org/2013/06/01/ubuntu-phone-dogfooding-update/) the summary of the updates made to the Ubuntu Touch OS. This update resurrects the hope that this OS will definitely bring some change and won't die away. As per the latest updates,  
+Its around time when many busy geeks around the world forgot about the ubuntu touch did canonical release the update which made the Ubuntu Touch usable at last. Ubuntu's [+Jono Bacon](https://plus.google.com/114419073019603780828)  [published](https://www.jonobacon.org/2013/06/01/ubuntu-phone-dogfooding-update/) the summary of the updates made to the Ubuntu Touch OS. This update resurrects the hope that this OS will definitely bring some change and won't die away. As per the latest updates,  
   
 
 *   The phone OS is reliable and doesn’t crash (Some problems with messaging menu yet... Sometimes, messages don't show on it... And some crash sometimes with phone, which freezes... But everything else is working).
@@ -18,7 +18,7 @@ Its around time when many busy geeks around the world forgot about the ubuntu to
 *   Sending and receiving text messages works great.
 *   The messaging menu works great. Missed calls and texts appear there and I can reply or call back directly from messaging menu. I can also view my SMSes in the conversations list in the phone app.
 *   Connecting to wireless networks works well.
-*   Mobile data has landed but currently needs manual configuration to be used. Read how to test this [here](https://plus.google.com/u/0/100264483712374857174/posts/3o1tjYo9Ghx). They will be working on automating this next.
+*   Mobile data has landed but currently needs manual configuration to be used. Read how to test this [here](httpss://plus.google.com/u/0/100264483712374857174/posts/3o1tjYo9Ghx). They will be working on automating this next.
 *   Power management is much better; when the phone is not used for 30 secs the screen is automatically shut off.
 *   The camera works great (with flash) and photos appear as expected in the gallery. There is a shortcut from the camera app to the gallery.
 *   The browser works well, now has a progress bar and overlayed history based upon the URL entered.

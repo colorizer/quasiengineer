@@ -10,7 +10,7 @@ During my recent voyage through the Reddit, I stumbled upon a useful fact about 
   
 Here they are!  
 
-[![](http://geeky.io/img/gmail-secret-feature.jpg)](http://geeky.io/img/gmail-secret-feature.jpg)
+[![](https://geeky.io/img/gmail-secret-feature.jpg)](https://geeky.io/img/gmail-secret-feature.jpg)
 
 ### Dots(.):
 
@@ -29,4 +29,4 @@ You can use this to register for multiple accounts on your favorite site. I'm su
 Yes. Plusses (+). Plusses work like dots, in that they allow you to make unlimited shadow emails that all forward to your Gmail account. John, from the last example, can register for banks using johndoe+banking@gmail.com, and Geeky's digest using johndoe+geeky@gmail.com.  
 You can give out different addresses to different contacts. You can add in slogans (johndoe+isageek@gmail.com).You can, for example, use johdoe+twitter@gmail.com for your twitter account.  
   
-Source and Words: [Geeky](http://geeky.io/2015/06/16/gmail-hidden-features.html)
+Source and Words: [Geeky](https://geeky.io/2015/06/16/gmail-hidden-features.html)

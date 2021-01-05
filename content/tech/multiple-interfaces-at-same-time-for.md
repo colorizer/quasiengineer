@@ -6,7 +6,7 @@ aliases: [ "/2013/04/multiple-interfaces-at-same-time-for.html" ]
 tags : [Unity, kubuntu, Software, Desktop Environments, LXDE, lubuntu, KDE, How To's, Ubuntu, XFCE, Cinnamon, Gnome, interface, xubuntu]
 ---
 
-[![](http://2.bp.blogspot.com/-51vNLpLWMq8/UWFdADnFz1I/AAAAAAAAAqc/JJL_Puk82G0/s1600/DeskEnv.png)](http://2.bp.blogspot.com/-51vNLpLWMq8/UWFdADnFz1I/AAAAAAAAAqc/JJL_Puk82G0/s1600/DeskEnv.png)
+[![](https://2.bp.blogspot.com/-51vNLpLWMq8/UWFdADnFz1I/AAAAAAAAAqc/JJL_Puk82G0/s1600/DeskEnv.png)](https://2.bp.blogspot.com/-51vNLpLWMq8/UWFdADnFz1I/AAAAAAAAAqc/JJL_Puk82G0/s1600/DeskEnv.png)
 
   
 
@@ -42,7 +42,7 @@ Ubuntu will have Unity(the one at the top left corner of the image) as the desk
 
   
 
-*   To install the Linux Mint's Cinnamon interface(its not there in the image but you can check this one [here](http://www.linuxmint.com/screenshots.php))-
+*   To install the Linux Mint's Cinnamon interface(its not there in the image but you can check this one [here](https://www.linuxmint.com/screenshots.php))-
 
 sudo add-apt-repository ppa:gwendal-lebihan-dev/cinnamon-stable    
 sudo apt-get update    

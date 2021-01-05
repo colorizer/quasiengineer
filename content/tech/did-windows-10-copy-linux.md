@@ -14,7 +14,7 @@ Yes, it did. Atleast for me. Here is the list of some of the features that have 
 
 ### 1\. One for All:
 
-[![](http://2.bp.blogspot.com/-RJHI3XdZtXU/VWIHfNddU7I/AAAAAAAACtY/VrXC4XU-VDM/s320/One%2Bfor%2Ball%2BInterface-%2BWindows%2Band%2BUbuntu.png)](http://2.bp.blogspot.com/-RJHI3XdZtXU/VWIHfNddU7I/AAAAAAAACtY/VrXC4XU-VDM/s1600/One%2Bfor%2Ball%2BInterface-%2BWindows%2Band%2BUbuntu.png)
+[![](https://2.bp.blogspot.com/-RJHI3XdZtXU/VWIHfNddU7I/AAAAAAAACtY/VrXC4XU-VDM/s320/One%2Bfor%2Ball%2BInterface-%2BWindows%2Band%2BUbuntu.png)](https://2.bp.blogspot.com/-RJHI3XdZtXU/VWIHfNddU7I/AAAAAAAACtY/VrXC4XU-VDM/s1600/One%2Bfor%2Ball%2BInterface-%2BWindows%2Band%2BUbuntu.png)
 
   
 
@@ -26,7 +26,7 @@ But, this one cool idea, wasn't first born out of Microsoft. It was already bein
 
 ### 2\. Continuum
 
-[![](http://2.bp.blogspot.com/-ObIaUr_hpK4/VWITid5M_kI/AAAAAAAACto/NNlsHNfNX1k/s320/Continuum%2BWindows%2Bconvergence%2Bubuntu.jpg)](http://2.bp.blogspot.com/-ObIaUr_hpK4/VWITid5M_kI/AAAAAAAACto/NNlsHNfNX1k/s1600/Continuum%2BWindows%2Bconvergence%2Bubuntu.jpg)
+[![](https://2.bp.blogspot.com/-ObIaUr_hpK4/VWITid5M_kI/AAAAAAAACto/NNlsHNfNX1k/s320/Continuum%2BWindows%2Bconvergence%2Bubuntu.jpg)](https://2.bp.blogspot.com/-ObIaUr_hpK4/VWITid5M_kI/AAAAAAAACto/NNlsHNfNX1k/s1600/Continuum%2BWindows%2Bconvergence%2Bubuntu.jpg)
 
 When a single system can run across multiple devices, why can't a single sytem run like multiple devices? This simple question gave rise to the innovative answer - Continuum. But, unfortunately, this question arose for both Canonical and Windows.
 
@@ -37,7 +37,7 @@ Though Ubuntu was the firs to start the Race, Windows is the first to finish it!
 
 ### 3\. Virtual Desktops:
 
-[![](http://4.bp.blogspot.com/-p98hSNHqWbE/VWIbpvcVQXI/AAAAAAAACt4/NhC6U6YOxRE/s320/virtual%2Bdesktops%2Bworkspace%2BWindows%2BUbuntu.jpg)](http://4.bp.blogspot.com/-p98hSNHqWbE/VWIbpvcVQXI/AAAAAAAACt4/NhC6U6YOxRE/s1600/virtual%2Bdesktops%2Bworkspace%2BWindows%2BUbuntu.jpg)
+[![](https://4.bp.blogspot.com/-p98hSNHqWbE/VWIbpvcVQXI/AAAAAAAACt4/NhC6U6YOxRE/s320/virtual%2Bdesktops%2Bworkspace%2BWindows%2BUbuntu.jpg)](https://4.bp.blogspot.com/-p98hSNHqWbE/VWIbpvcVQXI/AAAAAAAACt4/NhC6U6YOxRE/s1600/virtual%2Bdesktops%2Bworkspace%2BWindows%2BUbuntu.jpg)
 
   
 Virtual desktop, called as Poor man's monitors, is the feature in which you can have a multiple desktops from a single system. Its just the ability to open and group softwares in different so called virtual desktops such that you can switch between them anytime to use the respective set of apps than fiddling with an array of apps.
@@ -52,7 +52,7 @@ But this feature has been long found in the Linux desktop in the name of Workspa
 
 ### 4\. Cortana vs Hud:
 
-[![](http://1.bp.blogspot.com/-SuPg6W0sPDw/VWIczozNbsI/AAAAAAAACuE/5jwhzkDVU_8/s320/cortana%2Band%2BHUD.jpg)](http://1.bp.blogspot.com/-SuPg6W0sPDw/VWIczozNbsI/AAAAAAAACuE/5jwhzkDVU_8/s1600/cortana%2Band%2BHUD.jpg)
+[![](https://1.bp.blogspot.com/-SuPg6W0sPDw/VWIczozNbsI/AAAAAAAACuE/5jwhzkDVU_8/s320/cortana%2Band%2BHUD.jpg)](https://1.bp.blogspot.com/-SuPg6W0sPDw/VWIczozNbsI/AAAAAAAACuE/5jwhzkDVU_8/s1600/cortana%2Band%2BHUD.jpg)
 
 Cortana has become a lot familiar to people since its introduction in the mobile system. It is the complex hybrid of Google Now and Siri has been trying very hard (a fruitless war as of now) to beat both of them.
 
@@ -64,7 +64,7 @@ But, Canonical had already promised a similar feature using the HUD ability whic
 
 ### 5\. One Store for All:
 
-[![](http://3.bp.blogspot.com/-zAfjHf5mKuQ/VWIdst_kqOI/AAAAAAAACuQ/Z3WAIbQlZdU/s320/App%2Bstore%2BSoftware%2Bcenter.jpg)](http://3.bp.blogspot.com/-zAfjHf5mKuQ/VWIdst_kqOI/AAAAAAAACuQ/Z3WAIbQlZdU/s1600/App%2Bstore%2BSoftware%2Bcenter.jpg)
+[![](https://3.bp.blogspot.com/-zAfjHf5mKuQ/VWIdst_kqOI/AAAAAAAACuQ/Z3WAIbQlZdU/s320/App%2Bstore%2BSoftware%2Bcenter.jpg)](https://3.bp.blogspot.com/-zAfjHf5mKuQ/VWIdst_kqOI/AAAAAAAACuQ/Z3WAIbQlZdU/s1600/App%2Bstore%2BSoftware%2Bcenter.jpg)
 
 When convergence is the idea, you can't keep different sources for different devices. So, convergence is the key which unlocks the unlimited number of united apps - Through one store!!
 

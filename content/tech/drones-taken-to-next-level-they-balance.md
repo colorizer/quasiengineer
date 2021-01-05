@@ -6,10 +6,10 @@ aliases: [ "/2016/03/drones-taken-to-next-level-they-balance.html" ]
 tags : [D'Andrea, firefly drones, ted, FRAC, Omnicopter, monospinner, safety, drones, Technology]
 ---
 
-[![](https://2.bp.blogspot.com/-gtUCQkEW69o/Vtsd4OI1N3I/AAAAAAAADLM/7faeLJ4l4MM/s640/ted2016.jpg)](https://2.bp.blogspot.com/-gtUCQkEW69o/Vtsd4OI1N3I/AAAAAAAADLM/7faeLJ4l4MM/s1600/ted2016.jpg)
+[![](httpss://2.bp.blogspot.com/-gtUCQkEW69o/Vtsd4OI1N3I/AAAAAAAADLM/7faeLJ4l4MM/s640/ted2016.jpg)](httpss://2.bp.blogspot.com/-gtUCQkEW69o/Vtsd4OI1N3I/AAAAAAAADLM/7faeLJ4l4MM/s1600/ted2016.jpg)
 
   
-Drones have come a long way since they were introduced as remote controlled toys. Tiny flyers now have [the ability to run autonomously](http://www.livescience.com/53231-vertigo-robot-drives-up-walls.html), sense their location and even respond to external disturbances. For instance, several years ago, a fleet of autonomous flyers built a 20-foot-tall (6 meters) wall using 1,500 bricks at the FRAC Center in France, D'Andrea said in his intro in the TED conference held on February.  
+Drones have come a long way since they were introduced as remote controlled toys. Tiny flyers now have [the ability to run autonomously](https://www.livescience.com/53231-vertigo-robot-drives-up-walls.html), sense their location and even respond to external disturbances. For instance, several years ago, a fleet of autonomous flyers built a 20-foot-tall (6 meters) wall using 1,500 bricks at the FRAC Center in France, D'Andrea said in his intro in the TED conference held on February.  
   
 But behind all these functions is the ability to localize the objects in space. Historically, researchers have relied on external cameras (or, in the older days, remote control) to help position the drones in space. Now, however, D'Andrea and his colleagues at Verity Studios have built an internal localization technology that does away with this equirement.  
   
@@ -22,7 +22,7 @@ Another prototype, called the monospinner, aims to reduce the glitchiness associ
 By contrast, the monospinner has just one moveable part, a propeller, yet can still fly almost anywhere in space.  
 Another flyer, called the omnicopter, is an exercise in redundancy. Each half wants to spin in opposite directions. That means that when assembled, omnicopter moves equally well in any direction.  
   
-The omnicopter is a move toward more reliable [drones of the future](http://www.livescience.com/45152-drones-surprising-uses.html), he said. If any part fails, whether it's a motor or a battery pack, or whether half of the drone is completely disabled, the handicapped omnicopter can still fly where it needs to go.  
+The omnicopter is a move toward more reliable [drones of the future](https://www.livescience.com/45152-drones-surprising-uses.html), he said. If any part fails, whether it's a motor or a battery pack, or whether half of the drone is completely disabled, the handicapped omnicopter can still fly where it needs to go.  
   
 As the final exhibit, D'Andrea demonstrated a swarm of commercially available quadcopters outfitted with twinkling lights and the research team's localization technology. The swarm of about 20 drones took to the skies and circled around each other, twinkling on and off in a choreographed dance.  
   

@@ -8,7 +8,7 @@ tags : [How To's, Windows, windows 8, shut down, start screen]
 
 Windows 8 brought an innovative and stylish interface to Windows but it also brought some annoying changes like clicking or tapping around four times to shut down your computer. You would have felt that it would be lot better if the shut down option was in the start screen. The following method fixes that annoyance by creating a one-click or one-tap tile for shut down in the start screen. Just do as follows:  
 
-[![](http://4.bp.blogspot.com/--HdRybtLXqM/UZJ9veLgknI/AAAAAAAABcc/UKPZezliKUM/s1600/shutdown+tile.png)](http://4.bp.blogspot.com/--HdRybtLXqM/UZJ9veLgknI/AAAAAAAABcc/UKPZezliKUM/s1600/shutdown+tile.png)
+[![](https://4.bp.blogspot.com/--HdRybtLXqM/UZJ9veLgknI/AAAAAAAABcc/UKPZezliKUM/s1600/shutdown+tile.png)](https://4.bp.blogspot.com/--HdRybtLXqM/UZJ9veLgknI/AAAAAAAABcc/UKPZezliKUM/s1600/shutdown+tile.png)
 
   
 

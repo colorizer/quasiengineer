@@ -6,7 +6,7 @@ aliases: [ "/2013/03/mobile-operating-systems-of-2013.html" ]
 tags : [Linux, Ubuntu touch, Firefox OS, Software, latest, Android, Mobile, Technology, Operating systems, Tizen, Sailfish OS, smartphone]
 ---
 
-[![](http://2.bp.blogspot.com/-c9hqpL-hoGk/UVhxsATLwiI/AAAAAAAAAgI/HA7eO7SfSeM/s320/allOS.jpg)](http://2.bp.blogspot.com/-c9hqpL-hoGk/UVhxsATLwiI/AAAAAAAAAgI/HA7eO7SfSeM/s1600/allOS.jpg)
+[![](https://2.bp.blogspot.com/-c9hqpL-hoGk/UVhxsATLwiI/AAAAAAAAAgI/HA7eO7SfSeM/s320/allOS.jpg)](https://2.bp.blogspot.com/-c9hqpL-hoGk/UVhxsATLwiI/AAAAAAAAAgI/HA7eO7SfSeM/s1600/allOS.jpg)
 
   
 Unlike any other year, this year has got a wide(and wild) range of mobile operating systems coming up. Each, with their own pros and cons, offers us some good features. Let us see about them.  
@@ -15,18 +15,18 @@ Unlike any other year, this year has got a wide(and wild) range of mobile operat
 Ubuntu phone:
 -------------
 
-[![](http://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd8/amXaC2F-fl4/s1600/ubphon.jpg)](http://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd8/amXaC2F-fl4/s1600/ubphon.jpg)
+[![](https://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd8/amXaC2F-fl4/s1600/ubphon.jpg)](https://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd8/amXaC2F-fl4/s1600/ubphon.jpg)
 
   
 
-Ubuntu existed to be an operating system for geeks but this situation changed as soon as Ubuntu switched to the new beautiful interface called "Unity". This eye-candiness is now available for mobile phones too. Besides its beauty, this mobile OS shows some great features based on their "ONE-OS-TO-RULE-THEM-ALL" strategy(them means the mobiles, desktops and smart TVs). To know more, [click here](http://www.technologyinfinite.blogspot.com/2013/03/ubuntu-phone.html).
+Ubuntu existed to be an operating system for geeks but this situation changed as soon as Ubuntu switched to the new beautiful interface called "Unity". This eye-candiness is now available for mobile phones too. Besides its beauty, this mobile OS shows some great features based on their "ONE-OS-TO-RULE-THEM-ALL" strategy(them means the mobiles, desktops and smart TVs). To know more, [click here](https://www.technologyinfinite.blogspot.com/2013/03/ubuntu-phone.html).
 
   
 
 Firefox:
 --------
 
-[![](http://3.bp.blogspot.com/-S_Xk5uMChwo/UVgi5FCs6mI/AAAAAAAAAfo/jTqFmD0kBho/s1600/firetouch.jpg)](http://3.bp.blogspot.com/-S_Xk5uMChwo/UVgi5FCs6mI/AAAAAAAAAfo/jTqFmD0kBho/s1600/firetouch.jpg)
+[![](https://3.bp.blogspot.com/-S_Xk5uMChwo/UVgi5FCs6mI/AAAAAAAAAfo/jTqFmD0kBho/s1600/firetouch.jpg)](https://3.bp.blogspot.com/-S_Xk5uMChwo/UVgi5FCs6mI/AAAAAAAAAfo/jTqFmD0kBho/s1600/firetouch.jpg)
 
   
 
@@ -39,7 +39,7 @@ Tizen:
 
   
 
-[![](http://4.bp.blogspot.com/-kAtYjxDZ1_A/UVg5W7byCmI/AAAAAAAAAf4/5S3n3LjlI-o/s1600/tizen-photo.jpg)](http://4.bp.blogspot.com/-kAtYjxDZ1_A/UVg5W7byCmI/AAAAAAAAAf4/5S3n3LjlI-o/s1600/tizen-photo.jpg)
+[![](https://4.bp.blogspot.com/-kAtYjxDZ1_A/UVg5W7byCmI/AAAAAAAAAf4/5S3n3LjlI-o/s1600/tizen-photo.jpg)](https://4.bp.blogspot.com/-kAtYjxDZ1_A/UVg5W7byCmI/AAAAAAAAAf4/5S3n3LjlI-o/s1600/tizen-photo.jpg)
 
   
 
@@ -50,7 +50,7 @@ This is the mobile operating system being developed by the present smartphone gi
 Sailfish OS Jolla:
 ------------------
 
-[![](http://4.bp.blogspot.com/-5p_h2jEE7tk/UVhyOco7LQI/AAAAAAAAAgQ/kkbSOBLZEgI/s320/175102-sailfishosdemo.jpg)](http://4.bp.blogspot.com/-5p_h2jEE7tk/UVhyOco7LQI/AAAAAAAAAgQ/kkbSOBLZEgI/s1600/175102-sailfishosdemo.jpg)
+[![](https://4.bp.blogspot.com/-5p_h2jEE7tk/UVhyOco7LQI/AAAAAAAAAgQ/kkbSOBLZEgI/s320/175102-sailfishosdemo.jpg)](https://4.bp.blogspot.com/-5p_h2jEE7tk/UVhyOco7LQI/AAAAAAAAAgQ/kkbSOBLZEgI/s1600/175102-sailfishosdemo.jpg)
 
   
 

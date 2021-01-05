@@ -8,7 +8,7 @@ tags : [update, Ubuntu, Software, BQ Aquaris E4.5, Ubuntu phone, Review]
 
   
 
-Source: [dedoimedo](http://dedoimedo.com/computers/ubuntu-phone-getting-better.html)  
+Source: [dedoimedo](https://dedoimedo.com/computers/ubuntu-phone-getting-better.html)  
   
 Ubuntu touch is constantly evolving from being a geek's (and space tourist's) dream to everyday reality. The BQ Aquaris E4.5 has received a recent update on Nov 20 and Igor Ljubuncic of dedoimedo has reviewed it as he found the end results refreshing enough to write an article.  
   
@@ -17,7 +17,7 @@ The new and improved 15.04 r25 upgrade brings a ton of immense improvements to t
 
 ### Update Process:
 
-[![update Ubuntu phone 15.04 r25](http://3.bp.blogspot.com/-njCXf6_SwnM/VlAxXjfo_yI/AAAAAAAAC5M/41pjTu-qf28/s1600/ubuntu-phone-updating-more.jpg "Update in Progress")](http://3.bp.blogspot.com/-njCXf6_SwnM/VlAxXjfo_yI/AAAAAAAAC5M/41pjTu-qf28/s1600/ubuntu-phone-updating-more.jpg)
+[![update Ubuntu phone 15.04 r25](https://3.bp.blogspot.com/-njCXf6_SwnM/VlAxXjfo_yI/AAAAAAAAC5M/41pjTu-qf28/s1600/ubuntu-phone-updating-more.jpg "Update in Progress")](https://3.bp.blogspot.com/-njCXf6_SwnM/VlAxXjfo_yI/AAAAAAAAC5M/41pjTu-qf28/s1600/ubuntu-phone-updating-more.jpg)
 
   
 
@@ -27,7 +27,7 @@ At first, Ubuntu struggled to boot as it spinned endlesslyin boot cycles. Finall
 
   
 
-[![Ubuntu phone 15.04 lockscreen launcher new](http://2.bp.blogspot.com/-pjcWx4wBKMM/VlAy0A2TYfI/AAAAAAAAC5o/uJeLLw6_WMs/s640/Ubuntu-new-lock-screen-launcher.jpg "Lock screen and Launcher")](http://2.bp.blogspot.com/-pjcWx4wBKMM/VlAy0A2TYfI/AAAAAAAAC5o/uJeLLw6_WMs/s1600/Ubuntu-new-lock-screen-launcher.jpg)
+[![Ubuntu phone 15.04 lockscreen launcher new](https://2.bp.blogspot.com/-pjcWx4wBKMM/VlAy0A2TYfI/AAAAAAAAC5o/uJeLLw6_WMs/s640/Ubuntu-new-lock-screen-launcher.jpg "Lock screen and Launcher")](https://2.bp.blogspot.com/-pjcWx4wBKMM/VlAy0A2TYfI/AAAAAAAAC5o/uJeLLw6_WMs/s1600/Ubuntu-new-lock-screen-launcher.jpg)
 
   
 
@@ -38,7 +38,7 @@ At first, Ubuntu struggled to boot as it spinned endlesslyin boot cycles. Finall
 
   
 
-[![Ubuntu phone 15.04 new hotspot](http://3.bp.blogspot.com/-jWxBwlz2xcc/VlA1VsutgrI/AAAAAAAAC6A/lzScSXvLMHw/s400/system-settings-hotspot-ubuntu.jpg "Hotspot in Ubuntu Phone")](http://3.bp.blogspot.com/-jWxBwlz2xcc/VlA1VsutgrI/AAAAAAAAC6A/lzScSXvLMHw/s1600/system-settings-hotspot-ubuntu.jpg)
+[![Ubuntu phone 15.04 new hotspot](https://3.bp.blogspot.com/-jWxBwlz2xcc/VlA1VsutgrI/AAAAAAAAC6A/lzScSXvLMHw/s400/system-settings-hotspot-ubuntu.jpg "Hotspot in Ubuntu Phone")](https://3.bp.blogspot.com/-jWxBwlz2xcc/VlA1VsutgrI/AAAAAAAAC6A/lzScSXvLMHw/s1600/system-settings-hotspot-ubuntu.jpg)
 
   
 
@@ -48,7 +48,7 @@ The most critical piece of any mobile device - the apps - has also received a fr
 
   
 
-[![Ubuntu phone 15.04 apps new look here](http://4.bp.blogspot.com/-YT5v9dnVW7E/VlA10-W9TnI/AAAAAAAAC6I/tO609riPMNU/s400/apps-clock-new-ubuntu.jpg "Apps made better")](http://4.bp.blogspot.com/-YT5v9dnVW7E/VlA10-W9TnI/AAAAAAAAC6I/tO609riPMNU/s1600/apps-clock-new-ubuntu.jpg)
+[![Ubuntu phone 15.04 apps new look here](https://4.bp.blogspot.com/-YT5v9dnVW7E/VlA10-W9TnI/AAAAAAAAC6I/tO609riPMNU/s400/apps-clock-new-ubuntu.jpg "Apps made better")](https://4.bp.blogspot.com/-YT5v9dnVW7E/VlA10-W9TnI/AAAAAAAAC6I/tO609riPMNU/s1600/apps-clock-new-ubuntu.jpg)
 
   
 
@@ -70,7 +70,7 @@ Significantly improved. However the battery app isn't much user friendly. There 
 
   
 
-[![Ubuntu phone 15.04 battery improved](http://3.bp.blogspot.com/-ikGjrVpqQu8/VlA3q6b4koI/AAAAAAAAC6U/Q8V7JpLoxjA/s400/Battery-life-ubuntu-touch.jpg "Ubuntu phone Battery life")](http://3.bp.blogspot.com/-ikGjrVpqQu8/VlA3q6b4koI/AAAAAAAAC6U/Q8V7JpLoxjA/s1600/Battery-life-ubuntu-touch.jpg)
+[![Ubuntu phone 15.04 battery improved](https://3.bp.blogspot.com/-ikGjrVpqQu8/VlA3q6b4koI/AAAAAAAAC6U/Q8V7JpLoxjA/s400/Battery-life-ubuntu-touch.jpg "Ubuntu phone Battery life")](https://3.bp.blogspot.com/-ikGjrVpqQu8/VlA3q6b4koI/AAAAAAAAC6U/Q8V7JpLoxjA/s1600/Battery-life-ubuntu-touch.jpg)
 
   
 

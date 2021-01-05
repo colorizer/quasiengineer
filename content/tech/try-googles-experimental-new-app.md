@@ -8,7 +8,7 @@ tags : [How To's, data, settings, Software, Google, cookies, interface, Search e
 
 Google is currently testing a new interface for its search engine. Its planning to replace the top black bar with a simpler navigation menu which is compact and includes fewer services.  
 
-[![](http://2.bp.blogspot.com/-qf2HXtuhraE/UWy9dl4uX5I/AAAAAAAAA3c/cIJH1w-V8bk/s1600/google-new-navbar-3.png)](http://2.bp.blogspot.com/-qf2HXtuhraE/UWy9dl4uX5I/AAAAAAAAA3c/cIJH1w-V8bk/s1600/google-new-navbar-3.png)
+[![](https://2.bp.blogspot.com/-qf2HXtuhraE/UWy9dl4uX5I/AAAAAAAAA3c/cIJH1w-V8bk/s1600/google-new-navbar-3.png)](https://2.bp.blogspot.com/-qf2HXtuhraE/UWy9dl4uX5I/AAAAAAAAA3c/cIJH1w-V8bk/s1600/google-new-navbar-3.png)
 
   
 
@@ -19,10 +19,10 @@ _Warning:_ Please note that the experiment is only available at google.com and 
 
 ### Chrome:
 
-[![](http://3.bp.blogspot.com/-3Rpwibxch48/UWy_zoZgcRI/AAAAAAAAA3s/iKlKsqlNulQ/s1600/chrome-edit-cookie.png)](http://3.bp.blogspot.com/-3Rpwibxch48/UWy_zoZgcRI/AAAAAAAAA3s/iKlKsqlNulQ/s1600/chrome-edit-cookie.png)
+[![](https://3.bp.blogspot.com/-3Rpwibxch48/UWy_zoZgcRI/AAAAAAAAA3s/iKlKsqlNulQ/s1600/chrome-edit-cookie.png)](https://3.bp.blogspot.com/-3Rpwibxch48/UWy_zoZgcRI/AAAAAAAAA3s/iKlKsqlNulQ/s1600/chrome-edit-cookie.png)
 
-1.  Install the "[Edit This Cookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg)" extension.
-2.  Open [www.google.com](http://www.google.com/) in new tab.
+1.  Install the "[Edit This Cookie](httpss://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg)" extension.
+2.  Open [www.google.com](https://www.google.com/) in new tab.
 3.  Click "Edit this Cookie" button from the chrome bar
 4.  Find the "NID" item and select it.
 5.  Replace the "value" text with NID cookie value (given below) and click "Submit Cookie changes".
@@ -30,8 +30,8 @@ _Warning:_ Please note that the experiment is only available at google.com and 
 
 ### Firefox:
 
-1.  Install the "[Cookie Manager+](https://addons.mozilla.org/firefox/addon/cookies-manager-plus/)" and restart the browser.
-2.  Open [Google](http://www.google.com/) in a new tab.
+1.  Install the "[Cookie Manager+](httpss://addons.mozilla.org/firefox/addon/cookies-manager-plus/)" and restart the browser.
+2.  Open [Google](https://www.google.com/) in a new tab.
 3.  Click the Firefox menu, Select the Web Developer > Cookies Manager+
 4.  Find the NID value for the google.com, click it and select "Edit"
 5.  Replace the content with the NID cookie value (given below) and click Save and then Close
@@ -39,7 +39,7 @@ _Warning:_ Please note that the experiment is only available at google.com and 
 
 ### Opera:
 
-1.  Open [www.google.com](http://www.google.com/) in a new tab
+1.  Open [www.google.com](https://www.google.com/) in a new tab
 2.  Right-click the page and select "Edit site preferences"
 3.  Go to the Cookies tab.
 4.  Find the Cookies value that start with NID, select it and click Edit
@@ -60,4 +60,4 @@ You will now be using the new compact interface of google.com.
 
   
 
-Data-source: [Google System](http://googlesystem.blogspot.in/2013/04/try-googles-experimental-app-launcher.html).
+Data-source: [Google System](https://googlesystem.blogspot.in/2013/04/try-googles-experimental-app-launcher.html).

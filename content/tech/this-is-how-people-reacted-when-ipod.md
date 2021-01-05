@@ -6,17 +6,17 @@ aliases: [ "/2015/10/this-is-how-people-reacted-when-ipod.html" ]
 tags : [Gadgets, Reddit, Apple, iPod]
 ---
 
-[![](http://3.bp.blogspot.com/-orfbKKwoU8A/Viyn7nqEn2I/AAAAAAAAC10/C_bsT2MirfI/s640/SayHelloToiPod.jpeg)](http://3.bp.blogspot.com/-orfbKKwoU8A/Viyn7nqEn2I/AAAAAAAAC10/C_bsT2MirfI/s1600/SayHelloToiPod.jpeg)
+[![](https://3.bp.blogspot.com/-orfbKKwoU8A/Viyn7nqEn2I/AAAAAAAAC10/C_bsT2MirfI/s640/SayHelloToiPod.jpeg)](https://3.bp.blogspot.com/-orfbKKwoU8A/Viyn7nqEn2I/AAAAAAAAC10/C_bsT2MirfI/s1600/SayHelloToiPod.jpeg)
 
   
-I recently came across an interesting post in Reddit. [djberto,](https://www.reddit.com/user/djberto) a Redditor, has shared a link to a forum talk which happened exactly 14 years ago when iPod was first released.  
+I recently came across an interesting post in Reddit. [djberto,](httpss://www.reddit.com/user/djberto) a Redditor, has shared a link to a forum talk which happened exactly 14 years ago when iPod was first released.  
 Today people are hailing Apple's products as innovative and as the thing that changed the Electronic Industry. But that day?!  
   
 Here are some excerpts:  
 
-> "Sounds very revolutionary to me. ![:mad:](http://forums.macrumors.com/styles/default/xenforo/clear.png "Mad    :mad:")  
+> "Sounds very revolutionary to me. ![:mad:](https://forums.macrumors.com/styles/default/xenforo/clear.png "Mad    :mad:")  
 >   
-> hey - heres an idea Apple - rather than enter the world of gimmicks and toys, why dont you spend a little more time sorting out your pathetically expensive and crap server line up? ![:mad:](http://forums.macrumors.com/styles/default/xenforo/clear.png "Mad    :mad:")  
+> hey - heres an idea Apple - rather than enter the world of gimmicks and toys, why dont you spend a little more time sorting out your pathetically expensive and crap server line up? ![:mad:](https://forums.macrumors.com/styles/default/xenforo/clear.png "Mad    :mad:")  
 > or are you really aiming to become a glorified consumer gimmicks firm?"
 
 Another one claimed that this is not revolutionary!  
@@ -58,10 +58,10 @@ And this is how I expected a normal person (In my point of view) would react!
 >   
 > I've seen one of the other HD music players and it probably weights double what the iPod weights, as well as being much thicker and bulkier, like a brick basically."
 
-[![](http://3.bp.blogspot.com/-H82NA-PIkZI/ViyoMXVx28I/AAAAAAAAC18/cl1SS-hIPOg/s1600/2003_sillouhette.jpg)](http://3.bp.blogspot.com/-H82NA-PIkZI/ViyoMXVx28I/AAAAAAAAC18/cl1SS-hIPOg/s1600/2003_sillouhette.jpg)
+[![](https://3.bp.blogspot.com/-H82NA-PIkZI/ViyoMXVx28I/AAAAAAAAC18/cl1SS-hIPOg/s1600/2003_sillouhette.jpg)](https://3.bp.blogspot.com/-H82NA-PIkZI/ViyoMXVx28I/AAAAAAAAC18/cl1SS-hIPOg/s1600/2003_sillouhette.jpg)
 
   
-Though, these all are funny and wierd, it represents how fast our life is changing. A commentor mentioned that he could get 20gigs for $200. Well, now we can get 2TB for less than $100. As one [redditor](https://www.reddit.com/r/technology/comments/3q3mg9/14_years_ago_steve_jobs_announced_the_ipod_and/cwbyf36) puts it, "Things are changing, and while it might not seem amazing as you live your life through it, if you can gain a little perspective, things start to be incredible."  
+Though, these all are funny and wierd, it represents how fast our life is changing. A commentor mentioned that he could get 20gigs for $200. Well, now we can get 2TB for less than $100. As one [redditor](httpss://www.reddit.com/r/technology/comments/3q3mg9/14_years_ago_steve_jobs_announced_the_ipod_and/cwbyf36) puts it, "Things are changing, and while it might not seem amazing as you live your life through it, if you can gain a little perspective, things start to be incredible."  
   
-If iPod can change from this to what its now, who knows what can happen? May be, we will be wearing [Nike's new SciFi shoes](http://technologyinfinite.blogspot.in/2015/10/nike-brings-back-to-future-shoes-alive.html) next year by this time!!  
-[Here's](http://forums.macrumors.com/threads/apples-new-thing-ipod.500/) the link for Forum and [here's](https://www.reddit.com/r/technology/comments/3q3mg9/14_years_ago_steve_jobs_announced_the_ipod_and/) the link for Reddit post! Both are fun to read.
+If iPod can change from this to what its now, who knows what can happen? May be, we will be wearing [Nike's new SciFi shoes](https://technologyinfinite.blogspot.in/2015/10/nike-brings-back-to-future-shoes-alive.html) next year by this time!!  
+[Here's](https://forums.macrumors.com/threads/apples-new-thing-ipod.500/) the link for Forum and [here's](httpss://www.reddit.com/r/technology/comments/3q3mg9/14_years_ago_steve_jobs_announced_the_ipod_and/) the link for Reddit post! Both are fun to read.

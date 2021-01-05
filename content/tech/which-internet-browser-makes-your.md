@@ -6,9 +6,9 @@ aliases: [ "/2014/01/which-internet-browser-makes-your.html" ]
 tags : [How To's, Battery, Firefox 26, peacekeeper battery test, Toshiba Encore 8", Opera 18, Internet Explorer 11, Software, Chrome 32, HP Pavilion dv 7, Microsoft Surface Pro 2]
 ---
 
-Internet Explorer. Yeah, you heard it right. In the recent tests run by the [7tutorials](http://www.7tutorials.com/), the recent version of internet explorer has outscored other browsers by even hours.  
+Internet Explorer. Yeah, you heard it right. In the recent tests run by the [7tutorials](https://www.7tutorials.com/), the recent version of internet explorer has outscored other browsers by even hours.  
 
-[![](http://2.bp.blogspot.com/-wnBGOXk-3I4/UujxMswS1WI/AAAAAAAACNA/2rFJV7o7R4A/s1600/browser_battery1.png)](http://2.bp.blogspot.com/-wnBGOXk-3I4/UujxMswS1WI/AAAAAAAACNA/2rFJV7o7R4A/s1600/browser_battery1.png)
+[![](https://2.bp.blogspot.com/-wnBGOXk-3I4/UujxMswS1WI/AAAAAAAACNA/2rFJV7o7R4A/s1600/browser_battery1.png)](https://2.bp.blogspot.com/-wnBGOXk-3I4/UujxMswS1WI/AAAAAAAACNA/2rFJV7o7R4A/s1600/browser_battery1.png)
 
   
 For the testing procedure, he took three devices, both old and new.  
@@ -27,4 +27,4 @@ Opera 18 had given the worst battery life in all these devices.
 
 All these devices had Windows 8.1 installed. So, if you want a little longer browsing experience in your windows device, opt for Internet Explorer 11.  
 
-[![](http://4.bp.blogspot.com/-kLeP4DM5Rgc/Uuj9x0inDHI/AAAAAAAACNQ/LeaD-SjoDbY/s1600/ie_king.jpg)](http://4.bp.blogspot.com/-kLeP4DM5Rgc/Uuj9x0inDHI/AAAAAAAACNQ/LeaD-SjoDbY/s1600/ie_king.jpg)
+[![](https://4.bp.blogspot.com/-kLeP4DM5Rgc/Uuj9x0inDHI/AAAAAAAACNQ/LeaD-SjoDbY/s1600/ie_king.jpg)](https://4.bp.blogspot.com/-kLeP4DM5Rgc/Uuj9x0inDHI/AAAAAAAACNQ/LeaD-SjoDbY/s1600/ie_king.jpg)

@@ -6,7 +6,7 @@ aliases: [ "/2013/04/next-generation-of-computers-carbon-era.html" ]
 tags : [Silicon, IBM, Moore's law, Carbon nanotubes, Graphene, Electrical, Semiconductors, carbon chips, Technology, Gadgets, smartphone, Intel]
 ---
 
-[![](http://1.bp.blogspot.com/-plCmKEXJOig/UVwYQkEjchI/AAAAAAAAAl4/XjpICX_iAzs/s1600/carbon-nanotube-computer-chip-537x301.jpg)](http://1.bp.blogspot.com/-plCmKEXJOig/UVwYQkEjchI/AAAAAAAAAl4/XjpICX_iAzs/s1600/carbon-nanotube-computer-chip-537x301.jpg)
+[![](https://1.bp.blogspot.com/-plCmKEXJOig/UVwYQkEjchI/AAAAAAAAAl4/XjpICX_iAzs/s1600/carbon-nanotube-computer-chip-537x301.jpg)](https://1.bp.blogspot.com/-plCmKEXJOig/UVwYQkEjchI/AAAAAAAAAl4/XjpICX_iAzs/s1600/carbon-nanotube-computer-chip-537x301.jpg)
 
   
 
@@ -21,7 +21,7 @@ This Moore's law seemed obvious once the silicon chip's size changed from '_hand
 Smaller to much Smaller - The desirable choice:
 -----------------------------------------------
 
-[![](http://1.bp.blogspot.com/-Cic9bSEpG20/UVwuE1LjYNI/AAAAAAAAAmQ/IrA_Am_WhAc/s320/ImageForArticle_296.jpg)](http://1.bp.blogspot.com/-Cic9bSEpG20/UVwuE1LjYNI/AAAAAAAAAmQ/IrA_Am_WhAc/s1600/ImageForArticle_296.jpg)
+[![](https://1.bp.blogspot.com/-Cic9bSEpG20/UVwuE1LjYNI/AAAAAAAAAmQ/IrA_Am_WhAc/s320/ImageForArticle_296.jpg)](https://1.bp.blogspot.com/-Cic9bSEpG20/UVwuE1LjYNI/AAAAAAAAAmQ/IrA_Am_WhAc/s1600/ImageForArticle_296.jpg)
 
   
 
@@ -38,7 +38,7 @@ But, this does not come that much easy. To see the Carbon nanotubes and nanowire
 
   
 
-[![](http://3.bp.blogspot.com/-xz4ZfbjGkG4/UVwYaBc5DwI/AAAAAAAAAmA/JVHlNgczZQw/s1600/Carbon_Nanotubes.jpg)](http://3.bp.blogspot.com/-xz4ZfbjGkG4/UVwYaBc5DwI/AAAAAAAAAmA/JVHlNgczZQw/s1600/Carbon_Nanotubes.jpg)
+[![](https://3.bp.blogspot.com/-xz4ZfbjGkG4/UVwYaBc5DwI/AAAAAAAAAmA/JVHlNgczZQw/s1600/Carbon_Nanotubes.jpg)](https://3.bp.blogspot.com/-xz4ZfbjGkG4/UVwYaBc5DwI/AAAAAAAAAmA/JVHlNgczZQw/s1600/Carbon_Nanotubes.jpg)
 
   
 

@@ -9,7 +9,7 @@ tags : [Google, Google Now, Google Drive, Cloud Storage, Google Maps, Google ear
 So Google I/O is finally happening! All you need is a post that keeps you updated with what is happening and here it is - from the start to end!  
   
 
-[![](http://4.bp.blogspot.com/-fS7XthLPPtc/UZPKVzkjH8I/AAAAAAAABcs/T0rUnZYpRpQ/s1600/Google-I-O-13.jpg)](http://4.bp.blogspot.com/-fS7XthLPPtc/UZPKVzkjH8I/AAAAAAAABcs/T0rUnZYpRpQ/s1600/Google-I-O-13.jpg)
+[![](https://4.bp.blogspot.com/-fS7XthLPPtc/UZPKVzkjH8I/AAAAAAAABcs/T0rUnZYpRpQ/s1600/Google-I-O-13.jpg)](https://4.bp.blogspot.com/-fS7XthLPPtc/UZPKVzkjH8I/AAAAAAAABcs/T0rUnZYpRpQ/s1600/Google-I-O-13.jpg)
 
   
   

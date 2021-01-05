@@ -11,15 +11,15 @@ But now, people are starting to realise the side effects of these efforts as the
 To see it, take a look at these photos that astronauts snapped of the bustling city of Milan.  
 Before Milan transitioned to LEDs, in 2012, the lighting levels in the surrounding suburbs were about the same as those of the city center.  
 
-[![](http://static6.techinsider.io/image/55cba7e9371d2212008bf462-1280-852/milan_2012_skitch.png)](http://static6.techinsider.io/image/55cba7e9371d2212008bf462-1280-852/milan_2012_skitch.png)
+[![](https://static6.techinsider.io/image/55cba7e9371d2212008bf462-1280-852/milan_2012_skitch.png)](https://static6.techinsider.io/image/55cba7e9371d2212008bf462-1280-852/milan_2012_skitch.png)
 
   
  But by 2015, after the city transitioned to LEDs, illumination levels in the city center were much brighter than those of the suburbs, with a higher amount of blue light.  
 
-[![](http://static4.techinsider.io/image/55cba81a371d22462c8bd198-1280-852/milan_2015_skitch.png)](http://static4.techinsider.io/image/55cba81a371d22462c8bd198-1280-852/milan_2015_skitch.png)
+[![](https://static4.techinsider.io/image/55cba81a371d22462c8bd198-1280-852/milan_2015_skitch.png)](https://static4.techinsider.io/image/55cba81a371d22462c8bd198-1280-852/milan_2015_skitch.png)
 
  Cities around the world have been replacing energy-guzzling streetlights with brighter and whiter energy-saving LEDs. In fact, New York City is retrofitting all of its 250,000 street lights with LEDs. However these energy savings have resulted in unhappy dwellers.  
 LEDs worsen light pollution by giving off more blue and green light than the high-pressure sodium lights they normally replace. This disrupts night and day cycles which can confuse nocturnal animals and alter their hunting interactions, migratory patterns, and internal physiology.  
 It can also mess with our internal clocks. We produce melatonin at night to help us sleep, which is regulated by light and dark cycles. If we're exposed to light at night, this can suppress melatonin levels, leading to sleep disorders or other problems such as headaches, anxiety, and obesity.  
   
-SOURCE: [Tech Insider](http://www.techinsider.io/astronaut-photos-light-polution-led-nasa-esa-2015-8)
+SOURCE: [Tech Insider](https://www.techinsider.io/astronaut-photos-light-polution-led-nasa-esa-2015-8)

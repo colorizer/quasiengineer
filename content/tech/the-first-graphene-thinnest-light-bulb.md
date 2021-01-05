@@ -20,9 +20,9 @@ But, Graphene is so different from them in the fact that it is a good conductor 
 
 ### How it works?
 
-[![](http://motherboard-images.vice.com/content-images/contentimage/22930/1434859666269281.jpg)](http://motherboard-images.vice.com/content-images/contentimage/22930/1434859666269281.jpg)
+[![](https://motherboard-images.vice.com/content-images/contentimage/22930/1434859666269281.jpg)](https://motherboard-images.vice.com/content-images/contentimage/22930/1434859666269281.jpg)
 
-However Graphene has a different property by which its thermal conductivity decreases greatly as the temperature exceeds a certain level. So, as the thermal conductivity of graphene starts to drop precipitously, it becomes possible to heat the material beyond those previous limits and to the point where it's manifested as visible light. The researchers have used this property(with lots of science behind it) called [Umklapp scattering](https://en.wikipedia.org/wiki/Umklapp_scattering) and made the first ever graphene bulb.
+However Graphene has a different property by which its thermal conductivity decreases greatly as the temperature exceeds a certain level. So, as the thermal conductivity of graphene starts to drop precipitously, it becomes possible to heat the material beyond those previous limits and to the point where it's manifested as visible light. The researchers have used this property(with lots of science behind it) called [Umklapp scattering](httpss://en.wikipedia.org/wiki/Umklapp_scattering) and made the first ever graphene bulb.
 
   
 

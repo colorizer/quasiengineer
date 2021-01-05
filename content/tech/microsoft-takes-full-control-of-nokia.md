@@ -6,7 +6,7 @@ aliases: [ "/2014/04/microsoft-takes-full-control-of-nokia.html" ]
 tags : [Gadgets, Microsoft, Nokia, Lumia, Asha, Nokia X, News]
 ---
 
-[![](http://1.bp.blogspot.com/-A2Y6oQTJzf8/U1pW2iE5UDI/AAAAAAAACSs/hgJjCuIqZEY/s1600/PicsArt_1398429463445.jpg)](http://1.bp.blogspot.com/-A2Y6oQTJzf8/U1pW2iE5UDI/AAAAAAAACSs/hgJjCuIqZEY/s1600/PicsArt_1398429463445.jpg)
+[![](https://1.bp.blogspot.com/-A2Y6oQTJzf8/U1pW2iE5UDI/AAAAAAAACSs/hgJjCuIqZEY/s1600/PicsArt_1398429463445.jpg)](https://1.bp.blogspot.com/-A2Y6oQTJzf8/U1pW2iE5UDI/AAAAAAAACSs/hgJjCuIqZEY/s1600/PicsArt_1398429463445.jpg)
 
   
 

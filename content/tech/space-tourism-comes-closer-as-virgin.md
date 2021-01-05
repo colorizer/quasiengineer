@@ -6,7 +6,7 @@ aliases: [ "/2013/05/space-tourism-comes-closer-as-virgin.html" ]
 tags : [launcher, latest, Machine, Spaceship Two, Digital life, Scientific, ship, space, Technology, flight, Virgin Galactic]
 ---
 
-[![](http://2.bp.blogspot.com/-Y2fs4iJYBEM/UYURIH98siI/AAAAAAAABQY/Fetw-nJUUr8/s640/virginGalactic.jpg)](http://2.bp.blogspot.com/-Y2fs4iJYBEM/UYURIH98siI/AAAAAAAABQY/Fetw-nJUUr8/s1600/virginGalactic.jpg)
+[![](https://2.bp.blogspot.com/-Y2fs4iJYBEM/UYURIH98siI/AAAAAAAABQY/Fetw-nJUUr8/s640/virginGalactic.jpg)](https://2.bp.blogspot.com/-Y2fs4iJYBEM/UYURIH98siI/AAAAAAAABQY/Fetw-nJUUr8/s1600/virginGalactic.jpg)
 
   
 When I looked at this photo of Virgin Galactic's ship, I thought it was some part of a science fiction movie. But, it isn't. It is actually a photo of reality invented out of sci-fi. Space came just a little bit closer for the everyman this week, as Virgin Galactic's ship made one 1,470kph-leap towards space in its first successful flying rocket test.  

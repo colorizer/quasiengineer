@@ -6,7 +6,7 @@ aliases: [ "/2013/04/motorola-x-phone-googles-new-phone.html" ]
 tags : [Gadgets, flexible display, Google, key lime pie, Nexus 5, Tegra 4i, smartphone, Android 5.0, Mobile, Motorola X Phone, Technology]
 ---
 
-[![](http://1.bp.blogspot.com/-AWJVJ-AgNo8/UV1llHbrBSI/AAAAAAAAAo4/v2ylIT1q-J4/s400/Motorola_X_phone_concept-490x489.jpg)](http://1.bp.blogspot.com/-AWJVJ-AgNo8/UV1llHbrBSI/AAAAAAAAAo4/v2ylIT1q-J4/s1600/Motorola_X_phone_concept-490x489.jpg)
+[![](https://1.bp.blogspot.com/-AWJVJ-AgNo8/UV1llHbrBSI/AAAAAAAAAo4/v2ylIT1q-J4/s400/Motorola_X_phone_concept-490x489.jpg)](https://1.bp.blogspot.com/-AWJVJ-AgNo8/UV1llHbrBSI/AAAAAAAAAo4/v2ylIT1q-J4/s1600/Motorola_X_phone_concept-490x489.jpg)
 
   
 It has been so long since Google acquired Motorola and now the rumors of a Google Motorola device is at its peeks. Some said that the "Motorola X Phone" will be the next "Nexus" device but, at last, it is revealed that the X Phone will not be a part of Nexus series. However, whether it is a nexus device or not, we can be sure of some high-end features appearing in Motorola X Phone. Here are some specs that we can be sure of.  
@@ -15,7 +15,7 @@ It has been so long since Google acquired Motorola and now the rumors of a Googl
 Insanely Great Cameras:
 -----------------------
 
-[![](http://2.bp.blogspot.com/-GE1uhfXlVVE/UV1jxX1TRCI/AAAAAAAAAoc/SpIZA73Q5Ds/s400/motor.png)](http://2.bp.blogspot.com/-GE1uhfXlVVE/UV1jxX1TRCI/AAAAAAAAAoc/SpIZA73Q5Ds/s1600/motor.png)
+[![](https://2.bp.blogspot.com/-GE1uhfXlVVE/UV1jxX1TRCI/AAAAAAAAAoc/SpIZA73Q5Ds/s400/motor.png)](https://2.bp.blogspot.com/-GE1uhfXlVVE/UV1jxX1TRCI/AAAAAAAAAoc/SpIZA73Q5Ds/s1600/motor.png)
 
   
 
@@ -28,7 +28,7 @@ So, as Motorola X Phone is the next Google device, we can expect it to compete a
 Flexible HD Waterproof Display:
 -------------------------------
 
-[![](http://4.bp.blogspot.com/-O-cJ9Zh24no/UV1OMOqN_eI/AAAAAAAAAoE/747Vxys9go4/s640/NextNexux.jpg)](http://4.bp.blogspot.com/-O-cJ9Zh24no/UV1OMOqN_eI/AAAAAAAAAoE/747Vxys9go4/s1600/NextNexux.jpg)
+[![](https://4.bp.blogspot.com/-O-cJ9Zh24no/UV1OMOqN_eI/AAAAAAAAAoE/747Vxys9go4/s640/NextNexux.jpg)](https://4.bp.blogspot.com/-O-cJ9Zh24no/UV1OMOqN_eI/AAAAAAAAAoE/747Vxys9go4/s1600/NextNexux.jpg)
 
   
 
@@ -44,7 +44,7 @@ There is also a rumour that this phone will not have any borders for display suc
 Grey Processor:
 ---------------
 
-[![](http://3.bp.blogspot.com/-njhgUOSANvc/UV1j6KL9rlI/AAAAAAAAAok/IGIawU35mow/s400/Tegra-4i-in-Phoenix-Reference-Phone-Teardown.jpg)](http://3.bp.blogspot.com/-njhgUOSANvc/UV1j6KL9rlI/AAAAAAAAAok/IGIawU35mow/s1600/Tegra-4i-in-Phoenix-Reference-Phone-Teardown.jpg)
+[![](https://3.bp.blogspot.com/-njhgUOSANvc/UV1j6KL9rlI/AAAAAAAAAok/IGIawU35mow/s400/Tegra-4i-in-Phoenix-Reference-Phone-Teardown.jpg)](https://3.bp.blogspot.com/-njhgUOSANvc/UV1j6KL9rlI/AAAAAAAAAok/IGIawU35mow/s1600/Tegra-4i-in-Phoenix-Reference-Phone-Teardown.jpg)
 
   
 
@@ -55,7 +55,7 @@ I'm not speaking about the colour of the processor but it is the code name of th
 Android 5.0:
 ------------
 
-[![](http://2.bp.blogspot.com/-PDg3S_7ozcE/UV1kOLrz1fI/AAAAAAAAAos/u6noki86X08/s400/keyLime.png)](http://2.bp.blogspot.com/-PDg3S_7ozcE/UV1kOLrz1fI/AAAAAAAAAos/u6noki86X08/s1600/keyLime.png)
+[![](https://2.bp.blogspot.com/-PDg3S_7ozcE/UV1kOLrz1fI/AAAAAAAAAos/u6noki86X08/s400/keyLime.png)](https://2.bp.blogspot.com/-PDg3S_7ozcE/UV1kOLrz1fI/AAAAAAAAAos/u6noki86X08/s1600/keyLime.png)
 
   
 

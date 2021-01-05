@@ -14,7 +14,7 @@ App. Here is the official launch video.
 Even though some useful features like swipe upward to launch Google Now is not shipped to iOS due to its closed ecosystem, its services is exactly same as Google Now in Android. So how does this work?  
   
 
-[![](http://4.bp.blogspot.com/-U_SMHL8OOLg/UX6rKuzI0sI/AAAAAAAABJk/V1eD9C1C_b4/s1600/google-now-ios.jpg)](http://4.bp.blogspot.com/-U_SMHL8OOLg/UX6rKuzI0sI/AAAAAAAABJk/V1eD9C1C_b4/s1600/google-now-ios.jpg)
+[![](https://4.bp.blogspot.com/-U_SMHL8OOLg/UX6rKuzI0sI/AAAAAAAABJk/V1eD9C1C_b4/s1600/google-now-ios.jpg)](https://4.bp.blogspot.com/-U_SMHL8OOLg/UX6rKuzI0sI/AAAAAAAABJk/V1eD9C1C_b4/s1600/google-now-ios.jpg)
 
   
   
@@ -22,7 +22,7 @@ Well, once Google Now learns where you work, live, what you’re interested in, 
   
 Google Now knows when there’s a disruption to your train’s service or a pile-up on the highway you take to work, and tells you to leave a bit earlier that day.  
   
-If you’re traveling, Google Now helps you find things to do nearby and provides translation to keep you in the loop. As Gultekin put it so eloquently, “during travel is when our users need us most, and we want to give them the best experience possible when traveling.”[](http://techcrunch.com/2013/04/29/google-now-launches-on-ios/devices-hires-ios/)[](http://techcrunch.com/2013/04/29/google-now-launches-on-ios/london-attractions/)[](http://techcrunch.com/2013/04/29/google-now-launches-on-ios/san-francisco-home/)  
+If you’re traveling, Google Now helps you find things to do nearby and provides translation to keep you in the loop. As Gultekin put it so eloquently, “during travel is when our users need us most, and we want to give them the best experience possible when traveling.”[](https://techcrunch.com/2013/04/29/google-now-launches-on-ios/devices-hires-ios/)[](https://techcrunch.com/2013/04/29/google-now-launches-on-ios/london-attractions/)[](https://techcrunch.com/2013/04/29/google-now-launches-on-ios/san-francisco-home/)  
   
 There are a whole host of “cards” that integrate with all of Google’s services to provide the most complete and detailed information to get through your day, tailored entirely to your little world. There are, however, a few Google Now cards that aren't available on iOS, including Boarding Pass, Activity Summary, Events, Zillow, Fandango, Concerts, and Nearby Events.
 

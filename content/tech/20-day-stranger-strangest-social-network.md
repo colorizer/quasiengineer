@@ -8,7 +8,7 @@ tags : [Software, App, social network]
 
   
 
-![](http://1.bp.blogspot.com/-USedhNKroH4/U6GyHlD00_I/AAAAAAAACUU/qoklyvhvisA/s1600/20140618201945.jpg)
+![](https://1.bp.blogspot.com/-USedhNKroH4/U6GyHlD00_I/AAAAAAAACUU/qoklyvhvisA/s1600/20140618201945.jpg)
 
   
 What do you usually talk to your friend over phone when he/she is separated by distance? Mine would be about the weather, what-did-you-do, where-n-all-did-you-go, blah, blah, blah.  

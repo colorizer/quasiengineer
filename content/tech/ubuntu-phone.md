@@ -6,7 +6,7 @@ aliases: [ "/2013/03/ubuntu-phone.html" ]
 tags : [Ubuntu tablets, Linux, Ubuntu touch, Software, Ubuntu phone, Phone, smartphone, Mobile, Technology]
 ---
 
-[![](http://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd4/vi0fdrb1imM/s1600/ubphon.jpg)](http://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd4/vi0fdrb1imM/s1600/ubphon.jpg)
+[![](https://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd4/vi0fdrb1imM/s1600/ubphon.jpg)](https://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd4/vi0fdrb1imM/s1600/ubphon.jpg)
 
 This one mobile OS made quite a buzz previously with its elegant design and dock to run desktop features as they say on their web site "Your phone is more immersive, the screen is less cluttered, and you flow naturally from app to app with edge magic. The phone becomes a full PC and thin client when docked." Let us see what they are offering.  
   
@@ -18,7 +18,7 @@ This one mobile OS made quite a buzz previously with its elegant design and dock
 The Welcome Screen:
 -------------------
 
-[![](http://4.bp.blogspot.com/-FJ3uE7DSjnI/UVgS2sstRJI/AAAAAAAAAeY/XTtRN7paiNA/s1600/ubuntu-phone-os-3.jpg)](http://4.bp.blogspot.com/-FJ3uE7DSjnI/UVgS2sstRJI/AAAAAAAAAeY/XTtRN7paiNA/s1600/ubuntu-phone-os-3.jpg)
+[![](https://4.bp.blogspot.com/-FJ3uE7DSjnI/UVgS2sstRJI/AAAAAAAAAeY/XTtRN7paiNA/s1600/ubuntu-phone-os-3.jpg)](https://4.bp.blogspot.com/-FJ3uE7DSjnI/UVgS2sstRJI/AAAAAAAAAeY/XTtRN7paiNA/s1600/ubuntu-phone-os-3.jpg)
 
   
 
@@ -29,7 +29,7 @@ While Samsung and Apple fought for patents including that for the Lock screen, U
 Apps at your Fingertips(the edge magic):
 ----------------------------------------
 
-[![](http://3.bp.blogspot.com/-zmv83e0QMzY/UVgPtlTUTDI/AAAAAAAAAeI/tNL5cdCHapU/s1600/ubuntu-mobile-multitasking-550x484.jpg)](http://3.bp.blogspot.com/-zmv83e0QMzY/UVgPtlTUTDI/AAAAAAAAAeI/tNL5cdCHapU/s1600/ubuntu-mobile-multitasking-550x484.jpg)
+[![](https://3.bp.blogspot.com/-zmv83e0QMzY/UVgPtlTUTDI/AAAAAAAAAeI/tNL5cdCHapU/s1600/ubuntu-mobile-multitasking-550x484.jpg)](https://3.bp.blogspot.com/-zmv83e0QMzY/UVgPtlTUTDI/AAAAAAAAAeI/tNL5cdCHapU/s1600/ubuntu-mobile-multitasking-550x484.jpg)
 
   
 
@@ -48,7 +48,7 @@ Apps has always been at your fingertips but it has never been easier like this.
 App ecosystem:
 --------------
 
-[![](http://2.bp.blogspot.com/-WvCbFTXJrVE/UVgVPRV6a-I/AAAAAAAAAek/qgtZunwgw24/s1600/App-dev-tablet-GoMobile.png)](http://2.bp.blogspot.com/-WvCbFTXJrVE/UVgVPRV6a-I/AAAAAAAAAek/qgtZunwgw24/s1600/App-dev-tablet-GoMobile.png)
+[![](https://2.bp.blogspot.com/-WvCbFTXJrVE/UVgVPRV6a-I/AAAAAAAAAek/qgtZunwgw24/s1600/App-dev-tablet-GoMobile.png)](https://2.bp.blogspot.com/-WvCbFTXJrVE/UVgVPRV6a-I/AAAAAAAAAek/qgtZunwgw24/s1600/App-dev-tablet-GoMobile.png)
 
   
 
@@ -59,7 +59,7 @@ Another big intuitive feature of Ubuntu phone is that it integrates web apps a
 A Bigger Search:
 ----------------
 
-[![](http://4.bp.blogspot.com/-d-BwG8vSdNE/UVgYJ8hg8bI/AAAAAAAAAe0/73aVL8cR0aw/s1600/it_photo_188224_52.jpg)](http://4.bp.blogspot.com/-d-BwG8vSdNE/UVgYJ8hg8bI/AAAAAAAAAe0/73aVL8cR0aw/s1600/it_photo_188224_52.jpg)
+[![](https://4.bp.blogspot.com/-d-BwG8vSdNE/UVgYJ8hg8bI/AAAAAAAAAe0/73aVL8cR0aw/s1600/it_photo_188224_52.jpg)](https://4.bp.blogspot.com/-d-BwG8vSdNE/UVgYJ8hg8bI/AAAAAAAAAe0/73aVL8cR0aw/s1600/it_photo_188224_52.jpg)
 
   
 
@@ -72,7 +72,7 @@ Ubuntu doesn't just search your phone. It searches you, I mean, it searches fo
 Cleverer Conversation:
 ----------------------
 
-[![](http://1.bp.blogspot.com/-poRhnrZEUX4/UVgZ7MOnKsI/AAAAAAAAAfE/qIUgCFzYI9E/s1600/1671742-inline-inline-ubuntu-101.jpg)](http://1.bp.blogspot.com/-poRhnrZEUX4/UVgZ7MOnKsI/AAAAAAAAAfE/qIUgCFzYI9E/s1600/1671742-inline-inline-ubuntu-101.jpg)
+[![](https://1.bp.blogspot.com/-poRhnrZEUX4/UVgZ7MOnKsI/AAAAAAAAAfE/qIUgCFzYI9E/s1600/1671742-inline-inline-ubuntu-101.jpg)](https://1.bp.blogspot.com/-poRhnrZEUX4/UVgZ7MOnKsI/AAAAAAAAAfE/qIUgCFzYI9E/s1600/1671742-inline-inline-ubuntu-101.jpg)
 
   
 
@@ -85,7 +85,7 @@ Ubuntu reinvents the inbox, giving you quicker access to all your emails, texts,
 Dock into PC:
 -------------
 
-[![](http://4.bp.blogspot.com/-xbd2pOM76kg/UVgcUsqkx_I/AAAAAAAAAfU/eJASEgivrxM/s1600/converged-device-440x267.jpg)](http://4.bp.blogspot.com/-xbd2pOM76kg/UVgcUsqkx_I/AAAAAAAAAfU/eJASEgivrxM/s1600/converged-device-440x267.jpg)
+[![](https://4.bp.blogspot.com/-xbd2pOM76kg/UVgcUsqkx_I/AAAAAAAAAfU/eJASEgivrxM/s1600/converged-device-440x267.jpg)](https://4.bp.blogspot.com/-xbd2pOM76kg/UVgcUsqkx_I/AAAAAAAAAfU/eJASEgivrxM/s1600/converged-device-440x267.jpg)
 
   
 

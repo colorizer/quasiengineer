@@ -6,14 +6,14 @@ aliases: [ "/2013/04/control-your-google-account-after-you.html" ]
 tags : [How To's, data, Security, settings, After death, Google, Accounts, safety, Digital life, Inactive Account Manager, News]
 ---
 
-[![](http://1.bp.blogspot.com/-N6nMJ5aulaY/UWevd_RWpuI/AAAAAAAAA1c/Yi4-NcIkG-o/s1600/afterlifegog.jpg)](http://1.bp.blogspot.com/-N6nMJ5aulaY/UWevd_RWpuI/AAAAAAAAA1c/Yi4-NcIkG-o/s1600/afterlifegog.jpg)
+[![](https://1.bp.blogspot.com/-N6nMJ5aulaY/UWevd_RWpuI/AAAAAAAAA1c/Yi4-NcIkG-o/s1600/afterlifegog.jpg)](https://1.bp.blogspot.com/-N6nMJ5aulaY/UWevd_RWpuI/AAAAAAAAA1c/Yi4-NcIkG-o/s1600/afterlifegog.jpg)
 
   
 Whats happens to you after you die? Sorry, that question cannot be answered by Google but it has an answer for what would happen to your google account after you die.  
 
   
 
-This feature is called [Inactive Account Manager](https://www.google.com/settings/u/0/account/inactive) (not a great name I guess) and this can be accessed from your [google settings page](https://www.google.com/settings/account). Here, you can choose what to do to your data from Gmail and other Google services after inactivity for a long time.
+This feature is called [Inactive Account Manager](httpss://www.google.com/settings/u/0/account/inactive) (not a great name I guess) and this can be accessed from your [google settings page](httpss://www.google.com/settings/account). Here, you can choose what to do to your data from Gmail and other Google services after inactivity for a long time.
 
   
 
@@ -21,8 +21,8 @@ For example, you can choose to have your data deleted — after three, six, nine
 
   
 
-[![](http://4.bp.blogspot.com/-bgKTz7HM0mw/UWehvCFeVyI/AAAAAAAAA04/w4QjFSYyssg/s640/iam_intro.png)](http://4.bp.blogspot.com/-bgKTz7HM0mw/UWehvCFeVyI/AAAAAAAAA04/w4QjFSYyssg/s1600/iam_intro.png)
+[![](https://4.bp.blogspot.com/-bgKTz7HM0mw/UWehvCFeVyI/AAAAAAAAA04/w4QjFSYyssg/s640/iam_intro.png)](https://4.bp.blogspot.com/-bgKTz7HM0mw/UWehvCFeVyI/AAAAAAAAA04/w4QjFSYyssg/s1600/iam_intro.png)
 
   
 
-"We hope that this new feature will enable you to plan your digital afterlife — in a way that protects your privacy and security — and make life easier for your loved ones after you’re gone." said Google team in their [public policy blog.](http://googlepublicpolicy.blogspot.in/2013/04/plan-your-digital-afterlife-with.html)
+"We hope that this new feature will enable you to plan your digital afterlife — in a way that protects your privacy and security — and make life easier for your loved ones after you’re gone." said Google team in their [public policy blog.](https://googlepublicpolicy.blogspot.in/2013/04/plan-your-digital-afterlife-with.html)

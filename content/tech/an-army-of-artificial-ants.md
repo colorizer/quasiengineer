@@ -8,7 +8,7 @@ tags : [Gadgets, Ants, machine insects, Sensor, Technology]
 
 Ants have made man wonder at their capabilities for a long time. Now, its time for ants to wonder at man's capablities!  
 
-[![](http://1.bp.blogspot.com/-MZ7tNlbC8PA/UWPk0LknmlI/AAAAAAAAAuI/B7XQ7sMrC5U/s400/antsmech.jpg)](http://1.bp.blogspot.com/-MZ7tNlbC8PA/UWPk0LknmlI/AAAAAAAAAuI/B7XQ7sMrC5U/s1600/antsmech.jpg)
+[![](https://1.bp.blogspot.com/-MZ7tNlbC8PA/UWPk0LknmlI/AAAAAAAAAuI/B7XQ7sMrC5U/s400/antsmech.jpg)](https://1.bp.blogspot.com/-MZ7tNlbC8PA/UWPk0LknmlI/AAAAAAAAAuI/B7XQ7sMrC5U/s1600/antsmech.jpg)
 
   
 Scientists from US has accomplished building a tiny Robot that mimics the behaviour of the ants in many way although not in the look. These mini-machines are simple and are programmed to move forward towards a destination and avoid obstacles. But, what made them comparable with the ants is their ablity to follow each other towards their destination, jusk like how ants behave.  

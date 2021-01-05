@@ -12,7 +12,7 @@ tags : [data, photos, PDF files, Software, Google, Google Drive, Accounts, video
 Google found a funny way to show the anonymous persons who open a document in Google Drive. Instead of only using different colors for each person, Google Drive associates each person with an animal, so you'll see things like "anonymous anteater", "anonymous moose", "anonymous chupacabra", "anonymous axolotl", "anonymous kraken", "anonymous gopher", "anonymous jackalope". Google also uses special icons for each animal.  
 For the moment, this only works for PDF files, photos, videos and other files that can't be edited using Google's apps.
 
-[![Google Drive Anonymous Animals](http://1.bp.blogspot.com/-HDKNYz88524/UXIbbYNtZCI/AAAAAAAAA-M/qUlVO7nasF0/s1600/google-docs-animal-viewers-2.png "Anonymous Animals")](http://1.bp.blogspot.com/-HDKNYz88524/UXIbbYNtZCI/AAAAAAAAA-M/qUlVO7nasF0/s1600/google-docs-animal-viewers-2.png)
+[![Google Drive Anonymous Animals](https://1.bp.blogspot.com/-HDKNYz88524/UXIbbYNtZCI/AAAAAAAAA-M/qUlVO7nasF0/s1600/google-docs-animal-viewers-2.png "Anonymous Animals")](https://1.bp.blogspot.com/-HDKNYz88524/UXIbbYNtZCI/AAAAAAAAA-M/qUlVO7nasF0/s1600/google-docs-animal-viewers-2.png)
 
   
 
@@ -20,7 +20,7 @@ Here's the list: alligator, anteater, armadillo, auroch, axolotl, badger, bat, b
 
   
 
-_Data source:_ [Google system](http://googlesystem.blogspot.in/2013/04/anonymous-animals-in-google-drive.html)
+_Data source:_ [Google system](https://googlesystem.blogspot.in/2013/04/anonymous-animals-in-google-drive.html)
 
   
 

@@ -6,12 +6,12 @@ aliases: [ "/2017/07/microsoft-documents-opens-via-ark-in.html" ]
 tags : [How To's, MS Office, Dolphin, Ubuntu, filetype, WPS Office, App, association, KDE, Ark, KDE Neon]
 ---
 
-[![](https://1.bp.blogspot.com/-r6xwzuB4Q54/WXszff4CgDI/AAAAAAAAN0Q/mHZJFisraI0rbc3ggyLdwPAusb2Y-pU9ACK4BGAYYCw/s400/kde_neon_laptop.png)](http://1.bp.blogspot.com/-r6xwzuB4Q54/WXszff4CgDI/AAAAAAAAN0Q/mHZJFisraI0rbc3ggyLdwPAusb2Y-pU9ACK4BGAYYCw/s1600/kde_neon_laptop.png)
+[![](httpss://1.bp.blogspot.com/-r6xwzuB4Q54/WXszff4CgDI/AAAAAAAAN0Q/mHZJFisraI0rbc3ggyLdwPAusb2Y-pU9ACK4BGAYYCw/s400/kde_neon_laptop.png)](https://1.bp.blogspot.com/-r6xwzuB4Q54/WXszff4CgDI/AAAAAAAAN0Q/mHZJFisraI0rbc3ggyLdwPAusb2Y-pU9ACK4BGAYYCw/s1600/kde_neon_laptop.png)
 
   
-With Ubuntu moving away from Unity, I was looking for a different desktop experience with a modern outlook. So, I decided to try out KDE Neon, using KDE for the first time in my life. So, when I finally setup WPS Office successfully (Yes, that needs squashing bypassing some bugs too! [Click here for install and setup guide.](http://techbytesinfinite.blogspot.in/2017/07/how-to-install-and-open-wps-office-in.html)), it didn't open files when opened from the default file manager. Instead, I was facing an Ark zip manager. For the first time, I realized that MS Office documents are really archives!  
+With Ubuntu moving away from Unity, I was looking for a different desktop experience with a modern outlook. So, I decided to try out KDE Neon, using KDE for the first time in my life. So, when I finally setup WPS Office successfully (Yes, that needs squashing bypassing some bugs too! [Click here for install and setup guide.](https://techbytesinfinite.blogspot.in/2017/07/how-to-install-and-open-wps-office-in.html)), it didn't open files when opened from the default file manager. Instead, I was facing an Ark zip manager. For the first time, I realized that MS Office documents are really archives!  
 
-[![](https://3.bp.blogspot.com/-a9_dOtIgTco/WXs336fGM8I/AAAAAAAAN0c/Dcpe5hzLx24QCqtmfgaQbhyWccFqZUu5gCK4BGAYYCw/s640/Screenshot_20170728_184011.png)](http://3.bp.blogspot.com/-a9_dOtIgTco/WXs336fGM8I/AAAAAAAAN0c/Dcpe5hzLx24QCqtmfgaQbhyWccFqZUu5gCK4BGAYYCw/s1600/Screenshot_20170728_184011.png)
+[![](httpss://3.bp.blogspot.com/-a9_dOtIgTco/WXs336fGM8I/AAAAAAAAN0c/Dcpe5hzLx24QCqtmfgaQbhyWccFqZUu5gCK4BGAYYCw/s640/Screenshot_20170728_184011.png)](https://3.bp.blogspot.com/-a9_dOtIgTco/WXs336fGM8I/AAAAAAAAN0c/Dcpe5hzLx24QCqtmfgaQbhyWccFqZUu5gCK4BGAYYCw/s1600/Screenshot_20170728_184011.png)
 
   
 The usual steps for any other misconfiguration of filetypes is as follows.  
@@ -23,7 +23,7 @@ The usual steps for any other misconfiguration of filetypes is as follows.
 
 It was a pretty weird bug because the above steps didn't solve the issue. No matter what you change in file association box in dolphin, that doesn't work. So, instead of going for the obvious workaround (uninstalling WPS), I chose to find some answer. Thanks to the strong community of Manjaro Linux, I was able to find the workaround which is as follows.
 
-[![](https://4.bp.blogspot.com/-9HF55q1SRZ0/WXs97mUoGbI/AAAAAAAAN0s/QT23BGtF2RkPzSdSduJMp_-9o-NCrYGkgCK4BGAYYCw/s640/Screenshot_20170728_190600.png)](http://4.bp.blogspot.com/-9HF55q1SRZ0/WXs97mUoGbI/AAAAAAAAN0s/QT23BGtF2RkPzSdSduJMp_-9o-NCrYGkgCK4BGAYYCw/s1600/Screenshot_20170728_190600.png)
+[![](httpss://4.bp.blogspot.com/-9HF55q1SRZ0/WXs97mUoGbI/AAAAAAAAN0s/QT23BGtF2RkPzSdSduJMp_-9o-NCrYGkgCK4BGAYYCw/s640/Screenshot_20170728_190600.png)](https://4.bp.blogspot.com/-9HF55q1SRZ0/WXs97mUoGbI/AAAAAAAAN0s/QT23BGtF2RkPzSdSduJMp_-9o-NCrYGkgCK4BGAYYCw/s1600/Screenshot_20170728_190600.png)
 
   
 
@@ -35,4 +35,4 @@ It was a pretty weird bug because the above steps didn't solve the issue. No mat
 *   Now, follow the usual steps as provided above to set the file types successfully.
 
   
-Source: [Manjaro Linux forum](https://forum.manjaro.org/t/xlsx-and-docx-files-are-opened-as-zip-file/25814/4)
+Source: [Manjaro Linux forum](httpss://forum.manjaro.org/t/xlsx-and-docx-files-are-opened-as-zip-file/25814/4)

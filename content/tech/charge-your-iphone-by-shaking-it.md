@@ -21,7 +21,7 @@ When you shake the Infinity Cell for 30 minutes, that provides enough power to g
 
   
 
-[![](http://4.bp.blogspot.com/-XJLvFSi0iIA/UXd-CsxYyAI/AAAAAAAABFE/O59JLjYhABI/s640/roadmapp.jpg)](http://4.bp.blogspot.com/-XJLvFSi0iIA/UXd-CsxYyAI/AAAAAAAABFE/O59JLjYhABI/s1600/roadmapp.jpg)
+[![](https://4.bp.blogspot.com/-XJLvFSi0iIA/UXd-CsxYyAI/AAAAAAAABFE/O59JLjYhABI/s640/roadmapp.jpg)](https://4.bp.blogspot.com/-XJLvFSi0iIA/UXd-CsxYyAI/AAAAAAAABFE/O59JLjYhABI/s1600/roadmapp.jpg)
 
   
 
@@ -29,4 +29,4 @@ The finished model will resemble a Mophie or MaxBoost battery case. You simply s
 
   
 
-The creators of Infinity Cell are seeking to raise $155,000 on [Kickstarter](http://www.kickstarter.com/projects/358170719/infinity-cell-kinetic-charger) by June 6th. A $125 contribution will nab you an Infinity Cell of your own, although it’s only compatible with iPhone 4 and 4S for now.
+The creators of Infinity Cell are seeking to raise $155,000 on [Kickstarter](https://www.kickstarter.com/projects/358170719/infinity-cell-kinetic-charger) by June 6th. A $125 contribution will nab you an Infinity Cell of your own, although it’s only compatible with iPhone 4 and 4S for now.

@@ -8,12 +8,12 @@ tags : [hidden way, How To's, imagery, Google, Google Maps, Zoom closer, magnifi
 
 Google maps allows you to have a closer look at its mapped locations but it has also got a hidden feature which allows you to look much more closer than it is normally allowed. Here's the way to do so.  
 
-[![](http://3.bp.blogspot.com/--bsm90K-S7k/UXIpv-_nZtI/AAAAAAAAA-c/KGPFlumeDKE/s640/empirestateszoomy.jpg)](http://3.bp.blogspot.com/--bsm90K-S7k/UXIpv-_nZtI/AAAAAAAAA-c/KGPFlumeDKE/s1600/empirestateszoomy.jpg)
+[![](https://3.bp.blogspot.com/--bsm90K-S7k/UXIpv-_nZtI/AAAAAAAAA-c/KGPFlumeDKE/s640/empirestateszoomy.jpg)](https://3.bp.blogspot.com/--bsm90K-S7k/UXIpv-_nZtI/AAAAAAAAA-c/KGPFlumeDKE/s1600/empirestateszoomy.jpg)
 
   
   
 
-1.  Open [Google Maps](https://www.google.com/maps) and go to a location you want.
+1.  Open [Google Maps](httpss://www.google.com/maps) and go to a location you want.
 2.  Zoom in as much you can by clicking the "+" sign of the magnification slider in the left side of the map. But don't zoom in all the way to street view (if the location has got one).
 3.  Look at the top left side of the map where you have got a printer and chain link button. Click on the chain link button.
 4.  It will provide you with an URL and an HTML embed code.

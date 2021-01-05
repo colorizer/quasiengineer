@@ -6,7 +6,7 @@ aliases: [ "/2013/04/google-glass-full-specs-full-day.html" ]
 tags : [Software, Google, Networking, Android, Technology, Google glass, Operating systems, Gadgets, Google glasses, Digital life, transparent, interface, Maps, contact lenses, Search engine]
 ---
 
-[![](http://3.bp.blogspot.com/-iIHeGy2Nmng/UWzLi5c8DmI/AAAAAAAAA38/pqMgvUb1Hj8/s640/googLAS.jpg)](http://3.bp.blogspot.com/-iIHeGy2Nmng/UWzLi5c8DmI/AAAAAAAAA38/pqMgvUb1Hj8/s1600/googLAS.jpg)
+[![](https://3.bp.blogspot.com/-iIHeGy2Nmng/UWzLi5c8DmI/AAAAAAAAA38/pqMgvUb1Hj8/s640/googLAS.jpg)](https://3.bp.blogspot.com/-iIHeGy2Nmng/UWzLi5c8DmI/AAAAAAAAA38/pqMgvUb1Hj8/s1600/googLAS.jpg)
 
   
 Google glass is finally revealing its expected wonders at last. Here are the three things that happened and the last one being the most expected.  
@@ -17,7 +17,7 @@ Shipping in few days:
 
 Earlier today, Google announced that it is about to ship the first unit of Google glass in few days to the "Glass Explorers" who signed up at the Google's I/O developer conference last year. Here is the email they sent to 
 
-[![](http://4.bp.blogspot.com/-JkeIXA1Uw44/UWzKGuMx8lI/AAAAAAAAA30/ELlOZN9AGJ4/s640/ggeemail.png)](http://4.bp.blogspot.com/-JkeIXA1Uw44/UWzKGuMx8lI/AAAAAAAAA30/ELlOZN9AGJ4/s1600/ggeemail.png)
+[![](https://4.bp.blogspot.com/-JkeIXA1Uw44/UWzKGuMx8lI/AAAAAAAAA30/ELlOZN9AGJ4/s640/ggeemail.png)](https://4.bp.blogspot.com/-JkeIXA1Uw44/UWzKGuMx8lI/AAAAAAAAA30/ELlOZN9AGJ4/s1600/ggeemail.png)
 
   
 
@@ -26,7 +26,7 @@ Application Programming Inteface:
 
 Access to the API itself, it’s worth noting, is still in limited preview and only developers who have access to the Glass hardware will be able to work with the API. Everybody else can also start working on apps based on the documentation but won’t be able to test them.
 
-This [first version of the API](https://developers.google.com/glass/v1/reference/), which will allow developer to write what Google likes to call “Glassware,” is still relatively limited and the most advanced feature developers get access to is probably the Glass wearer’s [location](https://developers.google.com/glass/location). Because every application communicates with Glass through Google’s servers, the API provides developers with a set of restful services and is completely cloud-based and none of the code will actually run on Glass itself.
+This [first version of the API](httpss://developers.google.com/glass/v1/reference/), which will allow developer to write what Google likes to call “Glassware,” is still relatively limited and the most advanced feature developers get access to is probably the Glass wearer’s [location](httpss://developers.google.com/glass/location). Because every application communicates with Glass through Google’s servers, the API provides developers with a set of restful services and is completely cloud-based and none of the code will actually run on Glass itself.
 
   
 
@@ -37,7 +37,7 @@ Google finally released the specs for its glass and it is as what it was expecte
 
   
 
-[![](http://3.bp.blogspot.com/-WSSEEQr-2zE/UWzP3wAOKMI/AAAAAAAAA4E/-dwxRpqhhNI/s640/google-glasses.jpg)](http://3.bp.blogspot.com/-WSSEEQr-2zE/UWzP3wAOKMI/AAAAAAAAA4E/-dwxRpqhhNI/s1600/google-glasses.jpg)
+[![](https://3.bp.blogspot.com/-WSSEEQr-2zE/UWzP3wAOKMI/AAAAAAAAA4E/-dwxRpqhhNI/s640/google-glasses.jpg)](https://3.bp.blogspot.com/-WSSEEQr-2zE/UWzP3wAOKMI/AAAAAAAAA4E/-dwxRpqhhNI/s1600/google-glasses.jpg)
 
   
 

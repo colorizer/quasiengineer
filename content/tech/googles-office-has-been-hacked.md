@@ -10,10 +10,10 @@ Wherever you go, whichever place it may be, how strong may be you are, you are s
 
   
 
-[![](http://4.bp.blogspot.com/-QkVgO_s2BHo/UYqO0GoeSaI/AAAAAAAABS8/0HgfHx8KsN0/s1600/Google-Hacked.jpg)](http://4.bp.blogspot.com/-QkVgO_s2BHo/UYqO0GoeSaI/AAAAAAAABS8/0HgfHx8KsN0/s1600/Google-Hacked.jpg)
+[![](https://4.bp.blogspot.com/-QkVgO_s2BHo/UYqO0GoeSaI/AAAAAAAABS8/0HgfHx8KsN0/s1600/Google-Hacked.jpg)](https://4.bp.blogspot.com/-QkVgO_s2BHo/UYqO0GoeSaI/AAAAAAAABS8/0HgfHx8KsN0/s1600/Google-Hacked.jpg)
 
   
-Researchers from security firm Cylance found that the Building Control System for Google's Wharf 7 offices in Sydney were vulnerable for attack following a search on Shodan ( I have already said about that search engine [here](http://technologyinfinite.blogspot.in/2013/04/be-careful-of-shodan-creepy-search.html). Use the link to make sure your system is safe).  
+Researchers from security firm Cylance found that the Building Control System for Google's Wharf 7 offices in Sydney were vulnerable for attack following a search on Shodan ( I have already said about that search engine [here](https://technologyinfinite.blogspot.in/2013/04/be-careful-of-shodan-creepy-search.html). Use the link to make sure your system is safe).  
   
 The building, which used an unpatched version of the Tridium Niagara AX platform for its building controls, was compromised when the researchers managed to gain access to an administrator's password to the system and access control panels.  
   
@@ -27,4 +27,4 @@ While Google has patched the security hole and the Cylance researchers weren't p
 
   
 
-Via : [Techradar](http://www.techradar.com/us/news/internet/google-australia-s-office-hacked-by-researchers-1149573?src=rss&attr=all&utm_source=feedly)
+Via : [Techradar](https://www.techradar.com/us/news/internet/google-australia-s-office-hacked-by-researchers-1149573?src=rss&attr=all&utm_source=feedly)

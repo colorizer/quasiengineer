@@ -6,14 +6,14 @@ aliases: [ "/2014/03/forensic-redefined-technology-that.html" ]
 tags : [DNA deduction, imagery, life, genetics, 3D model, Technology]
 ---
 
-[![](http://2.bp.blogspot.com/-VXaJn26kiA8/Uy6Z7KqiD4I/AAAAAAAACPg/tFJYvGY8ht8/s1600/98.jpg)](http://2.bp.blogspot.com/-VXaJn26kiA8/Uy6Z7KqiD4I/AAAAAAAACPg/tFJYvGY8ht8/s1600/98.jpg)
+[![](https://2.bp.blogspot.com/-VXaJn26kiA8/Uy6Z7KqiD4I/AAAAAAAACPg/tFJYvGY8ht8/s1600/98.jpg)](https://2.bp.blogspot.com/-VXaJn26kiA8/Uy6Z7KqiD4I/AAAAAAAACPg/tFJYvGY8ht8/s1600/98.jpg)
 
   
 If there are policemen praying to God to show a glimpse of the criminal's face, their prayers have been answered! Researchers led by Professor Mark Shriver of the University of Pennsylvania are creating a technology which will allow to recreate a three-dimensional model of the face of a person only from the traces of genetic material (DNA).  
   
 In their blog they said, " We show that facial variation with regard to sex, ancestry, and genes can be systematically studied with our methods, allowing us to lay the foundation for predictive modeling of faces".  
 
-[![](http://1.bp.blogspot.com/--RG9ao6evSA/Uy6a-ne6MRI/AAAAAAAACPs/8oesIGO305k/s1600/journal.pgen.1004224.jpg)](http://1.bp.blogspot.com/--RG9ao6evSA/Uy6a-ne6MRI/AAAAAAAACPs/8oesIGO305k/s1600/journal.pgen.1004224.jpg)
+[![](https://1.bp.blogspot.com/--RG9ao6evSA/Uy6a-ne6MRI/AAAAAAAACPs/8oesIGO305k/s1600/journal.pgen.1004224.jpg)](https://1.bp.blogspot.com/--RG9ao6evSA/Uy6a-ne6MRI/AAAAAAAACPs/8oesIGO305k/s1600/journal.pgen.1004224.jpg)
 
   
   
@@ -30,4 +30,4 @@ DNA left at crime scenes could be tested and faces predicted in order to help to
   
 Anyway, Sherlock Holmes' life is gonna get easier..!!  
   
-SOURCE:  [Learning Mind](http://www.learning-mind.com/new-revolutionary-technique-recreates-faces-from-genetic-material/)
+SOURCE:  [Learning Mind](https://www.learning-mind.com/new-revolutionary-technique-recreates-faces-from-genetic-material/)

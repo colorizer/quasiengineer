@@ -6,7 +6,7 @@ aliases: [ "/2017/07/tesla-model-3-has-been-launched-heres.html" ]
 tags : [Launch, Tesla, Specifications, Model 3, Electric car, safety, Technology, News]
 ---
 
-[![](https://2.bp.blogspot.com/-yiO4TIvI210/WXx8ZrIFNzI/AAAAAAAAN3U/aBKNW4qjw94iccVVo-878L9xrjiTn88wQCK4BGAYYCw/s1600/vrg_tesla_model_3_profile_midnight_silver.jpeg)](http://2.bp.blogspot.com/-yiO4TIvI210/WXx8ZrIFNzI/AAAAAAAAN3U/aBKNW4qjw94iccVVo-878L9xrjiTn88wQCK4BGAYYCw/s1600/vrg_tesla_model_3_profile_midnight_silver.jpeg)
+[![](httpss://2.bp.blogspot.com/-yiO4TIvI210/WXx8ZrIFNzI/AAAAAAAAN3U/aBKNW4qjw94iccVVo-878L9xrjiTn88wQCK4BGAYYCw/s1600/vrg_tesla_model_3_profile_midnight_silver.jpeg)](https://2.bp.blogspot.com/-yiO4TIvI210/WXx8ZrIFNzI/AAAAAAAAN3U/aBKNW4qjw94iccVVo-878L9xrjiTn88wQCK4BGAYYCw/s1600/vrg_tesla_model_3_profile_midnight_silver.jpeg)
 
   
 
@@ -54,7 +54,7 @@ Standard Battery
 
 **Interior**
 
-[![](https://3.bp.blogspot.com/-hCB89ILZJRQ/WXyE1h0WPSI/AAAAAAAAN3s/JBz3c8ifQM8VPdeSIYUHR3dpanHAK8AOgCK4BGAYYCw/s640/vrg_model_3_dashboard_head_on_view.jpeg)](http://3.bp.blogspot.com/-hCB89ILZJRQ/WXyE1h0WPSI/AAAAAAAAN3s/JBz3c8ifQM8VPdeSIYUHR3dpanHAK8AOgCK4BGAYYCw/s1600/vrg_model_3_dashboard_head_on_view.jpeg)
+[![](httpss://3.bp.blogspot.com/-hCB89ILZJRQ/WXyE1h0WPSI/AAAAAAAAN3s/JBz3c8ifQM8VPdeSIYUHR3dpanHAK8AOgCK4BGAYYCw/s640/vrg_model_3_dashboard_head_on_view.jpeg)](https://3.bp.blogspot.com/-hCB89ILZJRQ/WXyE1h0WPSI/AAAAAAAAN3s/JBz3c8ifQM8VPdeSIYUHR3dpanHAK8AOgCK4BGAYYCw/s1600/vrg_model_3_dashboard_head_on_view.jpeg)
 
   
 
@@ -96,7 +96,7 @@ Standard Battery
 *   Vehicle: 4 years, 50,000 miles limited warranty
 *   Battery warranty: 8 years, 100,000 miles (120,000 miles with Long Range Battery)
 
-[![](https://3.bp.blogspot.com/-6FUKkXncJ1g/WXyGIrQuqJI/AAAAAAAAN4E/lt5zyyvOs94PQBHMy8WO3oKUQslFlWxrQCK4BGAYYCw/s640/vrg_tesla_model_3_red_overhead.jpeg)](http://3.bp.blogspot.com/-6FUKkXncJ1g/WXyGIrQuqJI/AAAAAAAAN4E/lt5zyyvOs94PQBHMy8WO3oKUQslFlWxrQCK4BGAYYCw/s1600/vrg_tesla_model_3_red_overhead.jpeg)
+[![](httpss://3.bp.blogspot.com/-6FUKkXncJ1g/WXyGIrQuqJI/AAAAAAAAN4E/lt5zyyvOs94PQBHMy8WO3oKUQslFlWxrQCK4BGAYYCw/s640/vrg_tesla_model_3_red_overhead.jpeg)](https://3.bp.blogspot.com/-6FUKkXncJ1g/WXyGIrQuqJI/AAAAAAAAN4E/lt5zyyvOs94PQBHMy8WO3oKUQslFlWxrQCK4BGAYYCw/s1600/vrg_tesla_model_3_red_overhead.jpeg)
 
 ### OPTIONS
 
@@ -120,14 +120,14 @@ Standard Battery
 
 **Wheels**
 
-[![](https://4.bp.blogspot.com/-Pml-gZpIYX8/WXyFpBTtHHI/AAAAAAAAN38/-l5FbT_7IzkFXxybWg61npT6AhZQO8ERQCK4BGAYYCw/s400/p7280081.jpeg)](http://4.bp.blogspot.com/-Pml-gZpIYX8/WXyFpBTtHHI/AAAAAAAAN38/-l5FbT_7IzkFXxybWg61npT6AhZQO8ERQCK4BGAYYCw/s1600/p7280081.jpeg)[![](https://4.bp.blogspot.com/-S_-tFQiHgU4/WXyFKQ_AYAI/AAAAAAAAN30/D4G4DBuvHagu6W5l85YbvsEsmYq9Mw08gCK4BGAYYCw/s400/tesla-model-3-5-of-12.jpeg)](http://4.bp.blogspot.com/-S_-tFQiHgU4/WXyFKQ_AYAI/AAAAAAAAN30/D4G4DBuvHagu6W5l85YbvsEsmYq9Mw08gCK4BGAYYCw/s1600/tesla-model-3-5-of-12.jpeg)
+[![](httpss://4.bp.blogspot.com/-Pml-gZpIYX8/WXyFpBTtHHI/AAAAAAAAN38/-l5FbT_7IzkFXxybWg61npT6AhZQO8ERQCK4BGAYYCw/s400/p7280081.jpeg)](https://4.bp.blogspot.com/-Pml-gZpIYX8/WXyFpBTtHHI/AAAAAAAAN38/-l5FbT_7IzkFXxybWg61npT6AhZQO8ERQCK4BGAYYCw/s1600/p7280081.jpeg)[![](httpss://4.bp.blogspot.com/-S_-tFQiHgU4/WXyFKQ_AYAI/AAAAAAAAN30/D4G4DBuvHagu6W5l85YbvsEsmYq9Mw08gCK4BGAYYCw/s400/tesla-model-3-5-of-12.jpeg)](https://4.bp.blogspot.com/-S_-tFQiHgU4/WXyFKQ_AYAI/AAAAAAAAN30/D4G4DBuvHagu6W5l85YbvsEsmYq9Mw08gCK4BGAYYCw/s1600/tesla-model-3-5-of-12.jpeg)
 
 *   18” Aero: Standard
 *   19” Sport: $1,500
 
 Premium Upgrades Package – $5,000 Upgraded interior with additional features and premium materials.
 
-[![](https://2.bp.blogspot.com/-IrahsKpFedM/WXyHE7-ghyI/AAAAAAAAN4Q/3ZPRgrEI8B0VsFb2C5aOkbzjqPND9mn0ACK4BGAYYCw/s1600/https-%25252F%25252Fblueprint-api-production.s3.amazonaws.com%25252Fuploads%25252Fcard%25252Fimage%25252F551021%25252Fb3963f4f-df91-4c31-a77f-e47351759898.png)](http://2.bp.blogspot.com/-IrahsKpFedM/WXyHE7-ghyI/AAAAAAAAN4Q/3ZPRgrEI8B0VsFb2C5aOkbzjqPND9mn0ACK4BGAYYCw/s1600/https-%25252F%25252Fblueprint-api-production.s3.amazonaws.com%25252Fuploads%25252Fcard%25252Fimage%25252F551021%25252Fb3963f4f-df91-4c31-a77f-e47351759898.png)
+[![](httpss://2.bp.blogspot.com/-IrahsKpFedM/WXyHE7-ghyI/AAAAAAAAN4Q/3ZPRgrEI8B0VsFb2C5aOkbzjqPND9mn0ACK4BGAYYCw/s1600/httpss-%25252F%25252Fblueprint-api-production.s3.amazonaws.com%25252Fuploads%25252Fcard%25252Fimage%25252F551021%25252Fb3963f4f-df91-4c31-a77f-e47351759898.png)](https://2.bp.blogspot.com/-IrahsKpFedM/WXyHE7-ghyI/AAAAAAAAN4Q/3ZPRgrEI8B0VsFb2C5aOkbzjqPND9mn0ACK4BGAYYCw/s1600/httpss-%25252F%25252Fblueprint-api-production.s3.amazonaws.com%25252Fuploads%25252Fcard%25252Fimage%25252F551021%25252Fb3963f4f-df91-4c31-a77f-e47351759898.png)
 
   
 
@@ -151,7 +151,7 @@ In the future, Model 3 will be capable of conducting trips with no action requi
 
 ### VEHICLE SPECIFICATIONS
 
-[![](https://4.bp.blogspot.com/-kxYW-eRTK24/WXyHxSx0SoI/AAAAAAAAN4Y/RBiqmu_3p7k9Qu5q4NeETcMPshysD35DACK4BGAYYCw/s640/Spectacle.X32662.png)](http://4.bp.blogspot.com/-kxYW-eRTK24/WXyHxSx0SoI/AAAAAAAAN4Y/RBiqmu_3p7k9Qu5q4NeETcMPshysD35DACK4BGAYYCw/s1600/Spectacle.X32662.png)
+[![](httpss://4.bp.blogspot.com/-kxYW-eRTK24/WXyHxSx0SoI/AAAAAAAAN4Y/RBiqmu_3p7k9Qu5q4NeETcMPshysD35DACK4BGAYYCw/s640/Spectacle.X32662.png)](https://4.bp.blogspot.com/-kxYW-eRTK24/WXyHxSx0SoI/AAAAAAAAN4Y/RBiqmu_3p7k9Qu5q4NeETcMPshysD35DACK4BGAYYCw/s1600/Spectacle.X32662.png)
 
   
 
@@ -205,6 +205,6 @@ Are you feeling excited? Do you feel that it's too much hyped? Please feel free 
 
 _Sources:_
 
-[Electrek](https://electrek.co/)
+[Electrek](httpss://electrek.co/)
 
-[Tesla](https://www.tesla.com/model3)
+[Tesla](httpss://www.tesla.com/model3)

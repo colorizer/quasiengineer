@@ -6,17 +6,17 @@ aliases: [ "/2013/04/be-careful-of-shodan-creepy-search.html" ]
 tags : [Security, Software, Google, Networking, safety, Shodan, News, Search engine, Servers]
 ---
 
-[![](http://1.bp.blogspot.com/-GxOewWUHMC0/UWfs0D2C5zI/AAAAAAAAA2g/N8ZY79P8ohM/s640/Shodan+Banner.JPG)](http://1.bp.blogspot.com/-GxOewWUHMC0/UWfs0D2C5zI/AAAAAAAAA2g/N8ZY79P8ohM/s1600/Shodan+Banner.JPG)
+[![](https://1.bp.blogspot.com/-GxOewWUHMC0/UWfs0D2C5zI/AAAAAAAAA2g/N8ZY79P8ohM/s640/Shodan+Banner.JPG)](https://1.bp.blogspot.com/-GxOewWUHMC0/UWfs0D2C5zI/AAAAAAAAA2g/N8ZY79P8ohM/s1600/Shodan+Banner.JPG)
 
   
 
 If you don’t want your webcams, printers or home security systems to be hacked, be watchful. Recently, the internet has revealed the scariest search engine called Shodan that peeps into the dark corners of the web, finding servers, webcams and more devices connected to the internet. This search engine for hackers collects information on over 500 million devices every month.
 
-[![](http://1.bp.blogspot.com/-1Lkp0izpUcY/UWfs74IZ8YI/AAAAAAAAA2o/yDFNXAh2t-8/s1600/shodan.jpg)](http://1.bp.blogspot.com/-1Lkp0izpUcY/UWfs74IZ8YI/AAAAAAAAA2o/yDFNXAh2t-8/s1600/shodan.jpg)
+[![](https://1.bp.blogspot.com/-1Lkp0izpUcY/UWfs74IZ8YI/AAAAAAAAA2o/yDFNXAh2t-8/s1600/shodan.jpg)](https://1.bp.blogspot.com/-1Lkp0izpUcY/UWfs74IZ8YI/AAAAAAAAA2o/yDFNXAh2t-8/s1600/shodan.jpg)
 
   
 
-Shodan, which stands for Sentient Hyper-Optimized Data Access Network, is the "Google for hackers." It is essentially a search engine for servers, routers, load balances and computers. Shodan's database contains devices identified by scanning the Internet for the ports typically associated with HTTP, FTP, SSH  and Telnet. Hackers are using the Shodan computer search engine to find Internet-facing SCADA systems using potentially insecure mechanisms for authentication, according to warning from [ICS-CERT](http://www.us-cert.gov/control_systems/pdf/ICS-Alert-10-301-01.pdf)(PDF).
+Shodan, which stands for Sentient Hyper-Optimized Data Access Network, is the "Google for hackers." It is essentially a search engine for servers, routers, load balances and computers. Shodan's database contains devices identified by scanning the Internet for the ports typically associated with HTTP, FTP, SSH  and Telnet. Hackers are using the Shodan computer search engine to find Internet-facing SCADA systems using potentially insecure mechanisms for authentication, according to warning from [ICS-CERT](https://www.us-cert.gov/control_systems/pdf/ICS-Alert-10-301-01.pdf)(PDF).
 
   
 

@@ -9,7 +9,7 @@ tags : [How To's, Linux, installation, Ubuntu, Software, offline]
 With internet everywhere, offline installation won't be necessary for many users. However, at sometime for someone offline installation may become inevitable. For such situations, Keryx is surely a saviour.  
   
 
-[![](http://4.bp.blogspot.com/-YD0kra7Ary4/Vk9e1BY_2aI/AAAAAAAAC48/fySs2dOY14o/s400/Keryx%2Bin%2Bwindows.png)](http://4.bp.blogspot.com/-YD0kra7Ary4/Vk9e1BY_2aI/AAAAAAAAC48/fySs2dOY14o/s1600/Keryx%2Bin%2Bwindows.png)
+[![](https://4.bp.blogspot.com/-YD0kra7Ary4/Vk9e1BY_2aI/AAAAAAAAC48/fySs2dOY14o/s400/Keryx%2Bin%2Bwindows.png)](https://4.bp.blogspot.com/-YD0kra7Ary4/Vk9e1BY_2aI/AAAAAAAAC48/fySs2dOY14o/s1600/Keryx%2Bin%2Bwindows.png)
 
   
 
@@ -51,10 +51,10 @@ When back at home/your computer you just plug your USB drive in, load up Keryx a
 
   
 
-Original domain for Keryx Project has been discontinued. However, you can find the Keryx Project currently in launchpad [here](https://launchpad.net/keryx). 
+Original domain for Keryx Project has been discontinued. However, you can find the Keryx Project currently in launchpad [here](httpss://launchpad.net/keryx). 
 
 Please post in the comment section if you ever need any help. 
 
   
 
-Source: [omgubuntu](http://www.omgubuntu.co.uk/2010/09/keryx-offline-package-installation-made-easy-in-ubuntu)
+Source: [omgubuntu](https://www.omgubuntu.co.uk/2010/09/keryx-offline-package-installation-made-easy-in-ubuntu)

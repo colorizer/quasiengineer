@@ -6,14 +6,14 @@ aliases: [ "/2013/05/instagram-now-lets-anyone-tag-you.html" ]
 tags : [tagging, photos, iOS, Software, latest, Accounts, Facebook, Android, Instagram, News]
 ---
 
-[![](http://1.bp.blogspot.com/-6VdG08Y48t8/UYKmXsvKAlI/AAAAAAAABM0/1hpVzZ02iYs/s640/instagram.jpeg)](http://1.bp.blogspot.com/-6VdG08Y48t8/UYKmXsvKAlI/AAAAAAAABM0/1hpVzZ02iYs/s1600/instagram.jpeg)
+[![](https://1.bp.blogspot.com/-6VdG08Y48t8/UYKmXsvKAlI/AAAAAAAABM0/1hpVzZ02iYs/s640/instagram.jpeg)](https://1.bp.blogspot.com/-6VdG08Y48t8/UYKmXsvKAlI/AAAAAAAABM0/1hpVzZ02iYs/s1600/instagram.jpeg)
 
   
-Do you remember the feature that boosted the growth of Facebook in its early days? It is nothing but the tagging people feature. So, today Instagram [launches photo tagging](http://blog.instagram.com/post/49445004952/photosofyou), the feature that fueled Facebook’s early growth. New Instagram [iOS](https://itunes.apple.com/us/app/instagram/id389801252?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.instagram.android&hl=en) updates rolling out now let you tag any person or brand in your own photos, which then automatically show up in the “Photos Of You” section of their profile.
+Do you remember the feature that boosted the growth of Facebook in its early days? It is nothing but the tagging people feature. So, today Instagram [launches photo tagging](https://blog.instagram.com/post/49445004952/photosofyou), the feature that fueled Facebook’s early growth. New Instagram [iOS](httpss://itunes.apple.com/us/app/instagram/id389801252?mt=8) and [Android](httpss://play.google.com/store/apps/details?id=com.instagram.android&hl=en) updates rolling out now let you tag any person or brand in your own photos, which then automatically show up in the “Photos Of You” section of their profile.
 
   
 
-[![](http://4.bp.blogspot.com/-JU-zyQv9PsA/UYKnDOWxh7I/AAAAAAAABM8/rLh7iCmynG4/s400/square+tagging.jpg)](http://4.bp.blogspot.com/-JU-zyQv9PsA/UYKnDOWxh7I/AAAAAAAABM8/rLh7iCmynG4/s1600/square+tagging.jpg)
+[![](https://4.bp.blogspot.com/-JU-zyQv9PsA/UYKnDOWxh7I/AAAAAAAABM8/rLh7iCmynG4/s400/square+tagging.jpg)](https://4.bp.blogspot.com/-JU-zyQv9PsA/UYKnDOWxh7I/AAAAAAAABM8/rLh7iCmynG4/s1600/square+tagging.jpg)
 
   
 

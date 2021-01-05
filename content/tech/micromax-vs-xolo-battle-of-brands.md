@@ -6,18 +6,18 @@ aliases: [ "/2015/01/micromax-vs-xolo-battle-of-brands.html" ]
 tags : [price, Brands, comparison, Software, Stability, performance, Micromax, customer service, Xolo, Gadgets, update, launcher, design, bloatware, poll, smartphone, user interface]
 ---
 
-[![](http://4.bp.blogspot.com/-rK93iQAZZ6g/VLbV1BE11mI/AAAAAAAACoY/5efKhZtrhiA/s1600/Micromax%2Bvs%2BXolo.jpg)](http://4.bp.blogspot.com/-rK93iQAZZ6g/VLbV1BE11mI/AAAAAAAACoY/5efKhZtrhiA/s1600/Micromax%2Bvs%2BXolo.jpg)
+[![](https://4.bp.blogspot.com/-rK93iQAZZ6g/VLbV1BE11mI/AAAAAAAACoY/5efKhZtrhiA/s1600/Micromax%2Bvs%2BXolo.jpg)](https://4.bp.blogspot.com/-rK93iQAZZ6g/VLbV1BE11mI/AAAAAAAACoY/5efKhZtrhiA/s1600/Micromax%2Bvs%2BXolo.jpg)
 
   
 Micromax and Xolo has evolved as the most prefered Indian brands. But, how can we choose when we are caught up between the two brands? I hope the following comparison helps you a bit!  
 
 ### 1\. User Interface:
 
-[![](http://4.bp.blogspot.com/-RUVgu4TTEp8/VLbL9wIi4DI/AAAAAAAACnM/QAdogDoyXvA/s1600/Micromax-Canvas-Nitro-All-In-One-Camera-Widget.png)](http://4.bp.blogspot.com/-RUVgu4TTEp8/VLbL9wIi4DI/AAAAAAAACnM/QAdogDoyXvA/s1600/Micromax-Canvas-Nitro-All-In-One-Camera-Widget.png)
+[![](https://4.bp.blogspot.com/-RUVgu4TTEp8/VLbL9wIi4DI/AAAAAAAACnM/QAdogDoyXvA/s1600/Micromax-Canvas-Nitro-All-In-One-Camera-Widget.png)](https://4.bp.blogspot.com/-RUVgu4TTEp8/VLbL9wIi4DI/AAAAAAAACnM/QAdogDoyXvA/s1600/Micromax-Canvas-Nitro-All-In-One-Camera-Widget.png)
 
 Micromax's UI
 
-[![](http://1.bp.blogspot.com/-UxxrrWy-RDk/VLbL5ZjHCmI/AAAAAAAACnE/Ehr2h7iNzHc/s1600/HIVE-UI-home-screen_thumb.jpg)](http://1.bp.blogspot.com/-UxxrrWy-RDk/VLbL5ZjHCmI/AAAAAAAACnE/Ehr2h7iNzHc/s1600/HIVE-UI-home-screen_thumb.jpg)
+[![](https://1.bp.blogspot.com/-UxxrrWy-RDk/VLbL5ZjHCmI/AAAAAAAACnE/Ehr2h7iNzHc/s1600/HIVE-UI-home-screen_thumb.jpg)](https://1.bp.blogspot.com/-UxxrrWy-RDk/VLbL5ZjHCmI/AAAAAAAACnE/Ehr2h7iNzHc/s1600/HIVE-UI-home-screen_thumb.jpg)
 
 Hive UI
 
@@ -39,7 +39,7 @@ On the other hand, the Micromax hasn't altered the Vanilla Android interface muc
 
 ### 2\. Stability:
 
-[![](http://2.bp.blogspot.com/-okJyiRD0cc4/VLbNB58MtUI/AAAAAAAACnY/Ru0BLPgvbCk/s1600/Micromax%2BCanvas%2BHD%2Blauncher%2Bcrash1.jpg)](http://2.bp.blogspot.com/-okJyiRD0cc4/VLbNB58MtUI/AAAAAAAACnY/Ru0BLPgvbCk/s1600/Micromax%2BCanvas%2BHD%2Blauncher%2Bcrash1.jpg)
+[![](https://2.bp.blogspot.com/-okJyiRD0cc4/VLbNB58MtUI/AAAAAAAACnY/Ru0BLPgvbCk/s1600/Micromax%2BCanvas%2BHD%2Blauncher%2Bcrash1.jpg)](https://2.bp.blogspot.com/-okJyiRD0cc4/VLbNB58MtUI/AAAAAAAACnY/Ru0BLPgvbCk/s1600/Micromax%2BCanvas%2BHD%2Blauncher%2Bcrash1.jpg)
 
 One bug in Micromax A116
 
@@ -57,7 +57,7 @@ When we look at bugs side of stability, Xolo is the clear winner. When you look 
 
 ### 3\. Bloatware:
 
-[![](http://1.bp.blogspot.com/-oXyaK9z6Fh4/VLbO5GeJfWI/AAAAAAAACno/HPi44PF_Ap4/s1600/Micromax-Canvas-Nitro-A310-Apps.jpg)](http://1.bp.blogspot.com/-oXyaK9z6Fh4/VLbO5GeJfWI/AAAAAAAACno/HPi44PF_Ap4/s1600/Micromax-Canvas-Nitro-A310-Apps.jpg)
+[![](https://1.bp.blogspot.com/-oXyaK9z6Fh4/VLbO5GeJfWI/AAAAAAAACno/HPi44PF_Ap4/s1600/Micromax-Canvas-Nitro-A310-Apps.jpg)](https://1.bp.blogspot.com/-oXyaK9z6Fh4/VLbO5GeJfWI/AAAAAAAACno/HPi44PF_Ap4/s1600/Micromax-Canvas-Nitro-A310-Apps.jpg)
 
 Micromax with all its bloatware
 
@@ -67,7 +67,7 @@ We are gonna check which brand has the least number of bloatware preinstalled an
   
 In Micromax Canvas Nitro, other than the standard set of utility apps and Google apps, it is loaded with bookmyshow, Clean Master, Foneclay, Games Club, Getit, hike messenger, Kingsoft office, M! Doodle, M! Games, M!Live, M!Insurance, M!Security (Anti-Theft app powered by OneAssist), miUnlock and Truecaller. It also has SwiftKey keyboard pre-installed.It has trial versions of Grow Away, Hitout Heroes, Smash it! and Where is my Water?games. All these apps and games occupy about 350MB of internal storage and cannot be uninstalled.  
 
-[![](http://1.bp.blogspot.com/-QKabkdggoiU/VLbPqAJw6jI/AAAAAAAACnw/aOKuaLMNoeg/s1600/xolohive.jpg)](http://1.bp.blogspot.com/-QKabkdggoiU/VLbPqAJw6jI/AAAAAAAACnw/aOKuaLMNoeg/s1600/xolohive.jpg)
+[![](https://1.bp.blogspot.com/-QKabkdggoiU/VLbPqAJw6jI/AAAAAAAACnw/aOKuaLMNoeg/s1600/xolohive.jpg)](https://1.bp.blogspot.com/-QKabkdggoiU/VLbPqAJw6jI/AAAAAAAACnw/aOKuaLMNoeg/s1600/xolohive.jpg)
 
   
 When you look at Hive, it has 4 core apps Edge, Secure, Power and Connect. The Edge provides access to ringtones, wallpapers and themes – users can download, comment on it and even share it with their friends.The Secure app helps protect your smartphone, it comes with lot of options like locking the phone in case you misplace it, factory reset lock (only you can factory reset the phone),SIM change notification and a very interesting feature called secret picture – the phone will use the front camera and snap the image of the person when unlock attempts fails (you will get the image via email). You need to register 2 mobile numbers and your gmail id.The Power is the battery saving option, you can select from the available modes, that includes low battery mode.The Connect option is to collaborate, get software updates, connect with Hive team and service centres. In addition to these you get, FusionX - A media center, PhotoX- A platform for Mobile Photographers.  
@@ -80,7 +80,7 @@ Though all these extras in Xolo are not necessary, they don't scream "WE ARE BLO
 
 ### 4\. Updates:
 
-[![](http://1.bp.blogspot.com/-CI-dLmuCdjY/VLbS57Yrw1I/AAAAAAAACoE/xCjk_Z6UdOA/s1600/Xolo%2BQ1000%2BOpus%2BUpdate%2B3.png)](http://1.bp.blogspot.com/-CI-dLmuCdjY/VLbS57Yrw1I/AAAAAAAACoE/xCjk_Z6UdOA/s1600/Xolo%2BQ1000%2BOpus%2BUpdate%2B3.png)
+[![](https://1.bp.blogspot.com/-CI-dLmuCdjY/VLbS57Yrw1I/AAAAAAAACoE/xCjk_Z6UdOA/s1600/Xolo%2BQ1000%2BOpus%2BUpdate%2B3.png)](https://1.bp.blogspot.com/-CI-dLmuCdjY/VLbS57Yrw1I/AAAAAAAACoE/xCjk_Z6UdOA/s1600/Xolo%2BQ1000%2BOpus%2BUpdate%2B3.png)
 
 An update in Xolo opus q1000
 
@@ -92,7 +92,7 @@ Both Micromax and Xolo doesn't provide much any updates for their old devices. B
 
 ### 5\. Price:
 
-[![](http://3.bp.blogspot.com/-uz2o80ZMsHM/VLbTWZfQjfI/AAAAAAAACoM/RXM0bgxFVPo/s1600/currencysymbols1v.jpg)](http://3.bp.blogspot.com/-uz2o80ZMsHM/VLbTWZfQjfI/AAAAAAAACoM/RXM0bgxFVPo/s1600/currencysymbols1v.jpg)
+[![](https://3.bp.blogspot.com/-uz2o80ZMsHM/VLbTWZfQjfI/AAAAAAAACoM/RXM0bgxFVPo/s1600/currencysymbols1v.jpg)](https://3.bp.blogspot.com/-uz2o80ZMsHM/VLbTWZfQjfI/AAAAAAAACoM/RXM0bgxFVPo/s1600/currencysymbols1v.jpg)
 
   
 We cannot determine the winner clearly in this region because both of the brands are the edge of the race of "Big specification at low price". One month Xolo brings up a "Wow!" phone and next month Micromax brings up a "Wowwiee!!" phone at the same low price and this cycle continues. As of present, Xolo is at the lead with Omega series providing octo core processors at Rs.9000. As the master phone-the Micromax steered "Yureka" comes under 'Yu' branding, we can't take it for comparison. So, Xolo is the winner here too!  
@@ -103,7 +103,7 @@ We cannot determine the winner clearly in this region because both of the brands
 
 ### 6\. Customer Service:
 
-[![](http://2.bp.blogspot.com/-HZRt--ppJv8/VLbQNn5rygI/AAAAAAAACn4/QeUHoDCglbM/s1600/micromaxservicecenters-india.jpg)](http://2.bp.blogspot.com/-HZRt--ppJv8/VLbQNn5rygI/AAAAAAAACn4/QeUHoDCglbM/s1600/micromaxservicecenters-india.jpg)
+[![](https://2.bp.blogspot.com/-HZRt--ppJv8/VLbQNn5rygI/AAAAAAAACn4/QeUHoDCglbM/s1600/micromaxservicecenters-india.jpg)](https://2.bp.blogspot.com/-HZRt--ppJv8/VLbQNn5rygI/AAAAAAAACn4/QeUHoDCglbM/s1600/micromaxservicecenters-india.jpg)
 
 Xolo is trying very hard to extent its Customer service. It has app such as "Connect" which allows you to connect with developers, put in some of your ideas and also provides you with good customer service. Though this 'Connection' plan do allow Xolo to be more useful in case of Minor queries, it is not that much 'Connected' in case of major problems. It do not have much Customer Service Centres as Micromax. It do provide a toll free number for queries though.  
   
@@ -113,7 +113,7 @@ Micromax has been in this field long enough that it has established a large numb
 
 ### 7\. Poll Results:
 
-[![](http://3.bp.blogspot.com/-DaBEpYTjcgA/VLeXHytz7wI/AAAAAAAACos/awcQp-z5VXI/s1600/Screenshot_2015-01-11-15-05-08.png)](http://3.bp.blogspot.com/-DaBEpYTjcgA/VLeXHytz7wI/AAAAAAAACos/awcQp-z5VXI/s1600/Screenshot_2015-01-11-15-05-08.png)
+[![](https://3.bp.blogspot.com/-DaBEpYTjcgA/VLeXHytz7wI/AAAAAAAACos/awcQp-z5VXI/s1600/Screenshot_2015-01-11-15-05-08.png)](https://3.bp.blogspot.com/-DaBEpYTjcgA/VLeXHytz7wI/AAAAAAAACos/awcQp-z5VXI/s1600/Screenshot_2015-01-11-15-05-08.png)
 
 I think its not enough for me alone to express my opinions. So I conducted a poll in Google+ and obtained a result I favour of Micromax.  
 

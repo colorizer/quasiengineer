@@ -17,7 +17,7 @@ I, during a normal visit to reddit, stumbled upon a post telling us how to View 
 
 ####  Steps:
 
-[![](http://cdn3.howtogeek.com/wp-content/uploads/2014/12/ximg_5495fcf517d50.jpg.pagespeed.ic.oEC7g3zDLA.jpg)](http://cdn3.howtogeek.com/wp-content/uploads/2014/12/ximg_5495fcf517d50.jpg.pagespeed.ic.oEC7g3zDLA.jpg)
+[![](https://cdn3.howtogeek.com/wp-content/uploads/2014/12/ximg_5495fcf517d50.jpg.pagespeed.ic.oEC7g3zDLA.jpg)](https://cdn3.howtogeek.com/wp-content/uploads/2014/12/ximg_5495fcf517d50.jpg.pagespeed.ic.oEC7g3zDLA.jpg)
 
 1.  Connect the iPhone to the Macbook using the Ligtning Cable.
 2.  Open the QuickTime player in your Macbook. It might be on your dock or through Macbook's applications folder on the hard drive.
@@ -27,6 +27,6 @@ I, during a normal visit to reddit, stumbled upon a post telling us how to View 
 6.  Once you have selected the iPhone, click the Record button in the QuickTime window and then perform the tasks on the iPhone you wish to capture as a video. 
 7.  After you finish and click the Stop button to have QuickTime finish recording, you can save the newly recorded clip to your Mac’s hard drive.
 
-Source: [NewYork Times](http://www.nytimes.com/2015/06/13/technology/personaltech/recording-a-phones-screen-on-a-mac.html)  
-The other way, which can be used for both iOS and Android on both Windows and Mac will be [here](http://technologyinfinite.blogspot.in/2015/06/how-to-stream-and-record-your.html).  
+Source: [NewYork Times](https://www.nytimes.com/2015/06/13/technology/personaltech/recording-a-phones-screen-on-a-mac.html)  
+The other way, which can be used for both iOS and Android on both Windows and Mac will be [here](https://technologyinfinite.blogspot.in/2015/06/how-to-stream-and-record-your.html).  
 p { margin-bottom: 0.25cm; line-height: 120%; }a:link { }

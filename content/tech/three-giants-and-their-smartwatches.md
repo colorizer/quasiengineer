@@ -11,7 +11,7 @@ Now-a-days, the tech geeks are at their extreme geekiness as three giants - Appl
 
 ### iWatch:
 
-[![](http://4.bp.blogspot.com/-zKmdYXQl2yk/UXDm05r_API/AAAAAAAAA88/oseQQ_Db-3A/s640/iwatch-concept2.jpg)](http://4.bp.blogspot.com/-zKmdYXQl2yk/UXDm05r_API/AAAAAAAAA88/oseQQ_Db-3A/s1600/iwatch-concept2.jpg)
+[![](https://4.bp.blogspot.com/-zKmdYXQl2yk/UXDm05r_API/AAAAAAAAA88/oseQQ_Db-3A/s640/iwatch-concept2.jpg)](https://4.bp.blogspot.com/-zKmdYXQl2yk/UXDm05r_API/AAAAAAAAA88/oseQQ_Db-3A/s1600/iwatch-concept2.jpg)
 
   
 
@@ -20,19 +20,19 @@ Above is the concept created by techies based on the recent patents acquired by 
 
 ### S-Watch:
 
-[![](http://4.bp.blogspot.com/-qKUss-9QgDc/UXDs2tf8kjI/AAAAAAAAA9E/iyRBucwcsLA/s1600/samsung_smartwatch_concept_2-580x386.jpg)](http://4.bp.blogspot.com/-qKUss-9QgDc/UXDs2tf8kjI/AAAAAAAAA9E/iyRBucwcsLA/s1600/samsung_smartwatch_concept_2-580x386.jpg)
+[![](https://4.bp.blogspot.com/-qKUss-9QgDc/UXDs2tf8kjI/AAAAAAAAA9E/iyRBucwcsLA/s1600/samsung_smartwatch_concept_2-580x386.jpg)](https://4.bp.blogspot.com/-qKUss-9QgDc/UXDs2tf8kjI/AAAAAAAAA9E/iyRBucwcsLA/s1600/samsung_smartwatch_concept_2-580x386.jpg)
 
   
 
-Well.. The Apple-Samsung competition will be in this smart market too. Bloomberg confirmed in [a recent report](http://www.bloomberg.com/news/2013-03-19/samsung-preparing-wristwatch-as-it-races-apple-for-sales.html) that Samsung is getting ready to enter the smart watch arena, and that the company is developing a wristwatch with functions similar to that of a mobile phone or a smartphone.  
+Well.. The Apple-Samsung competition will be in this smart market too. Bloomberg confirmed in [a recent report](https://www.bloomberg.com/news/2013-03-19/samsung-preparing-wristwatch-as-it-races-apple-for-sales.html) that Samsung is getting ready to enter the smart watch arena, and that the company is developing a wristwatch with functions similar to that of a mobile phone or a smartphone.  
 According to Bloomberg, Samsung has said "We've been preparing the watch product for so long. We are working very hard to get ready for it. We are preparing products for the future, and the watch is definitely one of them."  
-Most of the bloggers expect the same features as expected in the iWatch but in this with the Android OS. But, what I think is that this watch will be shipping with [Tizen OS](http://technologyinfinite.blogspot.in/2013/03/mobile-operating-systems-of-2013.html). Because, Samsung is working on that for a long time too and this OS is less power consuming that Android. So, this can make Samsung smartwatch a better choice over other smartwatches.
+Most of the bloggers expect the same features as expected in the iWatch but in this with the Android OS. But, what I think is that this watch will be shipping with [Tizen OS](https://technologyinfinite.blogspot.in/2013/03/mobile-operating-systems-of-2013.html). Because, Samsung is working on that for a long time too and this OS is less power consuming that Android. So, this can make Samsung smartwatch a better choice over other smartwatches.
 
   
 
 ### X-Watch:
 
-[![](http://1.bp.blogspot.com/-Fe27HgmR6ws/UXDzQc5OJGI/AAAAAAAAA9M/TKIZOVQPl8E/s1600/microsoft_smartwatch_windows_phone_mockup-545x500.jpg)](http://1.bp.blogspot.com/-Fe27HgmR6ws/UXDzQc5OJGI/AAAAAAAAA9M/TKIZOVQPl8E/s1600/microsoft_smartwatch_windows_phone_mockup-545x500.jpg)
+[![](https://1.bp.blogspot.com/-Fe27HgmR6ws/UXDzQc5OJGI/AAAAAAAAA9M/TKIZOVQPl8E/s1600/microsoft_smartwatch_windows_phone_mockup-545x500.jpg)](https://1.bp.blogspot.com/-Fe27HgmR6ws/UXDzQc5OJGI/AAAAAAAAA9M/TKIZOVQPl8E/s1600/microsoft_smartwatch_windows_phone_mockup-545x500.jpg)
 
   
 
@@ -40,4 +40,4 @@ I meant the Windows smartwatch only (name stolen from Xbox!). Like rivals in th
 
   
 
-Though the smartwatch made its ground breaking appearance last year with Pebble, Sony, Nike releasing them, the race is going to start this year only. Of course there is another sci-fi tech coming out this year called [Google glass](http://technologyinfinite.blogspot.in/2013/04/google-glass-quick-look.html), it is not as affordable as a SmartWatch. Who is going to be the king of this Smart Watch world? All we can do is to wait and "watch".
+Though the smartwatch made its ground breaking appearance last year with Pebble, Sony, Nike releasing them, the race is going to start this year only. Of course there is another sci-fi tech coming out this year called [Google glass](https://technologyinfinite.blogspot.in/2013/04/google-glass-quick-look.html), it is not as affordable as a SmartWatch. Who is going to be the king of this Smart Watch world? All we can do is to wait and "watch".

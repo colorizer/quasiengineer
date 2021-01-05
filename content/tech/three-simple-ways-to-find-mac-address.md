@@ -11,7 +11,7 @@ You may need the MAC address for various functions at some point in your life. S
 
 #### 1) Using Networks Manager:
 
-[![](https://3.bp.blogspot.com/-nGoSINT4gaE/V5jyVDPg5MI/AAAAAAAAGLA/68VDU2eUOGc0i2xGeSZ8gxQUQ0H1cEVowCK4B/s320/nm.jpg)](http://3.bp.blogspot.com/-nGoSINT4gaE/V5jyVDPg5MI/AAAAAAAAGLA/68VDU2eUOGc0i2xGeSZ8gxQUQ0H1cEVowCK4B/s1600/nm.jpg)
+[![](httpss://3.bp.blogspot.com/-nGoSINT4gaE/V5jyVDPg5MI/AAAAAAAAGLA/68VDU2eUOGc0i2xGeSZ8gxQUQ0H1cEVowCK4B/s320/nm.jpg)](https://3.bp.blogspot.com/-nGoSINT4gaE/V5jyVDPg5MI/AAAAAAAAGLA/68VDU2eUOGc0i2xGeSZ8gxQUQ0H1cEVowCK4B/s1600/nm.jpg)
 
   
 
@@ -33,7 +33,7 @@ You may probably get two mac address (as I got). Don't worry. They might be the 
 
   
 
-[![](https://3.bp.blogspot.com/-Vq1dDtlO-Io/V5juhp3uULI/AAAAAAAAGKA/KP4jDKOiA4Eh40Pr1-X0p5Nf6HnTK1LxwCK4B/s320/terminal.jpg)](http://3.bp.blogspot.com/-Vq1dDtlO-Io/V5juhp3uULI/AAAAAAAAGKA/KP4jDKOiA4Eh40Pr1-X0p5Nf6HnTK1LxwCK4B/s1600/terminal.jpg)
+[![](httpss://3.bp.blogspot.com/-Vq1dDtlO-Io/V5juhp3uULI/AAAAAAAAGKA/KP4jDKOiA4Eh40Pr1-X0p5Nf6HnTK1LxwCK4B/s320/terminal.jpg)](https://3.bp.blogspot.com/-Vq1dDtlO-Io/V5juhp3uULI/AAAAAAAAGKA/KP4jDKOiA4Eh40Pr1-X0p5Nf6HnTK1LxwCK4B/s1600/terminal.jpg)
 
   
 
@@ -48,11 +48,11 @@ You can use the connection information for gaining the mac addresses.
 *   Click on the _Network indicator_ in the Unity panel.
 *   Select _connection information_ from the submenu.
 
-[![](https://3.bp.blogspot.com/-8vO12QbfGQM/V5jwXBasi3I/AAAAAAAAGKY/MK4oscYpSf828QrbSJbm9PoyxT9pGCnfACK4B/s320/connection.jpg)](http://3.bp.blogspot.com/-8vO12QbfGQM/V5jwXBasi3I/AAAAAAAAGKY/MK4oscYpSf828QrbSJbm9PoyxT9pGCnfACK4B/s1600/connection.jpg)
+[![](httpss://3.bp.blogspot.com/-8vO12QbfGQM/V5jwXBasi3I/AAAAAAAAGKY/MK4oscYpSf828QrbSJbm9PoyxT9pGCnfACK4B/s320/connection.jpg)](https://3.bp.blogspot.com/-8vO12QbfGQM/V5jwXBasi3I/AAAAAAAAGKY/MK4oscYpSf828QrbSJbm9PoyxT9pGCnfACK4B/s1600/connection.jpg)
 
 *   The Hardware address provides you with your current connection's (LAN or Wifi) mac address.
 
-[![](https://2.bp.blogspot.com/-hkTYwE8t1u4/V5jxA1WMI4I/AAAAAAAAGKs/5-5MOWHyRzUxJY-gccAku8p8PTeWFMZHgCK4B/s320/hadinfo.jpg)](http://2.bp.blogspot.com/-hkTYwE8t1u4/V5jxA1WMI4I/AAAAAAAAGKs/5-5MOWHyRzUxJY-gccAku8p8PTeWFMZHgCK4B/s1600/hadinfo.jpg)
+[![](httpss://2.bp.blogspot.com/-hkTYwE8t1u4/V5jxA1WMI4I/AAAAAAAAGKs/5-5MOWHyRzUxJY-gccAku8p8PTeWFMZHgCK4B/s320/hadinfo.jpg)](https://2.bp.blogspot.com/-hkTYwE8t1u4/V5jxA1WMI4I/AAAAAAAAGKs/5-5MOWHyRzUxJY-gccAku8p8PTeWFMZHgCK4B/s1600/hadinfo.jpg)
 
   
 

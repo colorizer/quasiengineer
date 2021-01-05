@@ -13,7 +13,7 @@ Apple has so long been the innovator of computer technology. Though Samsung gala
 Apple iPhone 5:
 ---------------
 
-[![](http://4.bp.blogspot.com/-ZIwY2a5xoeM/UVbM8zWsteI/AAAAAAAAAbE/kOQOEm76fXY/s1600/ipfone5.png)](http://4.bp.blogspot.com/-ZIwY2a5xoeM/UVbM8zWsteI/AAAAAAAAAbE/kOQOEm76fXY/s1600/ipfone5.png)
+[![](https://4.bp.blogspot.com/-ZIwY2a5xoeM/UVbM8zWsteI/AAAAAAAAAbE/kOQOEm76fXY/s1600/ipfone5.png)](https://4.bp.blogspot.com/-ZIwY2a5xoeM/UVbM8zWsteI/AAAAAAAAAbE/kOQOEm76fXY/s1600/ipfone5.png)
 
 I don't know who gave them that idea. While apple geeks kept asking for a little broader phone so that their fingers won't go into funny positions while typing, what they gave out is a little longer phone which made typing look like finger-fighting. They really gotta understand that innovation is not being different but being different in a useful way.
 
@@ -22,7 +22,7 @@ I don't know who gave them that idea. While apple geeks kept asking for a little
 Apple Maps:
 -----------
 
-[![](http://2.bp.blogspot.com/-uI0dLbAiiXU/UVbN-8Z0p3I/AAAAAAAAAbM/dvYCdX52aQo/s1600/maps_hero.jpg)](http://2.bp.blogspot.com/-uI0dLbAiiXU/UVbN-8Z0p3I/AAAAAAAAAbM/dvYCdX52aQo/s1600/maps_hero.jpg)
+[![](https://2.bp.blogspot.com/-uI0dLbAiiXU/UVbN-8Z0p3I/AAAAAAAAAbM/dvYCdX52aQo/s1600/maps_hero.jpg)](https://2.bp.blogspot.com/-uI0dLbAiiXU/UVbN-8Z0p3I/AAAAAAAAAbM/dvYCdX52aQo/s1600/maps_hero.jpg)
 
 It was a big relief for the Apple users when Google finally released their Google Maps for the iPhone. Trying to create a Apple branded Maps, they just created a complete fiasco. Many will be happy that they didn't place Empire states building over the Himalayas.
 
@@ -31,7 +31,7 @@ It was a big relief for the Apple users when Google finally released their Googl
 iPen:
 -----
 
-[![](http://4.bp.blogspot.com/-0LxSKgiUVK4/UVbMSvxhMwI/AAAAAAAAAa8/kl_LR6e8cWg/s1600/i-Pen+n+s-pen.jpg)](http://4.bp.blogspot.com/-0LxSKgiUVK4/UVbMSvxhMwI/AAAAAAAAAa8/kl_LR6e8cWg/s1600/i-Pen+n+s-pen.jpg)
+[![](https://4.bp.blogspot.com/-0LxSKgiUVK4/UVbMSvxhMwI/AAAAAAAAAa8/kl_LR6e8cWg/s1600/i-Pen+n+s-pen.jpg)](https://4.bp.blogspot.com/-0LxSKgiUVK4/UVbMSvxhMwI/AAAAAAAAAa8/kl_LR6e8cWg/s1600/i-Pen+n+s-pen.jpg)
 
   
 
@@ -41,7 +41,7 @@ While the iPen is not yet out, the recent patents of Apple reveals that they a d
 Siri:
 -----
 
-[![](http://1.bp.blogspot.com/-FItRHW4e2m8/UVbSnkjhXsI/AAAAAAAAAbk/f9HwId5bKQQ/s1600/siriVSgoogle.jpg)](http://1.bp.blogspot.com/-FItRHW4e2m8/UVbSnkjhXsI/AAAAAAAAAbk/f9HwId5bKQQ/s1600/siriVSgoogle.jpg)
+[![](https://1.bp.blogspot.com/-FItRHW4e2m8/UVbSnkjhXsI/AAAAAAAAAbk/f9HwId5bKQQ/s1600/siriVSgoogle.jpg)](https://1.bp.blogspot.com/-FItRHW4e2m8/UVbSnkjhXsI/AAAAAAAAAbk/f9HwId5bKQQ/s1600/siriVSgoogle.jpg)
 
   
 

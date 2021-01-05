@@ -11,7 +11,7 @@ tags : [carbon, Graphene, camera, Digital life, Scientific, Technology, innovati
 Its been a big asset for photographers for a long time but it is time to leave the flash device in the museum. A new image sensor could make it possible for the photographers to take Clear, sharp photos even on dim lighting.  
   
 
-[![](http://4.bp.blogspot.com/-L3pKUOHydIc/Uet_iCfFJAI/AAAAAAAAB0g/uRriuPIHe_I/s1600/camera-senor.jpg)](http://4.bp.blogspot.com/-L3pKUOHydIc/Uet_iCfFJAI/AAAAAAAAB0g/uRriuPIHe_I/s1600/camera-senor.jpg)
+[![](https://4.bp.blogspot.com/-L3pKUOHydIc/Uet_iCfFJAI/AAAAAAAAB0g/uRriuPIHe_I/s1600/camera-senor.jpg)](https://4.bp.blogspot.com/-L3pKUOHydIc/Uet_iCfFJAI/AAAAAAAAB0g/uRriuPIHe_I/s1600/camera-senor.jpg)
 
   
   

@@ -6,7 +6,7 @@ aliases: [ "/2014/04/earth-day-what-makes-difference.html" ]
 tags : [Article]
 ---
 
-![](http://2.bp.blogspot.com/-45ygnZAqMuY/U1ZoAQMvuNI/AAAAAAAACSE/drGFtm6kBiY/s1600/earth-day.jpg)
+![](https://2.bp.blogspot.com/-45ygnZAqMuY/U1ZoAQMvuNI/AAAAAAAACSE/drGFtm6kBiY/s1600/earth-day.jpg)
 
   
 
@@ -14,7 +14,7 @@ I would have joined the "Earth day" activities and would have ran around the cit
   
 With 'Kadhi kurdha' and a cotton shawl around his neck, he would have made his impression as a compelling environmental activist on anyone but not on me (atleast, for now). But, Mr. Nityanand Jeyaraman, was not just another activist.  
 
-![](http://2.bp.blogspot.com/-ksMfdPrVl1A/U1ZoydCZMRI/AAAAAAAACSM/_Zgp6OTopGE/s1600/in_2009_Nity_Jayaraman_and_family.jpg)
+![](https://2.bp.blogspot.com/-ksMfdPrVl1A/U1ZoydCZMRI/AAAAAAAACSM/_Zgp6OTopGE/s1600/in_2009_Nity_Jayaraman_and_family.jpg)
 
   
 He didn't ask us to go around on a rally and shoot out handouts. He asked us a simple question.  
@@ -31,7 +31,7 @@ There was a prolonged silence of never ending thoughts until he answered it hims
   
 That was one awkward truth for the people who have been saying that they have found a revolutionizing way to deal with plastic.  
 
-![](http://4.bp.blogspot.com/-Wc4d6yxCGCk/U1ZpuxJ5HXI/AAAAAAAACSY/Bw6WqcB53gc/s1600/www.chrisjordan.com_images_current2_1178475329.jpg)
+![](https://4.bp.blogspot.com/-Wc4d6yxCGCk/U1ZpuxJ5HXI/AAAAAAAACSY/Bw6WqcB53gc/s1600/www.chrisjordan.com_images_current2_1178475329.jpg)
 
   
 "You not destroying it. You are just lengthening the time it takes to reach the trash can."  

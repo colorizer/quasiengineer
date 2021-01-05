@@ -11,7 +11,7 @@ tags : [Article]
 \-  R K Narayan in his novel "The English Teacher"  
   
 
-![](http://3.bp.blogspot.com/-29NgAbyyZp0/UYudWY66qnI/AAAAAAAABUQ/ji019ykEvCo/s320/Smile_in_Darkness.jpg)
+![](https://3.bp.blogspot.com/-29NgAbyyZp0/UYudWY66qnI/AAAAAAAABUQ/ji019ykEvCo/s320/Smile_in_Darkness.jpg)
 
   
   

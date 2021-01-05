@@ -9,21 +9,21 @@ tags : [Android L, Ubuntu touch, google+, Software, Google, Material design, per
 Lollipop? Lava cake?? No. Just name it L! Because big changes sound so simple at first! After Google released the developer preview for the so-called "Android L", people had made a lot of reviews about it. Here is a list of main changes coming with this L-release.  
   
 
-[![](http://2.bp.blogspot.com/-Hhp8718K-Lc/U61LhfctZ_I/AAAAAAAACW4/FwpjpwCJB1Y/s1600/a.png)](http://2.bp.blogspot.com/-Hhp8718K-Lc/U61LhfctZ_I/AAAAAAAACW4/FwpjpwCJB1Y/s1600/a.png)
+[![](https://2.bp.blogspot.com/-Hhp8718K-Lc/U61LhfctZ_I/AAAAAAAACW4/FwpjpwCJB1Y/s1600/a.png)](https://2.bp.blogspot.com/-Hhp8718K-Lc/U61LhfctZ_I/AAAAAAAACW4/FwpjpwCJB1Y/s1600/a.png)
 
 ### 1\. The Material Design
 
-[![](http://2.bp.blogspot.com/-NfSa0zZj7Ig/U61O7jC6zkI/AAAAAAAACXE/SC3ZCIw_Fnk/s1600/Android-L-Material-Contacts.jpg)](http://2.bp.blogspot.com/-NfSa0zZj7Ig/U61O7jC6zkI/AAAAAAAACXE/SC3ZCIw_Fnk/s1600/Android-L-Material-Contacts.jpg)
+[![](https://2.bp.blogspot.com/-NfSa0zZj7Ig/U61O7jC6zkI/AAAAAAAACXE/SC3ZCIw_Fnk/s1600/Android-L-Material-Contacts.jpg)](https://2.bp.blogspot.com/-NfSa0zZj7Ig/U61O7jC6zkI/AAAAAAAACXE/SC3ZCIw_Fnk/s1600/Android-L-Material-Contacts.jpg)
 
   
 
-This time Google has taken bringing changes to the UI so much seriously. Inspired by basic shapes and sheets of paper (which sounds somewhat like [Ubuntu touch](http://technologyinfinite.blogspot.in/2013/03/ubuntu-phone.html)!), the new interface gives a kind of floating feel. In the basic level, the back button is now a triangle, the multitasking button a square and the home button is replaced with a circle. The overall design is now cooler with much more colours and smooth animations. You can have a taste of this design in the present Google+ app for android which follows the guidelines of Material design. This change has not been spread to every corner yet because its still in a developer-preview stage but do expect a fresh experience!
+This time Google has taken bringing changes to the UI so much seriously. Inspired by basic shapes and sheets of paper (which sounds somewhat like [Ubuntu touch](https://technologyinfinite.blogspot.in/2013/03/ubuntu-phone.html)!), the new interface gives a kind of floating feel. In the basic level, the back button is now a triangle, the multitasking button a square and the home button is replaced with a circle. The overall design is now cooler with much more colours and smooth animations. You can have a taste of this design in the present Google+ app for android which follows the guidelines of Material design. This change has not been spread to every corner yet because its still in a developer-preview stage but do expect a fresh experience!
 
   
 
 ### 2\. Improved notifications
 
-[![](http://3.bp.blogspot.com/-BSXOd4MFTYU/U61Qme8UtZI/AAAAAAAACXQ/gMuJvKXOpXY/s1600/notif.jpg)](http://3.bp.blogspot.com/-BSXOd4MFTYU/U61Qme8UtZI/AAAAAAAACXQ/gMuJvKXOpXY/s1600/notif.jpg)
+[![](https://3.bp.blogspot.com/-BSXOd4MFTYU/U61Qme8UtZI/AAAAAAAACXQ/gMuJvKXOpXY/s1600/notif.jpg)](https://3.bp.blogspot.com/-BSXOd4MFTYU/U61Qme8UtZI/AAAAAAAACXQ/gMuJvKXOpXY/s1600/notif.jpg)
 
   
 
@@ -32,7 +32,7 @@ You also get a "Do not Disturb" mode which really leaves you undisturbed. It hid
 
 ### 4\. Rethought Multitasking
 
-[![](http://4.bp.blogspot.com/-1IrDtabiGHY/U61SpoGgJfI/AAAAAAAACXc/s28jUbOTIts/s1600/muulti.jpg)](http://4.bp.blogspot.com/-1IrDtabiGHY/U61SpoGgJfI/AAAAAAAACXc/s28jUbOTIts/s1600/muulti.jpg)
+[![](https://4.bp.blogspot.com/-1IrDtabiGHY/U61SpoGgJfI/AAAAAAAACXc/s28jUbOTIts/s1600/muulti.jpg)](https://4.bp.blogspot.com/-1IrDtabiGHY/U61SpoGgJfI/AAAAAAAACXc/s28jUbOTIts/s1600/muulti.jpg)
 
   
 
@@ -42,4 +42,4 @@ The multitasking do much more tasks than what it used to do. You won't be just a
 
 _Though,_ those were the big changes we can see straight away, there are much bigger changes made in the overall OS improving the general performance, security and battery life. After all, Android is just getting better and better!  
   
-Source: http://www.theverge.com/2014/6/26/5846824/android-L-preview-first-impressions-video-photos
+Source: https://www.theverge.com/2014/6/26/5846824/android-L-preview-first-impressions-video-photos

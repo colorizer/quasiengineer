@@ -8,7 +8,7 @@ tags : [How To's, data recovery, hack, passwords, Windows]
 
   
 
-[![](http://cdn.mos.techradar.com//art/magazines/PC%20Format/Issue%20277/OWV74.ex9_wifi.win7back-470-75.jpg)](http://cdn.mos.techradar.com//art/magazines/PC%20Format/Issue%20277/OWV74.ex9_wifi.win7back-470-75.jpg)
+[![](https://cdn.mos.techradar.com//art/magazines/PC%20Format/Issue%20277/OWV74.ex9_wifi.win7back-470-75.jpg)](https://cdn.mos.techradar.com//art/magazines/PC%20Format/Issue%20277/OWV74.ex9_wifi.win7back-470-75.jpg)
 
   
   
@@ -33,7 +33,7 @@ To reset your Windows user account password, you must first boot the computer fr
 
   
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step2-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step2-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step2-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step2-420-90.jpg)
 
   
   
@@ -43,7 +43,7 @@ Click 'Repair your computer'. The repair software takes a few moments to load fr
 
 #### 3\. Find the C drive:
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step3-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step3-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step3-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step3-420-90.jpg)
 
   
   
@@ -58,7 +58,7 @@ into the command line. This command results in text ending in partition= and a d
 
   
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step4-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step4-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step4-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step4-420-90.jpg)
 
   
   
@@ -78,7 +78,7 @@ When prompted, confirm the second command by typing Yes. The first command backs
 
   
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step5-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step5-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step5-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step5-420-90.jpg)
 
   
   
@@ -93,7 +93,7 @@ Substitute the name of the account to reset and a new password as appropriate. C
 
   
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step6-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step6-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step6-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step6-420-90.jpg)
 
   
   
@@ -108,18 +108,18 @@ Confirm the copy to finish.
 
   
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step7-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step7-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step7-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step7-420-90.jpg)
 
   
   
-To crack an unknown password, we need to use a heavy duty password cracker like Ophcrack. You'll need to download it from [http://ophcrack.sourceforge.net/download.php](http://ophcrack.sourceforge.net/download.php). To get started, insert a blank, formatted DVD-RW, then right-click the downloaded image and select 'Burn disc image'. The disc being written is a bootable live CD containing both Linux and Ophcrack.  
+To crack an unknown password, we need to use a heavy duty password cracker like Ophcrack. You'll need to download it from [https://ophcrack.sourceforge.net/download.php](https://ophcrack.sourceforge.net/download.php). To get started, insert a blank, formatted DVD-RW, then right-click the downloaded image and select 'Burn disc image'. The disc being written is a bootable live CD containing both Linux and Ophcrack.  
   
 
 #### 8\. Boot Ophcrack:
 
   
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step8-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step8-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step8-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step8-420-90.jpg)
 
   
   
@@ -130,7 +130,7 @@ Once the DVD has been written, boot the affected computer and the DVD should beg
 
   
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step9-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step9-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step9-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step9-420-90.jpg)
 
   
   
@@ -141,11 +141,11 @@ Short passwords, such as '1234' or 'password', will fall to Ophcrack almost imme
 
   
 
-[![](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step10-420-90.jpg)](http://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step10-420-90.jpg)
+[![](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step10-420-90.jpg)](https://mos.futurenet.com/techradar/art/magazines/PC%20Format/Issue%20277/OWV81.explore3.step10-420-90.jpg)
 
   
   
-Finally, let's perform a deep scan of the whole computer to reveal all passwords associated with Windows user accounts. Close any windows and double click 'Launcher', then scroll down to 'DeepSearch' and press \[Enter\]. Ophcrack will search all available media for any password files - not just the system volume - and then perform its password-cracking wizardry.![](http://rss.feedsportal.com/c/669/f/9809/s/2c1e58d4/mf.gif)  
+Finally, let's perform a deep scan of the whole computer to reveal all passwords associated with Windows user accounts. Close any windows and double click 'Launcher', then scroll down to 'DeepSearch' and press \[Enter\]. Ophcrack will search all available media for any password files - not just the system volume - and then perform its password-cracking wizardry.![](https://rss.feedsportal.com/c/669/f/9809/s/2c1e58d4/mf.gif)  
 
 #### How to be secure:
 

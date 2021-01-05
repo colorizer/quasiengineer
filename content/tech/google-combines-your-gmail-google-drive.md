@@ -14,16 +14,16 @@ Google finally announced that it is finally combining the storage of all its clo
 
   
 
-[![](http://2.bp.blogspot.com/-z6lG5gZWQh4/UZDjCv3T1QI/AAAAAAAABMc/H67CIRQllAk/s400/Shared+storage.png)](http://2.bp.blogspot.com/-z6lG5gZWQh4/UZDjCv3T1QI/AAAAAAAABMc/H67CIRQllAk/s1600/Shared+storage.png)
+[![](https://2.bp.blogspot.com/-z6lG5gZWQh4/UZDjCv3T1QI/AAAAAAAABMc/H67CIRQllAk/s400/Shared+storage.png)](https://2.bp.blogspot.com/-z6lG5gZWQh4/UZDjCv3T1QI/AAAAAAAABMc/H67CIRQllAk/s1600/Shared+storage.png)
 
   
   
 With this new combined storage space, you won’t have to worry about how much you’re storing and where. For example, maybe you’re a heavy Gmail user but light on photos, or perhaps you were bumping up against your Drive storage limit but were only using 2 GB in Gmail. Now it doesn’t matter, because you can use your storage the way you want.  
   
   
-[![](http://1.bp.blogspot.com/-YfchTYO4e-w/UZEbzgrDMiI/AAAAAAAABM4/DFuUGB18V4c/s640/screenshots_0000_consumer.png)](http://1.bp.blogspot.com/-YfchTYO4e-w/UZEbzgrDMiI/AAAAAAAABM4/DFuUGB18V4c/s1600/screenshots_0000_consumer.png)  
+[![](https://1.bp.blogspot.com/-YfchTYO4e-w/UZEbzgrDMiI/AAAAAAAABM4/DFuUGB18V4c/s640/screenshots_0000_consumer.png)](https://1.bp.blogspot.com/-YfchTYO4e-w/UZEbzgrDMiI/AAAAAAAABM4/DFuUGB18V4c/s1600/screenshots_0000_consumer.png)  
   
-We’ll also be making updates to the [Google Drive storage page](http://www.google.com/settings/storage), so you can better understand how you’re using storage space. Simply hover over the pie chart to see a breakdown of your storage use across Drive, Gmail, and Google+ Photos. And if you need more storage, this is your place to upgrade, with plans starting at $4.99/month for 100 GB.  
+We’ll also be making updates to the [Google Drive storage page](https://www.google.com/settings/storage), so you can better understand how you’re using storage space. Simply hover over the pie chart to see a breakdown of your storage use across Drive, Gmail, and Google+ Photos. And if you need more storage, this is your place to upgrade, with plans starting at $4.99/month for 100 GB.  
   
 Pro tip: This change means you’re no longer limited to a 25 GB upgrade in Gmail—any additional storage you purchase now applies there, too.  
   

@@ -8,7 +8,7 @@ tags : [How To's, iOS, Amazon Fire TV, Apple, Windows, Mac OS X, record screen, 
 
 Simple. The Reflector 2 is the Answer.  
 
-[![](http://www.airsquirrels.com/images/feature-tile-mirroring.png) ](http://www.airsquirrels.com/images/feature-tile-mirroring.png)
+[![](https://www.airsquirrels.com/images/feature-tile-mirroring.png) ](https://www.airsquirrels.com/images/feature-tile-mirroring.png)
 
  Reflector 2 is a software developed by Airsquirrels that promises to help you mirror, record and do more with your iOS/Android devices on your PC. You can mirror your content to the big screen without wires or complicated setups. Play games, watch movies, demo applications or present from the palm of your hand. Everything you do on your device can be wirelessly sent to Reflector!
 
@@ -30,6 +30,6 @@ Simple. The Reflector 2 is the Answer.
 4.  **Stream Media:** You can stream Videos, pictures and Slideshows. Audio only mode is also available for your Music streaming.
 5.  **Security:** It enables high security by making use of Onscreen codes to connect. It also lets you to choose between prompting everytime or once.
 
-![](http://www.airsquirrels.com/images/feature-tile-security.png)  
-Its really an awesome piece of software that makes mirroring multiple devices easier than ever. You can try it for free or buy it for $15 (approximately 960INR). You can learn more about this [here](http://www.airsquirrels.com/reflector/).  
-For iOS, you can mirror or record your Hand-helds' screen to your Macbook using the QuickTime player by [this way](http://technologyinfinite.blogspot.in/2015/06/how-to-view-and-record-your-iphone.html).
+![](https://www.airsquirrels.com/images/feature-tile-security.png)  
+Its really an awesome piece of software that makes mirroring multiple devices easier than ever. You can try it for free or buy it for $15 (approximately 960INR). You can learn more about this [here](https://www.airsquirrels.com/reflector/).  
+For iOS, you can mirror or record your Hand-helds' screen to your Macbook using the QuickTime player by [this way](https://technologyinfinite.blogspot.in/2015/06/how-to-view-and-record-your-iphone.html).

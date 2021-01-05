@@ -8,7 +8,7 @@ tags : [How To's, Linux, USB, Windows, bluetooth. remote control, Mac OS X, smar
 
   
 
-[![](http://screen.bbqdroid.org/img/headline_1.jpg)](http://screen.bbqdroid.org/img/headline_1.jpg)
+[![](https://screen.bbqdroid.org/img/headline_1.jpg)](https://screen.bbqdroid.org/img/headline_1.jpg)
 
 BBQScreen. That's the name! BBQscreen is a software that allows you to share and interact( YES, INTERACT!) with your Android's screen on your Linux PC. Well, this is available for all Platforms- Windows, Mac OS and Linux.  
 
@@ -16,7 +16,7 @@ BBQScreen. That's the name! BBQscreen is a software that allows you to share and
 
 Well its simple. 
 
-1.  Download the BBQscreen software for your [Linux](http://screen.bbqdroid.org/downloads/client_linux_x86_2.2.0.tar.gz) or other PC(link provided below) and the app.
+1.  Download the BBQscreen software for your [Linux](https://screen.bbqdroid.org/downloads/client_linux_x86_2.2.0.tar.gz) or other PC(link provided below) and the app.
 2.  Open the app and turn it on.
 3.  Open the client app, double click the device.
 
@@ -35,6 +35,6 @@ Here is the video of its latest update.
 
   
 
-You can view and download the software [here](http://screen.bbqdroid.org/).
+You can view and download the software [here](https://screen.bbqdroid.org/).
 
 You know someway other than this? Please share in the comments section and I'll update the post!

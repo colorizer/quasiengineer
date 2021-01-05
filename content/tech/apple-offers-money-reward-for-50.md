@@ -10,7 +10,7 @@ Apple got its own way of stunning customers. Had you ever thought of a reward of
 
   
 
-[![](http://3.bp.blogspot.com/-nxb-IDjWllA/UYUNKlE951I/AAAAAAAABQE/TCx4bX60e1Q/s1600/apple_moneypile.png)](http://3.bp.blogspot.com/-nxb-IDjWllA/UYUNKlE951I/AAAAAAAABQE/TCx4bX60e1Q/s1600/apple_moneypile.png)
+[![](https://3.bp.blogspot.com/-nxb-IDjWllA/UYUNKlE951I/AAAAAAAABQE/TCx4bX60e1Q/s1600/apple_moneypile.png)](https://3.bp.blogspot.com/-nxb-IDjWllA/UYUNKlE951I/AAAAAAAABQE/TCx4bX60e1Q/s1600/apple_moneypile.png)
 
   
 The 50 billionth app download is about to happen, and Apple wants to reward the receiver with a $10,000 (around £6,400/AUS$9,740) App Store gift card. Nice, huh? We think so.  
@@ -23,4 +23,4 @@ To give an idea of the rate at which we're all grabbing apps from the iOS store,
 
   
 
-Data via [Techradar](http://www.techradar.com/us/news/phone-and-communications/mobile-phones/apple-offers-big-reward-for-50-billionth-app-download-1149142?src=rss&attr=all)
+Data via [Techradar](https://www.techradar.com/us/news/phone-and-communications/mobile-phones/apple-offers-big-reward-for-50-billionth-app-download-1149142?src=rss&attr=all)

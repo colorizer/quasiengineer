@@ -6,7 +6,7 @@ aliases: [ "/2013/04/google-glass-quick-look.html" ]
 tags : [Gadgets, Google, High Altitude Ballooning, Maps, Mobile, Technology, Google glass]
 ---
 
-[![](http://2.bp.blogspot.com/-NEabYWZL5Xg/UWUblfUoeFI/AAAAAAAAAvE/_2vXI0-b8vY/s400/googLAS.jpg)](http://2.bp.blogspot.com/-NEabYWZL5Xg/UWUblfUoeFI/AAAAAAAAAvE/_2vXI0-b8vY/s1600/googLAS.jpg)
+[![](https://2.bp.blogspot.com/-NEabYWZL5Xg/UWUblfUoeFI/AAAAAAAAAvE/_2vXI0-b8vY/s400/googLAS.jpg)](https://2.bp.blogspot.com/-NEabYWZL5Xg/UWUblfUoeFI/AAAAAAAAAvE/_2vXI0-b8vY/s1600/googLAS.jpg)
 
   
 Already you would have known a lot about this Google's new gadget. If not, Google glass is is nothing but Google's effort to create a smart glass. Let us take a quick look at the feel of this techie and know a little about the technology behind it.  
@@ -33,11 +33,11 @@ The official video looks awesome but there is a doubt whether it will be of any 
 The technology behind:
 ----------------------
 
-Here's a picture explaining how Google glass works(image courtesy: [www.brille-kaufen.org](http://www.brille-kaufen.org/)):
+Here's a picture explaining how Google glass works(image courtesy: [www.brille-kaufen.org](https://www.brille-kaufen.org/)):
 
   
 
-[![](http://3.bp.blogspot.com/-czigszCWadE/UWUZieqYoBI/AAAAAAAAAu0/D0jHv2YUYDs/s1600/googleglassgraph.jpg)](http://3.bp.blogspot.com/-czigszCWadE/UWUZieqYoBI/AAAAAAAAAu0/D0jHv2YUYDs/s1600/googleglassgraph.jpg)
+[![](https://3.bp.blogspot.com/-czigszCWadE/UWUZieqYoBI/AAAAAAAAAu0/D0jHv2YUYDs/s1600/googleglassgraph.jpg)](https://3.bp.blogspot.com/-czigszCWadE/UWUZieqYoBI/AAAAAAAAAu0/D0jHv2YUYDs/s1600/googleglassgraph.jpg)
 
   
 
