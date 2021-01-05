@@ -1,8 +1,8 @@
 ---
 title: "Quasi Engineer"
 date: 2021-01-03T22:14:57+05:30
-draft: true
+draft: false
 align: center
 ---
 
-Asymptotically approaching the Engineering degree.
+A four dimensional entity that approaches the _Engineer Subspace_, asymptotically.

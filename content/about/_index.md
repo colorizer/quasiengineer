@@ -5,4 +5,4 @@ draft: true
 
 ---
 
-Some rought content here.
+Graduate Student - Interested in Mechanical Design and Multi-domain Optimisation of Mechanical Systems. This blog is a way to capture my tech experiences and musings.
