@@ -255,6 +255,9 @@ uglyURLs = false
     # Header
 
     enableHeader = true
+    
+    enableHeaderAutoHide = true
+    # Note: works for header layout flex only
 
     displayHeaderInHome = true
     # Note: invalid for header layout flex
@@ -355,7 +358,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2021-01-01T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -527,7 +530,7 @@ uglyURLs = false
 
     enableDarkMode = true
 
-    defaultTheme = "light"
+    defaultTheme = "dark"
     # Note: light or dark
 
     hideThemeToggle = false
@@ -765,7 +768,7 @@ uglyURLs = false
     #       `meta` in post’s Front Matter
     #       has a higher priority than here
 
-    enablePostMetaInHome = true
+    enablePostMetaInHome = false
     # Note: valid for the `posts` and
     #       `page` homepage layout only
 

@@ -2,8 +2,10 @@
 title: 'The Nightmare'
 date: 2015-06-07T14:03:00.001+05:30
 draft: false
-aliases: [ "/2015/06/the-nightmare.html" ]
+aliases: [ "the-nightmare.html" ]
 tags : [Poem]
+type: "poetry"
+categories: ["Musings", "Poems"]
 ---
 
 ![](https://images.universityherald.com/data/images/full/2655/previous-studies-showed-that-frequent-cell-phone-use-is-linked-to-anxiety-lower-grades-and-reduced-happiness.jpg?w=600)
