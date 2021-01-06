@@ -654,11 +654,11 @@ uglyURLs = false
     #       has a higher priority than here
 
     ## Disqus
-    enableDisqus = false
-    disqusShortname = ""
+    enableDisqus = true
+    disqusShortname = "quasiengineer"
 
     ## Valine
-    enableValine = true
+    enableValine = false
     valineAppId = ""
     valineAppKey = ""
     valinePlaceholder = "Just go go"
