@@ -2,8 +2,8 @@
 title: 'Why it is special?'
 date: 2013-05-12T00:44:00.000+05:30
 draft: false
-aliases: [ "/2013/05/why-it-is-special.html" ]
 tags : [Article]
+categories: ["Musings", "Write-ups"]
 ---
 
 You must have wondered at sometime of your life why this moment is different from other.. Why this moment is so special..  

@@ -12,7 +12,7 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 theme = "meme"
 
 # `hugo new` automatically opened text editor
-newContentEditor = ""
+newContentEditor = "kwrite"
 
 # i18n
 defaultContentLanguage = "en"
@@ -326,11 +326,11 @@ uglyURLs = false
     # 3. posts     List of post’s summary
     # 4. page      Normal page/post
 
-    homeLayout = "page"
+    homeLayout = "posts"
 
     ## Poetry
     # Verse (Markdown supported)
-    homePoetry = ["I jumped from the Stratosphere", "only to find home"]
+    homePoetry = ["none"]
     # Padding of links at the bottom
     # Unit: em
     homeLinksPadding = 1
@@ -423,7 +423,7 @@ uglyURLs = false
     # Set to a non-negative number to limit
     # the number of posts displayed per
     # category/section.
-    limitPostsLimit = -1
+    limitPostsLimit = 5
 
 
     ######################################
@@ -484,7 +484,7 @@ uglyURLs = false
     # Set to a non-negative number to limit
     # the number of posts displayed per
     # taxonomy term.
-    limitEntriesLimit = -1
+    limitEntriesLimit = 5
 
 
     ######################################
@@ -494,7 +494,7 @@ uglyURLs = false
     #       name of the folder under the
     #       site’s `content` directory.
 
-    # mainSections = ["posts"]
+    #mainSections = ["tech", "musings"]
 
 
     ######################################
@@ -530,7 +530,7 @@ uglyURLs = false
 
     enableDarkMode = true
 
-    defaultTheme = "dark"
+    defaultTheme = "light"
     # Note: light or dark
 
     hideThemeToggle = false
@@ -648,7 +648,7 @@ uglyURLs = false
     # Note: render only in production
     #       environment
 
-    enableComments = false
+    enableComments = true
     # Note: *global settings*
     #       `comments` in post’s Front Matter
     #       has a higher priority than here
@@ -658,7 +658,7 @@ uglyURLs = false
     disqusShortname = ""
 
     ## Valine
-    enableValine = false
+    enableValine = true
     valineAppId = ""
     valineAppKey = ""
     valinePlaceholder = "Just go go"
@@ -768,7 +768,7 @@ uglyURLs = false
     #       `meta` in post’s Front Matter
     #       has a higher priority than here
 
-    enablePostMetaInHome = false
+    enablePostMetaInHome = true
     # Note: valid for the `posts` and
     #       `page` homepage layout only
 
@@ -1190,7 +1190,7 @@ uglyURLs = false
     ######################################
     # Minimal Footer
 
-    enableMinimalFooter = false
+    enableMinimalFooter = true
     enableVerticalBarStructure = true
     # Note: If you enable this, the
     #       categories or sections that

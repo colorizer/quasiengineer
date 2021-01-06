@@ -2,8 +2,8 @@
 title: 'The immutable Joy'
 date: 2013-05-09T18:21:00.001+05:30
 draft: false
-aliases: [ "/2013/05/the-immutable-joy.html" ]
 tags : [Article]
+categories: ["Musings", "Write-ups"]
 ---
 
 > We stood at the window, gazing on a slender, red streak over the eastern rim of the earth. A cool breeze lapped our faces. The boundaries of our personalties suddenly dissolved. It was a moment of rare, immutable joy--a moment for which one feels grateful to Life and Death.

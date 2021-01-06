@@ -2,8 +2,8 @@
 title: 'Earth day - what makes the difference?'
 date: 2014-04-22T18:46:00.000+05:30
 draft: false
-aliases: [ "/2014/04/earth-day-what-makes-difference.html" ]
 tags : [Article]
+categories: ["Musings", "Write-ups"]
 ---
 
 ![](https://2.bp.blogspot.com/-45ygnZAqMuY/U1ZoAQMvuNI/AAAAAAAACSE/drGFtm6kBiY/s1600/earth-day.jpg)
