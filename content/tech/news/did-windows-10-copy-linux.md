@@ -2,7 +2,7 @@
 title: '5 Features that Windows 10 copied(??) from Ubuntu'
 date: 2015-05-25T00:32:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/05/did-windows-10-copy-linux.html" ]
 tags : [Docking, Linux, Virtual desktops, Workspace, software center, continuum, Software, Cortana, copy, similarity, battle, Hud, Windows store, Windows 10]
 ---

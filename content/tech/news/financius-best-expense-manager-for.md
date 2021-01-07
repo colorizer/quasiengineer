@@ -2,7 +2,7 @@
 title: 'Financius - The best expense manager for Android'
 date: 2013-11-06T01:36:00.002+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/11/financius-best-expense-manager-for.html" ]
 tags : [money manager, Software, App, expense manager, Digital life, Financius, play store]
 ---

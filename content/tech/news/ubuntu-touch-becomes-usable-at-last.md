@@ -2,7 +2,7 @@
 title: 'Ubuntu Touch becomes Usable at last'
 date: 2013-06-03T19:51:00.002+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/06/ubuntu-touch-becomes-usable-at-last.html" ]
 tags : [Ubuntu touch, update, Ubuntu, Software, Ubuntu phone, smartphone]
 ---

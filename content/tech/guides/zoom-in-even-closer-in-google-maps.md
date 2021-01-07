@@ -2,7 +2,7 @@
 title: 'Zoom in even closer in Google Maps - The Hidden Way'
 date: 2013-04-20T11:20:00.001+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2013/04/zoom-in-even-closer-in-google-maps.html" ]
 tags : [hidden way, How To's, imagery, Google, Google Maps, Zoom closer, magnification]
 ---

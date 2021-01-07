@@ -2,7 +2,7 @@
 title: 'Google Ara - The Android of Hardware'
 date: 2014-04-21T16:09:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/04/google-ara-android-of-hardware.html" ]
 tags : [Battery, Google, Motorola, Sensor, Semiconductors, Android, Technology, Gadgets, Project Ara, 3D printer, camera, modules, Digital life, smartphone]
 ---

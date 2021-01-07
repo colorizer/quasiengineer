@@ -2,7 +2,7 @@
 title: 'Google glass full specs - Full Day Battery Life, 5MP Camera, 720p Video, 16GB Flash Memory & Bone Conduction Transducer'
 date: 2013-04-16T09:45:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/google-glass-full-specs-full-day.html" ]
 tags : [Software, Google, Networking, Android, Technology, Google glass, Operating systems, Gadgets, Google glasses, Digital life, transparent, interface, Maps, contact lenses, Search engine]
 ---

@@ -2,7 +2,7 @@
 title: 'Rockstar Games releases next three trailers for GTA V'
 date: 2013-05-01T11:37:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/rockstar-games-releases-next-three.html" ]
 tags : [PS4, Rockstar Games, PS3, GTA V, Xbox, Gaming, News]
 ---

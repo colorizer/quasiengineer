@@ -2,7 +2,7 @@
 title: 'Scientists make movie out of Atoms'
 date: 2013-05-01T23:05:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/scientists-make-movie-out-of-atoms.html" ]
 tags : [carbon, movie, Scientific, nano, atoms, Technology]
 ---

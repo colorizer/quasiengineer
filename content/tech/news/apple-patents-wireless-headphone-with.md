@@ -2,7 +2,7 @@
 title: 'Apple patents a Wireless Headphone with a twist!'
 date: 2015-08-30T23:13:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/08/apple-patents-wireless-headphone-with.html" ]
 tags : [Gadgets, Apple, wireless, Headphone, iPhone, Patents]
 ---

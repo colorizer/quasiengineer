@@ -2,7 +2,7 @@
 title: 'An Alarm that doesn''t Wakē Up anyone except You!'
 date: 2015-06-06T14:40:00.004+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/an-alarm-that-doesnt-wake-up-anyone.html" ]
 tags : [Gadgets, Parametric speaker, Spark, Lucera Labs, SAD, Alarm, smartphone, Seasonal Affective Disorder, Dawn Simulation, Robot, Wakē]
 ---

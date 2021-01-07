@@ -2,7 +2,7 @@
 title: 'Google I/O 2013 - From the Beginning'
 date: 2013-05-15T23:08:00.002+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-io-2013-from-beginning-to-end.html" ]
 tags : [Google, Google Now, Google Drive, Cloud Storage, Google Maps, Google earth, IO 2013, Google glass, News]
 ---

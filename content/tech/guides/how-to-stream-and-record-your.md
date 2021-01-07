@@ -2,7 +2,7 @@
 title: 'How to Stream and Record your iPhone/Android screen on Windows/Mac'
 date: 2015-06-14T18:01:00.000+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2015/06/how-to-stream-and-record-your.html" ]
 tags : [How To's, iOS, Amazon Fire TV, Apple, Windows, Mac OS X, record screen, smartphone, cast screen, Android]
 ---

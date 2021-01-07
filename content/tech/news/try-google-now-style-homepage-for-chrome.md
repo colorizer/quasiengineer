@@ -2,7 +2,7 @@
 title: 'Try Google Now-Style Homepage for Chrome'
 date: 2013-04-17T11:51:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/try-google-now-style-homepage-for-chrome.html" ]
 tags : [How To's, Software, extension, Google, Google Now, chrome web store, New Tab Page, Homepage, chrome]
 ---

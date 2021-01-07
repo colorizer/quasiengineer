@@ -2,7 +2,7 @@
 title: 'Control your Google Account After you Die'
 date: 2013-04-12T11:54:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/control-your-google-account-after-you.html" ]
 tags : [How To's, data, Security, settings, After death, Google, Accounts, safety, Digital life, Inactive Account Manager, News]
 ---

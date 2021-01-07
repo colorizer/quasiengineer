@@ -2,7 +2,7 @@
 title: 'Microsoft Documents opens via Ark in KDE Neon (with Solution)'
 date: 2017-07-28T19:10:00.000+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2017/07/microsoft-documents-opens-via-ark-in.html" ]
 tags : [How To's, MS Office, Dolphin, Ubuntu, filetype, WPS Office, App, association, KDE, Ark, KDE Neon]
 ---

@@ -2,7 +2,7 @@
 title: 'Drones taken to Next Level: They balance, dance and are safer than ever!'
 date: 2016-03-05T23:28:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2016/03/drones-taken-to-next-level-they-balance.html" ]
 tags : [D'Andrea, firefly drones, ted, FRAC, Omnicopter, monospinner, safety, drones, Technology]
 ---

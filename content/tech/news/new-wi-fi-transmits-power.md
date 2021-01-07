@@ -2,7 +2,7 @@
 title: 'New Wi-fi technology transmits both energy and Internet from one Router'
 date: 2015-11-20T21:32:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/11/new-wi-fi-transmits-power.html" ]
 tags : [PoWiFi, charging, wireless, wifi, Technology]
 ---

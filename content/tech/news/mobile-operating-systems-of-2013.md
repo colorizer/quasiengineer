@@ -2,7 +2,7 @@
 title: 'Mobile Operating Systems of 2013'
 date: 2013-03-31T23:11:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/03/mobile-operating-systems-of-2013.html" ]
 tags : [Linux, Ubuntu touch, Firefox OS, Software, latest, Android, Mobile, Technology, Operating systems, Tizen, Sailfish OS, smartphone]
 ---

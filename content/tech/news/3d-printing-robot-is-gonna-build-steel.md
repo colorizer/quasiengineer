@@ -2,7 +2,7 @@
 title: '3D printing Robot is gonna Build a Steel Bridge'
 date: 2015-06-18T18:53:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/3d-printing-robot-is-gonna-build-steel.html" ]
 tags : [3D printer, autodesk, steel bridge, MX3D, 3D model, Technology]
 ---

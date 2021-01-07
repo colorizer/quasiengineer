@@ -2,7 +2,7 @@
 title: 'Google to turn chromebook into Public Internet Kiosks'
 date: 2013-05-01T22:04:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-to-turn-chromebook-into-public.html" ]
 tags : [Gadgets, Linux, kiosk, Google, guest mode, Samsung, chrome, News, Operating systems]
 ---

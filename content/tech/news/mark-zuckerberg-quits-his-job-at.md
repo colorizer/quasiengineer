@@ -2,7 +2,7 @@
 title: 'Mark Zuckerberg quits his job at Facebook (All due to a bug)!'
 date: 2015-11-20T02:07:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/11/mark-zuckerberg-quits-his-job-at.html" ]
 tags : [bugs, Software, Facebook]
 ---

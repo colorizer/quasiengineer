@@ -2,7 +2,7 @@
 title: 'Make 3D Models from any 2D Photo!'
 date: 2013-09-15T12:27:00.004+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/09/make-3d-models-from-any-2d-photo.html" ]
 tags : [Software, 3D printer, 2D photo, 3D model, Technology]
 ---

@@ -2,7 +2,7 @@
 title: 'Whatsapp now available for all Desktops(unofficially)!'
 date: 2015-06-22T22:18:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/whatsapp-for-ubuntu-mac-windows-desktop.html" ]
 tags : [whatsapp client, native app, Software, Desktop, whatsapp]
 ---

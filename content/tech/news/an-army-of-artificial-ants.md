@@ -2,7 +2,7 @@
 title: 'An Army of Artificial Ants!'
 date: 2013-04-09T15:52:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/an-army-of-artificial-ants.html" ]
 tags : [Gadgets, Ants, machine insects, Sensor, Technology]
 ---

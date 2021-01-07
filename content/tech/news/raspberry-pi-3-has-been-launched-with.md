@@ -2,7 +2,7 @@
 title: 'Raspberry Pi 3 has been Launched: With Built-in wifi and bluetooth!'
 date: 2016-02-29T19:14:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2016/02/raspberry-pi-3-has-been-launched-with.html" ]
 tags : [IoT, Raspberry Pi, Technology]
 ---

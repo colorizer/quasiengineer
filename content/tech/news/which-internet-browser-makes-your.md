@@ -2,7 +2,7 @@
 title: 'Which internet browser makes your battery last longer?'
 date: 2014-01-29T18:42:00.002+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/01/which-internet-browser-makes-your.html" ]
 tags : [How To's, Battery, Firefox 26, peacekeeper battery test, Toshiba Encore 8", Opera 18, Internet Explorer 11, Software, Chrome 32, HP Pavilion dv 7, Microsoft Surface Pro 2]
 ---

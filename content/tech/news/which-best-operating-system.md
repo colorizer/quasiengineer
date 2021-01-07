@@ -2,7 +2,7 @@
 title: 'Which the best operating system?'
 date: 2013-03-31T23:21:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/03/which-best-operating-system.html" ]
 tags : [Linux, Software, Windows, Mac OS X, Android, Mobile, Technology, iOS 6, Operating systems, How To's, Ubuntu, Apple, Desktop, Windows phone]
 ---

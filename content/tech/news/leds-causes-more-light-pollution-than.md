@@ -2,7 +2,7 @@
 title: 'LEDs causes more Light Pollution than Sodium Vapour Lamps!'
 date: 2015-08-23T23:17:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/08/leds-causes-more-light-pollution-than.html" ]
 tags : [LED, street light, light pollution, sodium vapour lamp, Digital life, Scientific, Technology]
 ---

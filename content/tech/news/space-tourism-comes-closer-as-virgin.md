@@ -2,7 +2,7 @@
 title: 'Space tourism comes closer as the Virgin Galactic breaks the barrier'
 date: 2013-05-04T19:22:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/space-tourism-comes-closer-as-virgin.html" ]
 tags : [launcher, latest, Machine, Spaceship Two, Digital life, Scientific, ship, space, Technology, flight, Virgin Galactic]
 ---

@@ -2,7 +2,7 @@
 title: 'Be Careful of Shodan - The Creepy Search Engine'
 date: 2013-04-12T16:46:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/be-careful-of-shodan-creepy-search.html" ]
 tags : [Security, Software, Google, Networking, safety, Shodan, News, Search engine, Servers]
 ---

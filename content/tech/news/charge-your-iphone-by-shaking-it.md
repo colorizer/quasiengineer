@@ -2,7 +2,7 @@
 title: 'Charge your iPhone by shaking it'
 date: 2013-04-24T12:12:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/charge-your-iphone-by-shaking-it.html" ]
 tags : [Gadgets, Ideation Designs LLC, Apple, Infinity Cell, Software, charging, kinetic charger, smartphone, iPhone]
 ---

@@ -2,7 +2,7 @@
 title: 'Google''s Hidden Image search game - The Atari Easter Egg'
 date: 2013-05-14T23:14:00.001+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2013/05/googles-hidden-image-search-game-atari.html" ]
 tags : [imagery, do a barrel roll, Google, game, atari breakout, Gaming, News, Search engine]
 ---

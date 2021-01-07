@@ -2,7 +2,7 @@
 title: 'How to fix 404-Not Found Error'
 date: 2015-06-08T21:28:00.001+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2015/06/how-to-fix-404-not-found-error.html" ]
 tags : [browser, How To's, 404 error, flash, Google, Networking, malware, Homepage, customer service, Search engine, Servers]
 ---

@@ -2,7 +2,7 @@
 title: 'Google glass - A Quick Look At What is Behind'
 date: 2013-04-10T13:27:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/google-glass-quick-look.html" ]
 tags : [Gadgets, Google, High Altitude Ballooning, Maps, Mobile, Technology, Google glass]
 ---

@@ -2,7 +2,7 @@
 title: 'Google Now released for iOS'
 date: 2013-04-29T22:50:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/google-now-released-for-ios.html" ]
 tags : [iOS, Apple, Software, Google, Google Now, smartphone, Android, News]
 ---

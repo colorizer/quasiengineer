@@ -2,7 +2,7 @@
 title: 'Chrome to have Windows Start button like app launcher'
 date: 2013-05-01T22:37:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/chrome-to-have-windows-start-button.html" ]
 tags : [Web apps, launcher, Software, Google, Windows, chrome web store, start button, chrome]
 ---

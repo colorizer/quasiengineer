@@ -2,7 +2,7 @@
 title: 'Anonymous Animals in Google Drive'
 date: 2013-04-20T10:15:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/anonymous-animals-in-google-drive.html" ]
 tags : [data, photos, PDF files, Software, Google, Google Drive, Accounts, videos]
 ---

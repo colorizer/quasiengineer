@@ -2,7 +2,7 @@
 title: 'The First Graphene bulb a.k.a World''s thinnest Light bulb!'
 date: 2015-06-25T00:20:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/the-first-graphene-thinnest-light-bulb.html" ]
 tags : [light bulb, photonics, Graphene, Scientific, thinnest, Technology]
 ---

@@ -2,7 +2,7 @@
 title: 'Apple offers Money Reward for 50 billionth App Download'
 date: 2013-05-04T19:01:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/apple-offers-money-reward-for-50.html" ]
 tags : [iOS, reward, Apple, App, News]
 ---

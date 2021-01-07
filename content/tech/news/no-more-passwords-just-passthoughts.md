@@ -2,7 +2,7 @@
 title: 'No more Passwords - Just Passthoughts'
 date: 2013-04-10T17:03:00.003+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/no-more-passwords-just-passthoughts.html" ]
 tags : [Neurosky, passthoughts, passwords, thought authentication, mindset, Intel, Technology, UC Berkeley]
 ---

@@ -2,7 +2,7 @@
 title: 'Nike brings "Back to the Future - Shoes" Alive!'
 date: 2015-10-22T18:26:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/10/nike-brings-back-to-future-shoes-alive.html" ]
 tags : [Gadgets, power lacing, nike mags, Back to the future]
 ---

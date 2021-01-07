@@ -2,7 +2,7 @@
 title: 'Japanese Machine Converts Plastic into Oil'
 date: 2015-06-18T13:17:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/japanese-machine-converts-plastic-into.html" ]
 tags : [recycle, fuel, Machine, plastics, Technology, oil]
 ---

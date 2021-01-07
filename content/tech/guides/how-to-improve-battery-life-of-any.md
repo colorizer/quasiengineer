@@ -2,7 +2,7 @@
 title: 'How to improve the battery life of any mobile'
 date: 2013-08-10T11:12:00.004+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2013/08/how-to-improve-battery-life-of-any.html" ]
 tags : [Gadgets, How To's, Battery, life, improving battery life, general usage, lithium ion battery, power consumption, health]
 ---

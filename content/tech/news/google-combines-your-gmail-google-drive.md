@@ -2,7 +2,7 @@
 title: 'Google combines your Gmail, Google Drive and all web services together for a shared storage of 15GB'
 date: 2013-05-14T23:55:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-combines-your-gmail-google-drive.html" ]
 tags : [Gmail, google+, Google, Google Drive, Cloud Storage, News]
 ---

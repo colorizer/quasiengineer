@@ -2,7 +2,7 @@
 title: 'New Waterproof Material that halts Water on Demand'
 date: 2013-04-12T10:19:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/new-waterproof-material-that-halts.html" ]
 tags : [Harvard's Wyss Institute, Waterproof, tears, Scientific, transparent, nano, slips, Opaque, Technology, contact lenses, pipelines]
 ---

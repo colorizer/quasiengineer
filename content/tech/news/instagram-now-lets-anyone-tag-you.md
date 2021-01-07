@@ -2,7 +2,7 @@
 title: 'Instagram now lets Anyone Tag You'
 date: 2013-05-02T23:21:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/instagram-now-lets-anyone-tag-you.html" ]
 tags : [tagging, photos, iOS, Software, latest, Accounts, Facebook, Android, Instagram, News]
 ---

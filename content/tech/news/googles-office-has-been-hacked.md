@@ -2,7 +2,7 @@
 title: 'Google''s Office has been Hacked'
 date: 2013-05-08T23:08:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/googles-office-has-been-hacked.html" ]
 tags : [Security, Tridium Niagara AX platform, hack, Google, Cylance, safety, Shodan, News, Operating systems, Search engine, Servers]
 ---

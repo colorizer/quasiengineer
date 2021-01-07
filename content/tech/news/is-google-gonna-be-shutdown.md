@@ -2,7 +2,7 @@
 title: 'Is Google+ gonna be Shutdown?'
 date: 2015-06-07T12:02:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/is-google-gonna-be-shutdown.html" ]
 tags : [Google photos, google+, Google, Hangouts, profile, social network, Android, Mobile, iOS, Google Now, Desktop, Accounts, twitter, News, user interface]
 ---

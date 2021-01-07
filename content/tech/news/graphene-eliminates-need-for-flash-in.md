@@ -2,7 +2,7 @@
 title: 'Graphene eliminates need for flash in camera'
 date: 2013-07-21T12:03:00.002+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/07/graphene-eliminates-need-for-flash-in.html" ]
 tags : [carbon, Graphene, camera, Digital life, Scientific, Technology, innovation, light sensor]
 ---

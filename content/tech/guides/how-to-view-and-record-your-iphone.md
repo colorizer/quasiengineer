@@ -2,7 +2,7 @@
 title: 'How to View and Record your iPhone screen on Macbook?'
 date: 2015-06-14T16:24:00.001+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2015/06/how-to-view-and-record-your-iphone.html" ]
 tags : [How To's, iOS, Apple, Windows, Mac OS X, record screen, cast screen, Android]
 ---

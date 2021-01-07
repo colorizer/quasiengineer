@@ -2,7 +2,7 @@
 title: 'How to Hack your Google Glass (And void your warranty)'
 date: 2013-05-17T11:13:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/how-to-hack-your-google-glass-and-void.html" ]
 tags : [Gadgets, How To's, Ubuntu, hack, Google, App, Android, Google glass, News]
 ---

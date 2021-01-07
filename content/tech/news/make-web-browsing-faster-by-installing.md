@@ -2,7 +2,7 @@
 title: 'Make web browsing faster by installing Google fonts'
 date: 2013-05-02T23:05:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/make-web-browsing-faster-by-installing.html" ]
 tags : [How To's, Google, Skyfonts, fonts]
 ---

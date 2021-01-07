@@ -2,7 +2,7 @@
 title: 'Google keep Arrives for Chrome'
 date: 2013-05-03T21:27:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-keep-arrives-for-chrome.html" ]
 tags : [Software, Google, chrome web store, Google Drive, note taking app, chrome, keep]
 ---

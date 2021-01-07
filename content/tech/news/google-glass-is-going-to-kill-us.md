@@ -2,7 +2,7 @@
 title: 'Google glass is going to kill us!'
 date: 2013-05-02T23:42:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-glass-is-going-to-kill-us.html" ]
 tags : [Gadgets, Google, Digital life, killer, Technology, Google glass]
 ---

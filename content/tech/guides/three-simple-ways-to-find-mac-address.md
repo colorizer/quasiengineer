@@ -2,7 +2,7 @@
 title: 'Three simple ways to find MAC address in Ubuntu 16.04.'
 date: 2016-07-27T23:16:00.000+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2016/07/three-simple-ways-to-find-mac-address.html" ]
 tags : [How To's, Ubuntu, Ubuntu 16.04, mac address, network]
 ---

@@ -2,16 +2,17 @@
 title: 'How to Install and Open WPS Office in KDE Neon?'
 date: 2017-07-28T19:59:00.000+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2017/07/how-to-install-and-open-wps-office-in.html" ]
 tags : [Linux, Dolphin, kubuntu, Software, WPS Office, App, association, KDE, How To's, Ubuntu, filetype, KDE Neon]
+typora-root-url: ../../../static/images
 ---
 
-[![](httpss://2.bp.blogspot.com/-d1a9ZW9l4is/WXtJt9iNXAI/AAAAAAAAN1w/oGuQ48Mi1VwFfSO2nxunFA60avsFzOMswCK4BGAYYCw/s1600/Presentation_Slide2.png)](https://2.bp.blogspot.com/-d1a9ZW9l4is/WXtJt9iNXAI/AAAAAAAAN1w/oGuQ48Mi1VwFfSO2nxunFA60avsFzOMswCK4BGAYYCw/s1600/Presentation_Slide2.png)
+![](httpss://2.bp.blogspot.com/-d1a9ZW9l4is/WXtJt9iNXAI/AAAAAAAAN1w/oGuQ48Mi1VwFfSO2nxunFA60avsFzOMswCK4BGAYYCw/s1600/Presentation_Slide2.png)
 
-  
+
 WPS Office is a popular MS Office clone for Linux and they provide better support for MS Office files than Libre Office or any other Office in Linux (as far as I know). But, WPS Office doesn't work well with Neon's KDE environment and fails to launch. So, I will explain the steps to install and setup WPS Office successfully in Neon.  
-  
+
 
 *   Download the latest WPS Office from [here](https://wps-community.org/downloads).
 *   Open the Downloads folder in Dolphin file manager and right click on the Debian package.

@@ -2,7 +2,7 @@
 title: 'Three Major Changes coming with Android L'
 date: 2014-06-27T16:57:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/06/three-major-changes-coming-with-android.html" ]
 tags : [Android L, Ubuntu touch, google+, Software, Google, Material design, performance, Android, Android 5.0, multitasking, Web apps, design, Digital life, Lollipop]
 ---

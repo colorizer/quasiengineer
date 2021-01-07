@@ -2,7 +2,7 @@
 title: 'This is how People reacted when iPod was first released (14 years ago)!'
 date: 2015-10-25T15:30:00.002+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/10/this-is-how-people-reacted-when-ipod.html" ]
 tags : [Gadgets, Reddit, Apple, iPod]
 ---

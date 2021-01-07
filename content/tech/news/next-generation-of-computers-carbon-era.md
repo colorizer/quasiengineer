@@ -2,7 +2,7 @@
 title: 'Next Generation Of Computers - The Carbon Era'
 date: 2013-04-03T19:22:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/next-generation-of-computers-carbon-era.html" ]
 tags : [Silicon, IBM, Moore's law, Carbon nanotubes, Graphene, Electrical, Semiconductors, carbon chips, Technology, Gadgets, smartphone, Intel]
 ---

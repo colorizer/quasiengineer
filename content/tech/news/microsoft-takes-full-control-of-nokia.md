@@ -2,7 +2,7 @@
 title: 'Microsoft takes full control of Nokia finally'
 date: 2014-04-25T18:13:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/04/microsoft-takes-full-control-of-nokia.html" ]
 tags : [Gadgets, Microsoft, Nokia, Lumia, Asha, Nokia X, News]
 ---

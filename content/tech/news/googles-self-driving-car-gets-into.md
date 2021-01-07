@@ -2,7 +2,7 @@
 title: 'Google''s Self-Driving Car gets into accident for the first time (when AI is driving)!'
 date: 2016-03-01T18:39:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2016/03/googles-self-driving-car-gets-into.html" ]
 tags : [AI, Self-driving cars, accident, Google, News]
 ---

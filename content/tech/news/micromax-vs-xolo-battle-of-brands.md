@@ -2,7 +2,7 @@
 title: 'Micromax Vs Xolo - A Battle of Brands'
 date: 2015-01-15T02:08:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/01/micromax-vs-xolo-battle-of-brands.html" ]
 tags : [price, Brands, comparison, Software, Stability, performance, Micromax, customer service, Xolo, Gadgets, update, launcher, design, bloatware, poll, smartphone, user interface]
 ---

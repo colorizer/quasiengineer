@@ -96,7 +96,7 @@ uglyURLs = false
     # Name
     name = "Jebin"
     # Email
-    email = ""
+    email = "l5awk2342@relay.firefox.com"
     # Motto or introduction
     motto = "Default = Design Engineer"
     # Avatar
@@ -215,12 +215,12 @@ uglyURLs = false
         weight = 3
         pre = "internal"
         post = "th"
-    #[[menu.main]]
-        #url = "/tags/"
-        #name = "Tags"
-        #weight = 4
-        #pre = "internal"
-        #post = "tags"
+    [[menu.main]]
+        url = "/tags/"
+        name = "Tags"
+        weight = 4
+        pre = "internal"
+        post = "tags"
     [[menu.main]]
         url = "/about/"
         name = "About"
@@ -237,16 +237,49 @@ uglyURLs = false
         weight = 8
         identifier = "search"
         post = "search"
-
-[socials]
     
-    [[socials.main]]
-        url = "https://twitter.com/_colorizer"
-        name = "Twitter"
+    [[menu.links]]
+        url = "/rss.xml"
+        post = "rss"
+        name = "RSS"
         weight = 1
         pre = "external"
-        post = "twitter"
 
+    [[menu.links]]
+        url = "mailto:jebintonyraj@gmail.com"
+        post = "envelope"
+        name = "Email"
+        weight = 2
+        pre = "external"
+
+    [[menu.links]]
+        url = "https://github.com/colorizer"
+        post = "github"
+        name = "GitHub"
+        weight = 3
+        pre = "external"
+
+    [[menu.socials]]
+        url = "https://twitter.com/_colorizer"
+        post = "twitter"
+        name = "Twitter"
+        weight = 4
+        pre = "external"
+
+    [[menu.socials]]
+        url = "https://t.me/colorizer"
+        post = "telegram"
+        name = "Telegram"
+        weight = 5
+        pre = "external"
+        
+    [[menu.socials]]
+        url = "https://www.linkedin.com/in/jebintonyraj/"
+        post = "linkedin"
+        name = "Linkedin"
+        weight = 6
+        pre = "external"
+        
 ##########################################
 # Theme Settings
 
@@ -1015,7 +1048,7 @@ uglyURLs = false
     ######################################
     ## Text Justification
 
-    enableJustify = false
+    enableJustify = true
     # Note: *global settings*
     #       `align` in post’s Front Matter
     #       has a higher priority than here
@@ -1156,7 +1189,7 @@ uglyURLs = false
 
     relatedPostsNumber = 5
 
-    relatedPostsIcon = "plus-circle"
+    relatedPostsIcon = "dna"
 
 
     ######################################
@@ -1242,7 +1275,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # Custom Footer (Markdown supported)
-    customFooter = ""
+    customFooter = "Deploys by [Netlify](https://netlify.com)"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "Site UV"
@@ -1256,7 +1289,7 @@ uglyURLs = false
     #       https://busuanzi.ibruce.info/
 
     # Socials
-    enableSocials = true
+    enableSocials = false
     # Note: see data/Socials.toml
 
 

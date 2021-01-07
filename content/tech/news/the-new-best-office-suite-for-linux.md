@@ -2,7 +2,7 @@
 title: 'The new Best Office Suite for Linux!'
 date: 2015-10-10T16:15:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/10/the-new-best-office-suite-for-linux.html" ]
 tags : [Linux, Microsoft, Software, WPS Office]
 ---

@@ -2,7 +2,7 @@
 title: 'Ubuntu Phone'
 date: 2013-03-31T16:58:00.001+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/03/ubuntu-phone.html" ]
 tags : [Ubuntu tablets, Linux, Ubuntu touch, Software, Ubuntu phone, Phone, smartphone, Mobile, Technology]
 ---

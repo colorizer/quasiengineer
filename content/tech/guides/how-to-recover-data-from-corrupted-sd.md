@@ -2,7 +2,7 @@
 title: 'How to recover data from a Corrupted SD or Micro SD Card'
 date: 2013-05-12T19:51:00.001+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2013/05/how-to-recover-data-from-corrupted-sd.html" ]
 tags : [Gadgets, How To's, Micro SD card, photos, data recovery, SD card, videos, corrupted, Zero Assumption Recovery]
 ---

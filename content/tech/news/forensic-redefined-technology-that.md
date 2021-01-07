@@ -2,7 +2,7 @@
 title: 'Technology that deduces 3D face out genetic material!'
 date: 2014-03-23T14:02:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/03/forensic-redefined-technology-that.html" ]
 tags : [DNA deduction, imagery, life, genetics, 3D model, Technology]
 ---

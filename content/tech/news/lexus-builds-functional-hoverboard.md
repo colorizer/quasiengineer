@@ -2,7 +2,7 @@
 title: 'Lexus(toyota) has built a functional Hoverboard!'
 date: 2015-06-24T23:33:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/lexus-builds-functional-hoverboard.html" ]
 tags : [lexus, hoverboard, toyota, Technology]
 ---

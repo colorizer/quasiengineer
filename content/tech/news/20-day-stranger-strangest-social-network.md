@@ -2,7 +2,7 @@
 title: '20 day stranger - The strangest social Network!'
 date: 2014-06-18T21:10:00.002+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/06/20-day-stranger-strangest-social-network.html" ]
 tags : [Software, App, social network]
 ---

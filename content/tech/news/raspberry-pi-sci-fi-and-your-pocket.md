@@ -2,7 +2,7 @@
 title: 'Raspberry Pi - One year of Wonder!!'
 date: 2013-04-08T14:41:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/raspberry-pi-sci-fi-and-your-pocket.html" ]
 tags : [Gadgets, Linux, Silicon, Siri, Google glasses, Supercomputer, High Altitude Ballooning, Electrical, Raspberry Pi, Technology]
 ---

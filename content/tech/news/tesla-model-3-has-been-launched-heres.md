@@ -2,34 +2,26 @@
 title: 'Tesla Model 3 has been Launched: Here''s what we know!'
 date: 2017-07-29T18:41:00.000+05:30
 draft: false
-categories: ["Tech", "News"]
+categories: ["🗃️ Tech", "📺 News"]
+katex: false
 aliases: [ "/2017/07/tesla-model-3-has-been-launched-heres.html" ]
 tags : [Launch, Tesla, Specifications, Model 3, Electric car, safety, Technology, News]
+typora-root-url: ../../../static
 ---
 
-[![](httpss://2.bp.blogspot.com/-yiO4TIvI210/WXx8ZrIFNzI/AAAAAAAAN3U/aBKNW4qjw94iccVVo-878L9xrjiTn88wQCK4BGAYYCw/s1600/vrg_tesla_model_3_profile_midnight_silver.jpeg)](https://2.bp.blogspot.com/-yiO4TIvI210/WXx8ZrIFNzI/AAAAAAAAN3U/aBKNW4qjw94iccVVo-878L9xrjiTn88wQCK4BGAYYCw/s1600/vrg_tesla_model_3_profile_midnight_silver.jpeg)
-
-  
+![model-3](/images/model-3.jpg)
 
 > “I will build a car for the great multitude. It will be large enough for the family, but small enough for the individual to run and care for. It will be constructed of the best materials, by the best men to be hired, after the simplest designs that modern engineering can devise. But it will be so low in price that no man making a good salary will be unable to own one...”  
 > \- Henry Ford, My Life and Work
 
-  
-
 Doesn't that feel nostalgic? Doesn't that somehow make you feel that, after almost a century and a decade, history is repeating itself? Maybe I just feel so because of my Tesla fandom but you can't deny that this car is going to be the one that the car giants of the past and the future are gonna aspire after.
 
-  
+
 The Tesla Model 3 is one of the most anticipated vehicles of all time. The Californian company received nearly 400,000 pre-orders worth upwards of $10 billion simply by showing off a close-to-production prototype. No other automaker has ever pulled off such a feat. And finally, the Model 3, the culmination of one man's dream and endless hustle, is here.
 
-  
+  Model 3 has been launched to an audience of Tesla employees and customers at a special event held outside the Tesla factory in Fremont, California. The first 30 customers collected their Tesla Model 3s at the event with Elon Musk revealing that 50 cars had been built so far. The remaining 20 cars will be taken for Engineering validation. Maybe for a safety assessment as the following video!  
 
-Model 3 has been launched to an audience of Tesla employees and customers at a special event held outside the Tesla factory in Fremont, California. The first 30 customers collected their Tesla Model 3s at the event with Elon Musk revealing that 50 cars had been built so far. The remaining 20 cars will be taken for Engineering validation. Maybe for a safety assessment as the following video!
-
-  
-
-  
-
-Two core versions of the Tesla Model 3 are being offered from launch, the Standard and Long Range models. The standard car comes in at a price of $35,000, that translates as £26,650. The standard Model 3 has a 220-mile range, a 5.6s 0-60mph time and a 130mph top speed but for $44,000 (£33,500) you can have the Long Range model. That car ups the ante with an official range of 310 miles, a 5.1s 0-60mph time and a 140mph top speed.
+Two core versions of the Tesla Model 3 are being offered from launch, the Standard and Long Range models. The standard car comes in at a price of $ 35,000, that translates as £26,650. The standard Model 3 has a 220-mile range, a 5.6s 0-60mph time and a 130mph top speed but for $44,000 (£33,500) you can have the Long Range model. That car ups the ante with an official range of 310 miles, a 5.1s 0-60mph time and a 140mph top speed.
 
   
 
@@ -200,9 +192,9 @@ In the future, Model 3 will be capable of conducting trips with no action requi
 
 All these specifications imply that this isn't just an affordable car. It is 100% Tesla. Maybe this is not the car that the billion population of the world is gonna drive. But, this will be the reason that those billion cars of the future are gonna be electric!
 
-  
+
 Are you feeling excited? Do you feel that it's too much hyped? Please feel free to use the comments section below!  
-  
+
 
 _Sources:_
 

@@ -2,7 +2,7 @@
 title: 'Five handy Terminal features for a Linux User'
 date: 2020-05-08T22:23:00.000+05:30
 draft: false
-categories: ["Tech" , "Guides"]
+categories: ["🗃️ Tech" , "🪧 Guides"]
 aliases: [ "/2020/05/5-must-know-terminal-features-for-linux.html" ]
 tags : [How To's, Linux, Terminal, commands]
 ---
