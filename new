@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+case $1 in
+
+    engg | news)
+    wd="tech/$1"
+    ;;
+    guide)
+    wd="tech/$1s"
+    ;;
+    
+    poem | write-up)
+    wd="musings/$1s"
+    ;;
+    
+esac
+
+hugo new -k $1 $wd/$2.md
