@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://quasiengineer.netlify.app/"
+baseURL = "https://quasiengineer.dev/"
 title = "Quasi Engineer"
 languageCode = "en"
 hasCJKLanguage = false
@@ -12,7 +12,7 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 theme = "meme"
 
 # `hugo new` automatically opened text editor
-newContentEditor = "kwrite"
+newContentEditor = "/opt/typora/Typora"
 
 # i18n
 defaultContentLanguage = "en"
