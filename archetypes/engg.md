@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 tags: ["Engineering"]
-categories: ["🗃️ Tech", "🛠 Engineering"]
-typora-root-url: ../../../static/images
+categories: ["🗃️ Tech", "🛠 Dev"]
+typora-root-url: ../../../static
 ---
 

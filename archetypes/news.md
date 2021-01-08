@@ -4,5 +4,5 @@ date: {{ .Date }}
 draft: false
 tags: []
 categories: ["🗃️ Tech", "📺 News"]
-typora-root-url: ../../../static/images
+typora-root-url: ../../../static
 ---

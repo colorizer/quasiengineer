@@ -4,6 +4,6 @@ date: {{ .Date }}
 draft: false
 categories: ["Musings", "Write-ups"]
 tags: [Articles]
-typora-root-url: ../../../static/images
+typora-root-url: ../../../static
 ---
  

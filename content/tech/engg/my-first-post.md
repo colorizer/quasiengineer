@@ -3,7 +3,7 @@ title: "My First Post 😃"
 date: 2021-01-03T16:32:44+05:30
 draft: true
 tags: ["Engineering"]
-categories: ["🗃️ Tech", "🛠 Engineering"]
+categories: ["🗃️ Tech", "🛠 Dev"]
 ---
 
 ### Limits imposed by Local Buckling

@@ -4,5 +4,5 @@ date: {{ .Date }}
 draft: false
 tags: [How-To]
 categories: ["🗃️ Tech" , "🪧 Guides"]
-typora-root-url: ../../../static/images
+typora-root-url: ../../../static
 ---

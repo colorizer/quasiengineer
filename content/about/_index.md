@@ -10,7 +10,7 @@ comments: false
 ---
 
 
->**Quasi Engineer**\
+>***Quasi Engineer***\
 >A four dimensional entity that _asymptotically_ approaches the _Engineer Subspace_.
 
-Hi, I'm Jebin. I am a graduate student in Indian Institute of Technology, Chennai. I'm interested in Mechanical Design and Multi-domain Optimisation of Mechanical Systems. My other interests include Linux, open-source and writing poems :)
+Hi, I'm Jebin and this is my 'everything-in-one-bin' kinda blog. I am a graduate student in Indian Institute of Technology, Chennai. I'm interested in Mechanical Design and Multi-domain Optimisation of Mechanical Systems. My other interests include Linux, Open source and writing poems :)
