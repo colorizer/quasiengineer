@@ -2,7 +2,7 @@
 title: 'Trojita, the fastest Email Client - Gmail Setup Guide'
 date: 2020-08-25T16:33:00.008+05:30
 draft: false
-categories: ["🗃️ Tech" , "🪧 Guides"]
+categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2020/08/trojita-fastest-email-client-gmail.html" ]
 tags : [email, Gmail, Ubuntu, kubuntu, Trojita]
 ---

@@ -2,7 +2,7 @@
 title: 'Two ways to have instant multiple Email addresses (in a cool way!) for Gmail'
 date: 2015-06-16T14:50:00.001+05:30
 draft: false
-categories: ["🗃️ Tech" , "🪧 Guides"]
+categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2015/06/two-to-have-instant-multiple-email.html" ]
 tags : [email, How To's, plus, Gmail, dots, multiple addresses]
 ---

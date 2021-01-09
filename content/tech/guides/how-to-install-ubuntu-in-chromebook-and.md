@@ -2,7 +2,7 @@
 title: 'How to install Ubuntu in Chromebook and unlock its full potential'
 date: 2013-05-22T23:25:00.001+05:30
 draft: false
-categories: ["🗃️ Tech" , "🪧 Guides"]
+categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/how-to-install-ubuntu-in-chromebook-and.html" ]
 tags : [How To's, pixel, Ubuntu, kubuntu, chromebook, dual boot, crouton, lubuntu, chrubuntu, xubuntu]
 ---

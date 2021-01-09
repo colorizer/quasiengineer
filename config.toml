@@ -90,6 +90,25 @@ uglyURLs = false
         startLevel = 2
         endLevel = 6
         ordered = true
+        
+    ## mmark renderer
+    #[markup.mmark]
+        #[markup.mmark.extensions]
+            #definitionList = true
+            #footnote = true
+            #linkify = true
+            #strikethrough = true
+            #table = true
+            #taskList = true
+            #typographer = true
+        #[markup.mmark.parser]
+            #attribute = true
+            #autoHeadingID = true
+            #autoHeadingIDType = "github"
+        #[markup.mmark.renderer]
+            #hardWraps = false
+            #unsafe = true
+            #xHTML = false
 
 # Author’s information
 [author]
@@ -1260,7 +1279,7 @@ uglyURLs = false
 
     displayCopyrightSymbol = true
 
-    displaySiteCreatedYear = true
+    displaySiteCreatedYear = false
 
     # Leave it empty("") if you don’t want
     # the icon

@@ -2,7 +2,7 @@
 title: 'Automatically Move your Gmail attachments to Google Drive and other cloud storage device'
 date: 2013-05-04T18:03:00.001+05:30
 draft: false
-categories: ["🗃️ Tech" , "🪧 Guides"]
+categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/automatically-move-your-gmail.html" ]
 tags : [email, How To's, Microsoft, Gmail, Google, kloudless, box, Dropbox, Google Drive, Cloud Storage, Outlook]
 ---

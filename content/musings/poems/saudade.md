@@ -12,7 +12,7 @@ That snuffed out everything.
   
 After years of despair  
 As the darkness reigned  
-There bloomed a lone red rose  
+There bloomed a lone <font color='#d80e0e'>red rose</font>  
 In the nowhere's middle.  
   
 With the drifting wind  
@@ -38,4 +38,4 @@ It's someone they never knew.
 They wished to look for her  
 But couldn't.  
 Coz, they had nothing to describe her  
-Except the love that remains.  
+Except the <font color='#d80e0e'>love</font> that remains.  

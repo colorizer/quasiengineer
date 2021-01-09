@@ -2,7 +2,7 @@
 title: 'How to create the Shut down tile that is missing in Windows 8'
 date: 2013-05-14T23:39:00.003+05:30
 draft: false
-categories: ["🗃️ Tech" , "🪧 Guides"]
+categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/how-to-create-shut-down-tile-that-is.html" ]
 tags : [How To's, Windows, windows 8, shut down, start screen]
 ---

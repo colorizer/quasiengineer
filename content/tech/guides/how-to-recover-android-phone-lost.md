@@ -2,7 +2,7 @@
 title: 'How to recover an android phone lost without any recovery app installed '
 date: 2013-06-27T00:20:00.000+05:30
 draft: false
-categories: ["🗃️ Tech" , "🪧 Guides"]
+categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/06/how-to-recover-android-phone-lost.html" ]
 tags : [How To's, anti–theft, Security, data recovery, android Lost, smartphone, Android]
 ---
