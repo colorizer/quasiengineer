@@ -59,15 +59,42 @@ and similarly for $y, z$ as well. [^1]
 
 The key idea is to generate a $K$ matrix of the form,
 
+<div>
 $$
-\displaystyle{K= \begin{bmatrix}{k_1}_x & {k_1}_y & {k_1}_z \\\\{k_2}_x & {k_2}_y & {k_2}_z \\\\{k_3}_x & {k_3}_y & {k_3}_z \\\\{k_4}_x & {k_4}_y & {k_4}_z \\\\ \end{bmatrix} }
+\displaystyle{
+K= \begin{bmatrix}
+{k_1}_x & {k_1}_y & {k_1}_z \\
+{k_2}_x & {k_2}_y & {k_2}_z \\
+{k_3}_x & {k_3}_y & {k_3}_z \\
+{k_4}_x & {k_4}_y & {k_4}_z \\
+\end{bmatrix} }
 $$
+</div>
 
 Then, we will be able to simplify the process to,
 
+<div>
 $$
-\displaystyle{\begin{bmatrix} x_{n+1} & y_{n+1} & z_{n+1} \end{bmatrix} = \begin{bmatrix} x_n & y_n & z_n \end{bmatrix}+\begin{bmatrix} w_1 & w_2 & w_3 & w_4 \end{bmatrix}\begin{bmatrix}{k_1}_x & {k_1}_y & {k_1}_z \\\\{k_2}_x & {k_2}_y & {k_2}_z \\\\{k_3}_x & {k_3}_y & {k_3}_z \\\\{k_4}_x & {k_4}_y & {k_4}_z \\\\\end{bmatrix} }
+\displaystyle{
+\begin{bmatrix} 
+x_{n+1} & y_{n+1} & z_{n+1} 
+\end{bmatrix}
+= 
+\begin{bmatrix} 
+x_n & y_n & z_n 
+\end{bmatrix}
++
+\begin{bmatrix}
+w_1 & w_2 & w_3 & w_4 
+\end{bmatrix}
+\begin{bmatrix}
+{k_1}_x & {k_1}_y & {k_1}_z \\
+{k_2}_x & {k_2}_y & {k_2}_z \\
+{k_3}_x & {k_3}_y & {k_3}_z \\
+{k_4}_x & {k_4}_y & {k_4}_z \\
+\end{bmatrix} }
 $$
+</div>
 
 
 where $\displaystyle{\begin{bmatrix} w_1 & w_2 & w_3 & w_4   \end{bmatrix}= \begin{bmatrix} \frac{1}{6} & \frac{2}{6} & \frac{2}{6} & \frac{1}{6}   \end{bmatrix}}$. 
@@ -88,13 +115,13 @@ Also note that, to implement each step we need the output of previous step. Henc
 $$
 \displaystyle{v_2 =\begin{bmatrix} t_n & x_n & y_n & z_n \end{bmatrix} + c \begin{bmatrix} h & {k_1}_x & {k_1}_y & {k_1}_z \end{bmatrix}}
 $$
-where, $c = \frac{1}{2}$. 
+where, $c = \frac{1}{2}$.
 
 This can be generalised as,
 $$
 \displaystyle{v_j = v + c_j \begin{bmatrix} h & {k_{j-1}}_x & {k_{j-1}}_y & {k_{j-1}}_z \end{bmatrix}}
 $$
-where $\displaystyle{j \in \left \\{ 2, 3, 4 \right \\} }$. This has been implemented in the code as
+where <span>$j\in \left\\{ 2, 3, 4 \right\\}$</span>. This has been implemented in the code as
 
 ```octave
 for j = 1:4
