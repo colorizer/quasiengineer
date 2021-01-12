@@ -4,7 +4,7 @@ date: 2013-03-30T17:50:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/03/apple-ceases-being-innovator.html" ]
-tags : [Gadgets, iPhone 6, iPhone 5S, Apple, Siri, iPen, Samsung, Maps, Technology, iPhone]
+tags : [Gadgets, iPhone, Opinions]
 ---
 
   

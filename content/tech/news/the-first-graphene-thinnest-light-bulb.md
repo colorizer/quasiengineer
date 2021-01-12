@@ -4,7 +4,7 @@ date: 2015-06-25T00:20:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/the-first-graphene-thinnest-light-bulb.html" ]
-tags : [light bulb, photonics, Graphene, Scientific, thinnest, Technology]
+tags : [Graphene, Scientific, nano, materials, Technology]
 ---
 
   

@@ -4,7 +4,7 @@ date: 2013-05-04T19:22:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/space-tourism-comes-closer-as-virgin.html" ]
-tags : [launcher, latest, Machine, Spaceship Two, Digital life, Scientific, ship, space, Technology, flight, Virgin Galactic]
+tags : [Machine, Scientific, Space, Technology, Rockets]
 ---
 
 [![](https://2.bp.blogspot.com/-Y2fs4iJYBEM/UYURIH98siI/AAAAAAAABQY/Fetw-nJUUr8/s640/virginGalactic.jpg)](https://2.bp.blogspot.com/-Y2fs4iJYBEM/UYURIH98siI/AAAAAAAABQY/Fetw-nJUUr8/s1600/virginGalactic.jpg)

@@ -4,7 +4,7 @@ date: 2015-06-14T16:24:00.001+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2015/06/how-to-view-and-record-your-iphone.html" ]
-tags : [How To's, iOS, Apple, Windows, Mac OS X, record screen, cast screen, Android]
+tags : [Guides, iOS, Apple, Windows, Mac OS X, record screen, cast screen, Android]
 ---
 
 I, during a normal visit to reddit, stumbled upon a post telling us how to View and Share your iPhone screen on Macbook. There are two ways in which this can be done.  

@@ -4,7 +4,7 @@ date: 2013-05-14T23:39:00.003+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/how-to-create-shut-down-tile-that-is.html" ]
-tags : [How To's, Windows, windows 8, shut down, start screen]
+tags : [Guides, Windows]
 ---
 
 Windows 8 brought an innovative and stylish interface to Windows but it also brought some annoying changes like clicking or tapping around four times to shut down your computer. You would have felt that it would be lot better if the shut down option was in the start screen. The following method fixes that annoyance by creating a one-click or one-tap tile for shut down in the start screen. Just do as follows:  

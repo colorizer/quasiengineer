@@ -4,7 +4,7 @@ date: 2014-01-29T18:42:00.002+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/01/which-internet-browser-makes-your.html" ]
-tags : [How To's, Battery, Firefox 26, peacekeeper battery test, Toshiba Encore 8", Opera 18, Internet Explorer 11, Software, Chrome 32, HP Pavilion dv 7, Microsoft Surface Pro 2]
+tags : [Guides, Battery, Browser]
 ---
 
 Internet Explorer. Yeah, you heard it right. In the recent tests run by the [7tutorials](https://www.7tutorials.com/), the recent version of internet explorer has outscored other browsers by even hours.  

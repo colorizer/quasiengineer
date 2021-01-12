@@ -484,7 +484,7 @@ uglyURLs = false
     enableTagCloud = true
 
     fontUnit = "em"
-    largestFontSize = 2.5
+    largestFontSize = 2
     smallestFontSize = 1
 
 
@@ -665,7 +665,7 @@ uglyURLs = false
     ######################################
     # KaTeX (chemical equation supported)
 
-    enableKaTeX = true
+    enableKaTeX = false
     # Note: *global settings*
     #       `katex` in post’s Front Matter
     #       has a higher priority than here
@@ -706,13 +706,13 @@ uglyURLs = false
     #       has a higher priority than here
 
     ## Disqus
-    enableDisqus = true
+    enableDisqus = false
     disqusShortname = "quasiengineer"
 
     ## Valine
-    enableValine = false
-    valineAppId = ""
-    valineAppKey = ""
+    enableValine = true
+    valineAppId = "sq1juK7kF6Rd5Pvw0l5Xsgmf-MdYXbMMI"
+    valineAppKey = "5yhrqvQAoudOJTpCmL2pLobU"
     valinePlaceholder = "Just go go"
     valinePath = ""
     valineAvatar = "mm"

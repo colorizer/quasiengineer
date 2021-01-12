@@ -4,7 +4,7 @@ date: 2015-08-23T23:17:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/08/leds-causes-more-light-pollution-than.html" ]
-tags : [LED, street light, light pollution, sodium vapour lamp, Digital life, Scientific, Technology]
+tags : [Environment, Opinion, Scientific, Technology]
 ---
 
 It was a revolutionary discovery for the energy-conservationists when LEDs emerged as a possible replacement for ever-hungry sodium vapour lamps. Then there emerged the promises by government to replace the existing sodium covered streets with LEDs glorious white. And it was a huge success!  

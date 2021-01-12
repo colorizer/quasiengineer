@@ -4,7 +4,7 @@ date: 2015-11-20T23:33:00.001+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2015/11/keryx-offline-package-installation-made.html" ]
-tags : [How To's, Linux, installation, Ubuntu, Software, offline]
+tags : [Guides, Linux, installation, Ubuntu, Software, offline]
 ---
 
 With internet everywhere, offline installation won't be necessary for many users. However, at sometime for someone offline installation may become inevitable. For such situations, Keryx is surely a saviour.  

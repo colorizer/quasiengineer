@@ -4,7 +4,7 @@ date: 2013-05-14T23:14:00.001+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/googles-hidden-image-search-game-atari.html" ]
-tags : [imagery, do a barrel roll, Google, game, atari breakout, Gaming, News, Search engine]
+tags : [Google, game, News]
 ---
 
 Have you ever played [Atari breakout](https://en.wikipedia.org/wiki/Breakout_(video_game))? Don't think it is the latest action game from Atari. It is not the latest. Its not even old. Its a vintage game belonging to 1970s. But it is the latest among the Google trends. Why? Because it is the latest easter egg found from Google.  

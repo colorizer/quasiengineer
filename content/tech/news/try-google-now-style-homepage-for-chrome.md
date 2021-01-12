@@ -4,7 +4,7 @@ date: 2013-04-17T11:51:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/try-google-now-style-homepage-for-chrome.html" ]
-tags : [How To's, Software, extension, Google, Google Now, chrome web store, New Tab Page, Homepage, chrome]
+tags : [Google,chrome, Browser]
 ---
 
 Have you ever wished that for your chrome homepage to be more productive than just being a clipboard for your recently visited websites? Did you ever thought about having those compact features of Google Now in your desktop. Because, your wishes are now being fulfilled now. The chrome extension New Tab Page brings the cool features of Google Now to your browser.  

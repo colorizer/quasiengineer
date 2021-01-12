@@ -4,7 +4,7 @@ date: 2020-08-25T16:33:00.008+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2020/08/trojita-fastest-email-client-gmail.html" ]
-tags : [email, Gmail, Ubuntu, kubuntu, Trojita]
+tags : [email, Gmail, Ubuntu, kubuntu, Trojita, Guides]
 ---
 
  I had recently switched to KDE from Gnome and was looking for an Alternative for Geary. I really liked how fast Geary was and neither Thunderbird nor KMail could act as a replacement for my need(Simple and fast). Before giving up for another Electron app, I gave a try to Trojita and immediately fell in love with its speed. It was blazingly fast to the extent even Geary could never match! This is a simple guide to setup Trojita for Gmail. 

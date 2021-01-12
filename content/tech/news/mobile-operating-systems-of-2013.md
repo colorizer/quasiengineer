@@ -4,7 +4,7 @@ date: 2013-03-31T23:11:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/03/mobile-operating-systems-of-2013.html" ]
-tags : [Linux, Ubuntu touch, Firefox OS, Software, latest, Android, Mobile, Technology, Operating systems, Tizen, Sailfish OS, smartphone]
+tags : [Technology, Mobile, Smartphone]
 ---
 
 [![](https://2.bp.blogspot.com/-c9hqpL-hoGk/UVhxsATLwiI/AAAAAAAAAgI/HA7eO7SfSeM/s320/allOS.jpg)](https://2.bp.blogspot.com/-c9hqpL-hoGk/UVhxsATLwiI/AAAAAAAAAgI/HA7eO7SfSeM/s1600/allOS.jpg)

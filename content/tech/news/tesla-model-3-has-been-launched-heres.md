@@ -5,7 +5,7 @@ draft: false
 categories: ["🗃️ Tech", "📺 News"]
 katex: false
 aliases: [ "/2017/07/tesla-model-3-has-been-launched-heres.html" ]
-tags : [Launch, Tesla, Specifications, Model 3, Electric car, safety, Technology, News]
+tags : [Tesla, Model 3, Electric car, Technology, News]
 typora-root-url: ../../../static
 ---
 

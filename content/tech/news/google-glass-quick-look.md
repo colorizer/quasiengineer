@@ -4,7 +4,7 @@ date: 2013-04-10T13:27:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/google-glass-quick-look.html" ]
-tags : [Gadgets, Google, High Altitude Ballooning, Maps, Mobile, Technology, Google glass]
+tags : [Gadgets, Google, Mobile, Technology, Google glass]
 ---
 
 [![](https://2.bp.blogspot.com/-NEabYWZL5Xg/UWUblfUoeFI/AAAAAAAAAvE/_2vXI0-b8vY/s400/googLAS.jpg)](https://2.bp.blogspot.com/-NEabYWZL5Xg/UWUblfUoeFI/AAAAAAAAAvE/_2vXI0-b8vY/s1600/googLAS.jpg)

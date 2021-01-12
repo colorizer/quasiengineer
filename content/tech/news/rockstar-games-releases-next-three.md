@@ -4,7 +4,7 @@ date: 2013-05-01T11:37:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/rockstar-games-releases-next-three.html" ]
-tags : [PS4, Rockstar Games, PS3, GTA V, Xbox, Gaming, News]
+tags : [Gaming, News]
 ---
 
 Rockstar Games has released the next three trailers for its upcoming game GTA V. Each trailer is dedicated to each of the three protagonists. The trailer shows how each of the protagonists are dragged into the criminal life in the big city of Los Santos.  

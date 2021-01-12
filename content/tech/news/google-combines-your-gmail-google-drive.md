@@ -4,7 +4,7 @@ date: 2013-05-14T23:55:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-combines-your-gmail-google-drive.html" ]
-tags : [Gmail, google+, Google, Google Drive, Cloud Storage, News]
+tags : [Google, News]
 ---
 
 Google finally announced that it is finally combining the storage of all its cloud and web services - Google Drive, Gmail, Google+, photos - to give an unified experience to the users. This is what was found in the official Gmail blog:

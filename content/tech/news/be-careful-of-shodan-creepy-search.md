@@ -4,16 +4,16 @@ date: 2013-04-12T16:46:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/be-careful-of-shodan-creepy-search.html" ]
-tags : [Security, Software, Google, Networking, safety, Shodan, News, Search engine, Servers]
+tags : [Security, Software, Google]
 ---
 
-[![](https://1.bp.blogspot.com/-GxOewWUHMC0/UWfs0D2C5zI/AAAAAAAAA2g/N8ZY79P8ohM/s640/Shodan+Banner.JPG)](https://1.bp.blogspot.com/-GxOewWUHMC0/UWfs0D2C5zI/AAAAAAAAA2g/N8ZY79P8ohM/s1600/Shodan+Banner.JPG)
+![](https://1.bp.blogspot.com/-GxOewWUHMC0/UWfs0D2C5zI/AAAAAAAAA2g/N8ZY79P8ohM/s640/Shodan+Banner.JPG)
 
   
 
 If you don’t want your webcams, printers or home security systems to be hacked, be watchful. Recently, the internet has revealed the scariest search engine called Shodan that peeps into the dark corners of the web, finding servers, webcams and more devices connected to the internet. This search engine for hackers collects information on over 500 million devices every month.
 
-[![](https://1.bp.blogspot.com/-1Lkp0izpUcY/UWfs74IZ8YI/AAAAAAAAA2o/yDFNXAh2t-8/s1600/shodan.jpg)](https://1.bp.blogspot.com/-1Lkp0izpUcY/UWfs74IZ8YI/AAAAAAAAA2o/yDFNXAh2t-8/s1600/shodan.jpg)
+![](https://1.bp.blogspot.com/-1Lkp0izpUcY/UWfs74IZ8YI/AAAAAAAAA2o/yDFNXAh2t-8/s1600/shodan.jpg)
 
   
 

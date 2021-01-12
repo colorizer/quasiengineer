@@ -4,7 +4,7 @@ date: 2013-05-02T23:21:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/instagram-now-lets-anyone-tag-you.html" ]
-tags : [tagging, photos, iOS, Software, latest, Accounts, Facebook, Android, Instagram, News]
+tags : [Software, Instagram, News]
 ---
 
 [![](https://1.bp.blogspot.com/-6VdG08Y48t8/UYKmXsvKAlI/AAAAAAAABM0/1hpVzZ02iYs/s640/instagram.jpeg)](https://1.bp.blogspot.com/-6VdG08Y48t8/UYKmXsvKAlI/AAAAAAAABM0/1hpVzZ02iYs/s1600/instagram.jpeg)

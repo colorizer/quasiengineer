@@ -4,7 +4,7 @@ date: 2013-05-04T18:03:00.001+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/automatically-move-your-gmail.html" ]
-tags : [email, How To's, Microsoft, Gmail, Google, kloudless, box, Dropbox, Google Drive, Cloud Storage, Outlook]
+tags : [Guides, Email, Gmail, Google, Automate]
 ---
 
 [![](https://2.bp.blogspot.com/-YJVjb_BR07c/UYT9xvuo3wI/AAAAAAAABOk/yP2z_3OhYqo/s1600/kloudlessss.png)](https://2.bp.blogspot.com/-YJVjb_BR07c/UYT9xvuo3wI/AAAAAAAABOk/yP2z_3OhYqo/s1600/kloudlessss.png)

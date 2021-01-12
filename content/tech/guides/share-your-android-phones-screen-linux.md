@@ -4,7 +4,7 @@ date: 2015-06-14T20:42:00.002+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2015/06/share-your-android-phones-screen-linux.html" ]
-tags : [How To's, Linux, USB, Windows, bluetooth. remote control, Mac OS X, smartphone, cast screen, wifi, Android]
+tags : [Guides, Linux, USB, Windows, bluetooth. remote control, Mac OS X, smartphone, cast screen, wifi, Android]
 ---
 
   

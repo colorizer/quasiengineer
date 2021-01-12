@@ -4,7 +4,7 @@ date: 2014-03-23T14:02:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/03/forensic-redefined-technology-that.html" ]
-tags : [DNA deduction, imagery, life, genetics, 3D model, Technology]
+tags : [genetics, 3D model, Technology]
 ---
 
 [![](https://2.bp.blogspot.com/-VXaJn26kiA8/Uy6Z7KqiD4I/AAAAAAAACPg/tFJYvGY8ht8/s1600/98.jpg)](https://2.bp.blogspot.com/-VXaJn26kiA8/Uy6Z7KqiD4I/AAAAAAAACPg/tFJYvGY8ht8/s1600/98.jpg)

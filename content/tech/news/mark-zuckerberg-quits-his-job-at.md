@@ -4,12 +4,12 @@ date: 2015-11-20T02:07:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/11/mark-zuckerberg-quits-his-job-at.html" ]
-tags : [bugs, Software, Facebook]
+tags : [Software, Facebook, News]
 ---
 
   
 
-[![Facebook Bug](https://2.bp.blogspot.com/-r23hhv1Dd8U/Vk4xO7U3EtI/AAAAAAAAC4c/oaO1ChoqO2A/s640/facebook-mark-zuckerberg-leaves-quits-job-bug.jpg "Mark Zuckerberg Left Job at Facebook")](https://2.bp.blogspot.com/-r23hhv1Dd8U/Vk4xO7U3EtI/AAAAAAAAC4c/oaO1ChoqO2A/s1600/facebook-mark-zuckerberg-leaves-quits-job-bug.jpg)
+![Facebook Bug](https://2.bp.blogspot.com/-r23hhv1Dd8U/Vk4xO7U3EtI/AAAAAAAAC4c/oaO1ChoqO2A/s640/facebook-mark-zuckerberg-leaves-quits-job-bug.jpg "Mark Zuckerberg Left Job at Facebook")
 
   
 Well, if you are looking for an official announcement, check his [facebook post](httpss://www.facebook.com/zuck/timeline/story?ut=32&wstart=-2051193600&wend=2147483647&hash=971179541251&pagefilter=3&&__mref=message_bubble) itself.  

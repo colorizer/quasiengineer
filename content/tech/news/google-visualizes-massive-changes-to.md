@@ -4,7 +4,7 @@ date: 2013-05-11T10:56:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-visualizes-massive-changes-to.html" ]
-tags : [Environment, Google, NASA, Scientific, time lapse project, Google earth, Technology]
+tags : [Environment, Google, Google earth, Technology]
 ---
 
 [![](https://3.bp.blogspot.com/-vk6BU4ko01M/UY3Vvzp_q8I/AAAAAAAABWI/t6wk-64U5Jg/s640/google+time+lapse.jpg)](https://3.bp.blogspot.com/-vk6BU4ko01M/UY3Vvzp_q8I/AAAAAAAABWI/t6wk-64U5Jg/s1600/google+time+lapse.jpg)

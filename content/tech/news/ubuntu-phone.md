@@ -4,7 +4,7 @@ date: 2013-03-31T16:58:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/03/ubuntu-phone.html" ]
-tags : [Ubuntu tablets, Linux, Ubuntu touch, Software, Ubuntu phone, Phone, smartphone, Mobile, Technology]
+tags : [Linux, Ubuntu touch, Software]
 ---
 
 [![](https://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd4/vi0fdrb1imM/s1600/ubphon.jpg)](https://2.bp.blogspot.com/-zEATfTD9EfQ/UVgNZABBrOI/AAAAAAAAAd4/vi0fdrb1imM/s1600/ubphon.jpg)

@@ -4,7 +4,7 @@ date: 2013-04-16T08:53:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/try-googles-experimental-new-app.html" ]
-tags : [How To's, data, settings, Software, Google, cookies, interface, Search engine]
+tags : [Software, Google]
 ---
 
 Google is currently testing a new interface for its search engine. Its planning to replace the top black bar with a simpler navigation menu which is compact and includes fewer services.  

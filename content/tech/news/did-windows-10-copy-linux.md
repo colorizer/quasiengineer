@@ -4,7 +4,7 @@ date: 2015-05-25T00:32:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/05/did-windows-10-copy-linux.html" ]
-tags : [Docking, Linux, Virtual desktops, Workspace, software center, continuum, Software, Cortana, copy, similarity, battle, Hud, Windows store, Windows 10]
+tags : [Windows 10, Linux, Opinions]
 ---
 
 Windows 10 is supposedly the most revolutionizing Windows series that has yet evolved. Its the user friendly hybrid of the PC-friendly Windows 7 and Tablet friendly Windows 8. But that not it! It has more features packed than ever that revolutionized the way Operating systems work.  

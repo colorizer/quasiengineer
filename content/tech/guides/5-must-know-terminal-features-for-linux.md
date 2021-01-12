@@ -4,7 +4,7 @@ date: 2020-05-08T22:23:00.000+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2020/05/5-must-know-terminal-features-for-linux.html" ]
-tags : [How To's, Linux, Terminal, commands]
+tags : [Guides, Linux, Terminal, commands]
 ---
 
 ![](httpss://1.bp.blogspot.com/-9LOw7EEUUHI/XrWJVNder9I/AAAAAAAAvC0/6QRYHDDIlYQUU0wx5EOL8eDxca8uflxXQCLcBGAsYHQ/s1600/Screenshot%2Bfrom%2B2020-05-08%2B22-00-29.png)

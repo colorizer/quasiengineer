@@ -4,7 +4,7 @@ date: 2013-04-12T11:54:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/control-your-google-account-after-you.html" ]
-tags : [How To's, data, Security, settings, After death, Google, Accounts, safety, Digital life, Inactive Account Manager, News]
+tags : [Guides, Google, Accounts]
 ---
 
 [![](https://1.bp.blogspot.com/-N6nMJ5aulaY/UWevd_RWpuI/AAAAAAAAA1c/Yi4-NcIkG-o/s1600/afterlifegog.jpg)](https://1.bp.blogspot.com/-N6nMJ5aulaY/UWevd_RWpuI/AAAAAAAAA1c/Yi4-NcIkG-o/s1600/afterlifegog.jpg)

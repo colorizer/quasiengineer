@@ -4,7 +4,7 @@ date: 2013-05-01T23:05:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/scientists-make-movie-out-of-atoms.html" ]
-tags : [carbon, movie, Scientific, nano, atoms, Technology]
+tags : [Scientific, movies, nano, Technology]
 ---
 
 Did your eyes widened up when they saw all those incredible movies of James Cameron? Did you gasp in wonder when you heared that his next movies will be shot in the deepest spot in ocean?  But, if you are a technology geek too, here is your chance to watch a marvel that actually belongs to the geeks and scientists.

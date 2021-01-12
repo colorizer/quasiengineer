@@ -4,7 +4,7 @@ date: 2015-06-20T22:40:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/aeomobil-most-beautiful-flying-car-ever.html" ]
-tags : [automobile, Machine, Aeroplane, flying car, Aeromobil, Technology]
+tags : [Machine, Aeromobil, Flying car, Technology]
 ---
 
 ![](https://www.aeromobil.com/assets/gallery/am_foto_01.jpg)

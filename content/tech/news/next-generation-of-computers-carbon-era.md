@@ -4,7 +4,7 @@ date: 2013-04-03T19:22:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/next-generation-of-computers-carbon-era.html" ]
-tags : [Silicon, IBM, Moore's law, Carbon nanotubes, Graphene, Electrical, Semiconductors, carbon chips, Technology, Gadgets, smartphone, Intel]
+tags : [Graphene, Technology, Gadgets, smartphone, Intel]
 ---
 
 [![](https://1.bp.blogspot.com/-plCmKEXJOig/UVwYQkEjchI/AAAAAAAAAl4/XjpICX_iAzs/s1600/carbon-nanotube-computer-chip-537x301.jpg)](https://1.bp.blogspot.com/-plCmKEXJOig/UVwYQkEjchI/AAAAAAAAAl4/XjpICX_iAzs/s1600/carbon-nanotube-computer-chip-537x301.jpg)

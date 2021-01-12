@@ -4,7 +4,7 @@ date: 2013-04-16T09:45:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/google-glass-full-specs-full-day.html" ]
-tags : [Software, Google, Networking, Android, Technology, Google glass, Operating systems, Gadgets, Google glasses, Digital life, transparent, interface, Maps, contact lenses, Search engine]
+tags : [Gadgets, Google, Technology]
 ---
 
 [![](https://3.bp.blogspot.com/-iIHeGy2Nmng/UWzLi5c8DmI/AAAAAAAAA38/pqMgvUb1Hj8/s640/googLAS.jpg)](https://3.bp.blogspot.com/-iIHeGy2Nmng/UWzLi5c8DmI/AAAAAAAAA38/pqMgvUb1Hj8/s1600/googLAS.jpg)

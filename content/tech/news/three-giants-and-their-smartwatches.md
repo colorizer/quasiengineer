@@ -4,7 +4,7 @@ date: 2013-04-19T13:29:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/three-giants-and-their-smartwatches.html" ]
-tags : [Microsoft, Smart watch, Google, Windows, iWatch, Android, Gadgets, Tizen, iOS, flexible display, Apple, X Watch, Google glasses, S watch, Samsung, Windows phone]
+tags : [Microsoft, Smart watch, Google, Samsung]
 ---
 
 Now-a-days, the tech geeks are at their extreme geekiness as three giants - Apple, Samsung and Microsoft - jumps into the smartwatch industry all at once. So, what these smart watches will have? Will it create a competing market for the now-dull smartwatch industry? Let us see..  

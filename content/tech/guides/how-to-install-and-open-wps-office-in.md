@@ -4,7 +4,7 @@ date: 2017-07-28T19:59:00.000+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2017/07/how-to-install-and-open-wps-office-in.html" ]
-tags : [Linux, Dolphin, kubuntu, Software, WPS Office, App, association, KDE, How To's, Ubuntu, filetype, KDE Neon]
+tags : [Linux, Dolphin, kubuntu, Software, WPS Office, App, association, KDE, Guides, Ubuntu, filetype, KDE Neon]
 typora-root-url: ../../../static/images
 ---
 

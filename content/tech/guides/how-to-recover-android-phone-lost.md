@@ -4,7 +4,7 @@ date: 2013-06-27T00:20:00.000+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/06/how-to-recover-android-phone-lost.html" ]
-tags : [How To's, anti–theft, Security, data recovery, android Lost, smartphone, Android]
+tags : [anti–theft, Security, data recovery, smartphone, Android]
 ---
 
 The people has moved into smart world and so had the thieves. But a commoner would not realise that his phone can be stolen until he loses it. And so there is less chance that he had installed security apps in it. Once it gets stolen, all he can do is to worry.. Well, that is past now. With [Androidlost](https://www.androidlost.com/), you can install the security app even after you have lost your phone.  

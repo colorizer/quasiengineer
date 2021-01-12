@@ -4,7 +4,7 @@ date: 2014-06-27T16:57:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2014/06/three-major-changes-coming-with-android.html" ]
-tags : [Android L, Ubuntu touch, google+, Software, Google, Material design, performance, Android, Android 5.0, multitasking, Web apps, design, Digital life, Lollipop]
+tags : [Android, Software, Google, News]
 ---
 
 Lollipop? Lava cake?? No. Just name it L! Because big changes sound so simple at first! After Google released the developer preview for the so-called "Android L", people had made a lot of reviews about it. Here is a list of main changes coming with this L-release.  

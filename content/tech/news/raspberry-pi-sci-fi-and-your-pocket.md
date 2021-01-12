@@ -4,7 +4,7 @@ date: 2013-04-08T14:41:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/raspberry-pi-sci-fi-and-your-pocket.html" ]
-tags : [Gadgets, Linux, Silicon, Siri, Google glasses, Supercomputer, High Altitude Ballooning, Electrical, Raspberry Pi, Technology]
+tags : [Gadgets, Raspberry Pi, Technology]
 ---
 
 [![](https://4.bp.blogspot.com/-9AxETEDXiPQ/UWJt3JrwqcI/AAAAAAAAAqo/mtFfVfLVM4U/s400/AdafruitPiBox.jpg)](https://4.bp.blogspot.com/-9AxETEDXiPQ/UWJt3JrwqcI/AAAAAAAAAqo/mtFfVfLVM4U/s1600/AdafruitPiBox.jpg)

@@ -4,7 +4,7 @@ date: 2013-11-06T01:36:00.002+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/11/financius-best-expense-manager-for.html" ]
-tags : [money manager, Software, App, expense manager, Digital life, Financius, play store]
+tags : [Software, App, Expense manager]
 ---
 
 There are so many apps Play Store to manage expenses but none of them has made me feel comfortable as this app. This app, Financius, has all you need - a smooth interface ( reminding me more about Google+), a neat and efficient way to manage your money, an app lock feature to secure your expense lists and finally all these features for free (with no ad!).  

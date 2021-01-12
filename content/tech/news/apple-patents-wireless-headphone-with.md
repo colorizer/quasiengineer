@@ -4,7 +4,7 @@ date: 2015-08-30T23:13:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/08/apple-patents-wireless-headphone-with.html" ]
-tags : [Gadgets, Apple, wireless, Headphone, iPhone, Patents]
+tags : [Gadgets, Apple, Headphone]
 ---
 
 With Apple unveiling iPhone 6s in less than two weeks, we all are eager to hear the innovations Apple has in store for us. But, according to [AppleInsider](https://appleinsider.com/articles/15/08/27/apple-researching-noise-cancelling-wireless-earphones-with-bone-conduction-tech), Apple is also looking into technologies for Wireless headphones that could make the iExperience even better.  

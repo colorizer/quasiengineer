@@ -4,7 +4,7 @@ date: 2015-10-25T15:30:00.002+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/10/this-is-how-people-reacted-when-ipod.html" ]
-tags : [Gadgets, Reddit, Apple, iPod]
+tags : [Gadgets, Reddit, Apple, iPod, Throwback]
 ---
 
 [![](https://3.bp.blogspot.com/-orfbKKwoU8A/Viyn7nqEn2I/AAAAAAAAC10/C_bsT2MirfI/s640/SayHelloToiPod.jpeg)](https://3.bp.blogspot.com/-orfbKKwoU8A/Viyn7nqEn2I/AAAAAAAAC10/C_bsT2MirfI/s1600/SayHelloToiPod.jpeg)

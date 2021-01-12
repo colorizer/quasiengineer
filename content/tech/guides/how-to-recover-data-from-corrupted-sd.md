@@ -4,7 +4,7 @@ date: 2013-05-12T19:51:00.001+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/how-to-recover-data-from-corrupted-sd.html" ]
-tags : [Gadgets, How To's, Micro SD card, photos, data recovery, SD card, videos, corrupted, Zero Assumption Recovery]
+tags : [Gadgets, Micro SD card, photos, data recovery]
 ---
 
 Recently, a friend of mine ended up having his camera SD card corrupted after he mistakenly unplugged it while transfering the files. That is until he plugged it back in and he got the dreaded Windows Prompt that goes something along the lines of “\* Drive is corrupt or unformatted. Do you want to format this drive?” The SD card showed up as a drive but he could not longer access the month of pictures that he had on it.  

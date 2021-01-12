@@ -4,7 +4,7 @@ date: 2013-03-31T23:21:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/03/which-best-operating-system.html" ]
-tags : [Linux, Software, Windows, Mac OS X, Android, Mobile, Technology, iOS 6, Operating systems, How To's, Ubuntu, Apple, Desktop, Windows phone]
+tags : [Software, OS]
 ---
 
 You might be thinking of buying a new computer or thinking of installing a new OS. Here is my thoughts on the various operating systems available and their area of excellence which, I believe, will help you choose the right one.  

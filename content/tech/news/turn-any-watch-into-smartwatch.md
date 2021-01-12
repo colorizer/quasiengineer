@@ -4,7 +4,7 @@ date: 2015-06-06T20:39:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/turn-any-watch-into-smartwatch.html" ]
-tags : [Gadgets, Smart watch, Apple watch, App, notification, Sensor, smart disk, fitness, health, Chronos]
+tags : [Gadgets, Smart watch, health]
 ---
 
 [![](https://1.bp.blogspot.com/-pcomChsh4Og/VXMJzgAtrgI/AAAAAAAACvM/cyTEMnxjfkk/s640/chronos.jpg)](https://1.bp.blogspot.com/-pcomChsh4Og/VXMJzgAtrgI/AAAAAAAACvM/cyTEMnxjfkk/s1600/chronos.jpg)

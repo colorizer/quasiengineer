@@ -4,13 +4,13 @@ date: 2013-05-01T22:37:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/chrome-to-have-windows-start-button.html" ]
-tags : [Web apps, launcher, Software, Google, Windows, chrome web store, start button, chrome]
+tags : [Software, Google, Windows, News, chrome]
 ---
 
 The web world has started to move into a new level of internet services powered with HTML 5 which allows the websites to be installed and behave like the native apps of your system. But, to launch all those apps? There is not an easy way to do it other than browsing for it. But Google is finally going to make it a lot easier.  
   
 
-[![](https://4.bp.blogspot.com/-LZh3ioEYWdY/UYFLgcxT8hI/AAAAAAAABLo/4oZdWgFR5po/s400/windows-image-blogpost.png)](https://4.bp.blogspot.com/-LZh3ioEYWdY/UYFLgcxT8hI/AAAAAAAABLo/4oZdWgFR5po/s1600/windows-image-blogpost.png)
+![](https://4.bp.blogspot.com/-LZh3ioEYWdY/UYFLgcxT8hI/AAAAAAAABLo/4oZdWgFR5po/s400/windows-image-blogpost.png)
 
   
 A few months ago, Google [announced](https://blog.chromium.org/2013/02/chrome-app-launcher-developer-preview.html) the Windows Start button-like app launcher for Chrome on Windows, and with it, a way to easily launch [Chrome packaged apps](https://developer.chrome.com/apps/about_apps.html), a new way to write apps that are based on Chrome and web technologies but behave like native apps.  

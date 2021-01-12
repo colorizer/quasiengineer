@@ -4,7 +4,7 @@ date: 2013-04-24T12:12:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/charge-your-iphone-by-shaking-it.html" ]
-tags : [Gadgets, Ideation Designs LLC, Apple, Infinity Cell, Software, charging, kinetic charger, smartphone, iPhone]
+tags : [Gadgets, smartphone, iPhone]
 ---
 
 What will happen if your iPhone runs out of charge at the crucial time? It will become a cruel time. But there is no need to be afraid of this anymore. Ideation Designs LLC has come up with device called Infinity cell to make sure that your device remains charged.  

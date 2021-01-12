@@ -4,7 +4,7 @@ date: 2016-03-01T18:39:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2016/03/googles-self-driving-car-gets-into.html" ]
-tags : [AI, Self-driving cars, accident, Google, News]
+tags : [AI, Google, News]
 ---
 
 [![](httpss://4.bp.blogspot.com/--EuNCSGRySM/VtWSjWErstI/AAAAAAAADLA/FDjhE5tVdE8/s640/GoogleLexus.png)](https://4.bp.blogspot.com/--EuNCSGRySM/VtWSjWErstI/AAAAAAAADLA/FDjhE5tVdE8/s1600/GoogleLexus.png)

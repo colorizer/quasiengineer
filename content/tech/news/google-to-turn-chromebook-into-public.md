@@ -4,7 +4,7 @@ date: 2013-05-01T22:04:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-to-turn-chromebook-into-public.html" ]
-tags : [Gadgets, Linux, kiosk, Google, guest mode, Samsung, chrome, News, Operating systems]
+tags : [Gadgets, Linux, Chrome OS, Google, News]
 ---
 
   

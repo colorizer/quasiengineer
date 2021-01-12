@@ -4,7 +4,7 @@ date: 2013-05-15T23:08:00.002+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-io-2013-from-beginning-to-end.html" ]
-tags : [Google, Google Now, Google Drive, Cloud Storage, Google Maps, Google earth, IO 2013, Google glass, News]
+tags : [Google, News]
 ---
 
 So Google I/O is finally happening! All you need is a post that keeps you updated with what is happening and here it is - from the start to end!  

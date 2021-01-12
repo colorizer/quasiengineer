@@ -4,7 +4,7 @@ date: 2015-06-18T13:17:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/japanese-machine-converts-plastic-into.html" ]
-tags : [recycle, fuel, Machine, plastics, Technology, oil]
+tags : [Environment, Machine, Technology]
 ---
 
 Plastic has been called the child of the past, peril of the present and the Grim reaper of the future. We have been using the new found material for quite long time that it has become irreplacable. But, it have always been the wrong path. Now this Japanese company [Blest](https://www.blest.co.jp/) has taken a small step in setting things right.  

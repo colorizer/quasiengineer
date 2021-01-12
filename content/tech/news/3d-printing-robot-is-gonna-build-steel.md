@@ -4,7 +4,7 @@ date: 2015-06-18T18:53:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/3d-printing-robot-is-gonna-build-steel.html" ]
-tags : [3D printer, autodesk, steel bridge, MX3D, 3D model, Technology]
+tags : [3D printer, autodesk, MX3D]
 ---
 
 ![](https://www.iflscience.com/sites/www.iflscience.com/files/styles/ifls_large/public/blog/%5Bnid%5D/bridge_0.jpg?itok=9NKhACzS)

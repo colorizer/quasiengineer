@@ -4,7 +4,7 @@ date: 2016-03-05T23:28:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2016/03/drones-taken-to-next-level-they-balance.html" ]
-tags : [D'Andrea, firefly drones, ted, FRAC, Omnicopter, monospinner, safety, drones, Technology]
+tags : [Gadgets, drones, Technology]
 ---
 
 [![](httpss://2.bp.blogspot.com/-gtUCQkEW69o/Vtsd4OI1N3I/AAAAAAAADLM/7faeLJ4l4MM/s640/ted2016.jpg)](httpss://2.bp.blogspot.com/-gtUCQkEW69o/Vtsd4OI1N3I/AAAAAAAADLM/7faeLJ4l4MM/s1600/ted2016.jpg)

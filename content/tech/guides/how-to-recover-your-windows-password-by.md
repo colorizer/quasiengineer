@@ -4,7 +4,7 @@ date: 2013-05-20T11:10:00.002+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/how-to-recover-your-windows-password-by.html" ]
-tags : [How To's, data recovery, hack, passwords, Windows]
+tags : [data recovery, hack, passwords, Windows]
 ---
 
   

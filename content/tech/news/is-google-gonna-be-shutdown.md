@@ -4,7 +4,7 @@ date: 2015-06-07T12:02:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/06/is-google-gonna-be-shutdown.html" ]
-tags : [Google photos, google+, Google, Hangouts, profile, social network, Android, Mobile, iOS, Google Now, Desktop, Accounts, twitter, News, user interface]
+tags : [Google, Opinion]
 ---
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Google_plus.svg/1047px-Google_plus.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Google_plus.svg/1047px-Google_plus.svg.png)

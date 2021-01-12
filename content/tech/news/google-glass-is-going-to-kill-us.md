@@ -4,7 +4,7 @@ date: 2013-05-02T23:42:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/google-glass-is-going-to-kill-us.html" ]
-tags : [Gadgets, Google, Digital life, killer, Technology, Google glass]
+tags : [Gadgets, Google, Technology]
 ---
 
 If you started to laugh before you started to read this post, no offence is taken. Because, I too laughed when I read this article in TechRadar. Already, the tech-panic phenomena has started for Google glass.  

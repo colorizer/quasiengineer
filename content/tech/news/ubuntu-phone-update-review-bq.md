@@ -4,7 +4,7 @@ date: 2015-11-21T21:00:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/11/ubuntu-phone-update-review-bq.html" ]
-tags : [update, Ubuntu, Software, BQ Aquaris E4.5, Ubuntu phone, Review]
+tags : [Linux, Ubuntu touch]
 ---
 
   

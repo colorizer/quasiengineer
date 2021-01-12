@@ -4,10 +4,10 @@ date: 2013-08-10T11:12:00.004+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/08/how-to-improve-battery-life-of-any.html" ]
-tags : [Gadgets, How To's, Battery, life, improving battery life, general usage, lithium ion battery, power consumption, health]
+tags : [Guides, Battery, Gadgets]
 ---
 
-[![](https://2.bp.blogspot.com/-0CZEdNy5ZqQ/UgXQx9srPGI/AAAAAAAAB38/uV-x9ecQClo/s1600/phone-battery.jpg)](https://2.bp.blogspot.com/-0CZEdNy5ZqQ/UgXQx9srPGI/AAAAAAAAB38/uV-x9ecQClo/s1600/phone-battery.jpg)
+![](https://2.bp.blogspot.com/-0CZEdNy5ZqQ/UgXQx9srPGI/AAAAAAAAB38/uV-x9ecQClo/s1600/phone-battery.jpg)
 
   
 1) Discharging your LIB(Lithium Ion Battery) fully (or less than 2.4 volt per cell) is bad for the battery. Whenever you do that, it can be said that a small part of your battery dies(they lose their charge forever). Don't store your batteries depleted as there is a chance that they will die completely or become very 'weak'.  

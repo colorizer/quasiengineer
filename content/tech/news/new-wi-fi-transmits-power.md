@@ -4,7 +4,7 @@ date: 2015-11-20T21:32:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2015/11/new-wi-fi-transmits-power.html" ]
-tags : [PoWiFi, charging, wireless, wifi, Technology]
+tags : [Gadgets, Technology]
 ---
 
 Wi-fi has totally changed what internet is. It took internet from being "Bound by wire" to being "Bound by Space". And the latter is really not a problem, because that "Space" is now almost everywhere. But, being surrounded by this much energy, do we use it enough?  

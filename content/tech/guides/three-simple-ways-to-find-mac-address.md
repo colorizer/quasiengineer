@@ -4,7 +4,7 @@ date: 2016-07-27T23:16:00.000+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2016/07/three-simple-ways-to-find-mac-address.html" ]
-tags : [How To's, Ubuntu, Ubuntu 16.04, mac address, network]
+tags : [Guides, Ubuntu, Ubuntu 16.04, mac address, network]
 ---
 
 You may need the MAC address for various functions at some point in your life. So, it will always be helpful to know how to find out mac address in Ubuntu.  

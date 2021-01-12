@@ -4,7 +4,7 @@ date: 2013-05-08T23:08:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/googles-office-has-been-hacked.html" ]
-tags : [Security, Tridium Niagara AX platform, hack, Google, Cylance, safety, Shodan, News, Operating systems, Search engine, Servers]
+tags : [Security, Google, News]
 ---
 
 Wherever you go, whichever place it may be, how strong may be you are, you are still vulnerable. The same law applies to the search Giant Google. Google has given a lot of effort to keep the data of customers safe and secure but, it seems, it doesn't have quite the same level of focus when it comes to keep its building systems secure.  

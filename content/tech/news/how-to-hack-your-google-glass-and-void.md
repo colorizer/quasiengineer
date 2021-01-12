@@ -4,7 +4,7 @@ date: 2013-05-17T11:13:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/05/how-to-hack-your-google-glass-and-void.html" ]
-tags : [Gadgets, How To's, Ubuntu, hack, Google, App, Android, Google glass, News]
+tags : [Gadgets, Google, Google glass, News]
 ---
 
 I don't know why Google did it, but, it did it.  May be to show that user data will be safe from hackers.. or to encourage the developers to hack their Google devices.. or even to show that the Google glass is grindable by blender.  

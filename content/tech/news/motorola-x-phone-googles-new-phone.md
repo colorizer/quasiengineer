@@ -1,10 +1,10 @@
 ---
-title: 'Motorola X Phone - Google''s new Phone'
+title: "Motorola X Phone - Google's new Phone"
 date: 2013-04-04T17:08:00.000+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/motorola-x-phone-googles-new-phone.html" ]
-tags : [Gadgets, flexible display, Google, key lime pie, Nexus 5, Tegra 4i, smartphone, Android 5.0, Mobile, Motorola X Phone, Technology]
+tags : [Gadgets, flexible display, Google, Mobile, Technology]
 ---
 
 [![](https://1.bp.blogspot.com/-AWJVJ-AgNo8/UV1llHbrBSI/AAAAAAAAAo4/v2ylIT1q-J4/s400/Motorola_X_phone_concept-490x489.jpg)](https://1.bp.blogspot.com/-AWJVJ-AgNo8/UV1llHbrBSI/AAAAAAAAAo4/v2ylIT1q-J4/s1600/Motorola_X_phone_concept-490x489.jpg)

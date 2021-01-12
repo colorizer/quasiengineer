@@ -4,7 +4,7 @@ date: 2017-07-28T19:10:00.000+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2017/07/microsoft-documents-opens-via-ark-in.html" ]
-tags : [How To's, MS Office, Dolphin, Ubuntu, filetype, WPS Office, App, association, KDE, Ark, KDE Neon]
+tags : [Guides, MS Office, Dolphin, Ubuntu, filetype, WPS Office, App, association, KDE, Ark, KDE Neon]
 ---
 
 [![](httpss://1.bp.blogspot.com/-r6xwzuB4Q54/WXszff4CgDI/AAAAAAAAN0Q/mHZJFisraI0rbc3ggyLdwPAusb2Y-pU9ACK4BGAYYCw/s400/kde_neon_laptop.png)](https://1.bp.blogspot.com/-r6xwzuB4Q54/WXszff4CgDI/AAAAAAAAN0Q/mHZJFisraI0rbc3ggyLdwPAusb2Y-pU9ACK4BGAYYCw/s1600/kde_neon_laptop.png)

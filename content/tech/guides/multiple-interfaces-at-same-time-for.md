@@ -4,7 +4,7 @@ date: 2013-04-07T18:05:00.002+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/04/multiple-interfaces-at-same-time-for.html" ]
-tags : [Unity, kubuntu, Software, Desktop Environments, LXDE, lubuntu, KDE, How To's, Ubuntu, XFCE, Cinnamon, Gnome, interface, xubuntu]
+tags : [Unity, kubuntu, Software, Desktop Environments, LXDE, lubuntu, KDE, Guides, Ubuntu, XFCE, Cinnamon, Gnome, interface, xubuntu]
 ---
 
 [![](https://2.bp.blogspot.com/-51vNLpLWMq8/UWFdADnFz1I/AAAAAAAAAqc/JJL_Puk82G0/s1600/DeskEnv.png)](https://2.bp.blogspot.com/-51vNLpLWMq8/UWFdADnFz1I/AAAAAAAAAqc/JJL_Puk82G0/s1600/DeskEnv.png)

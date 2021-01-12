@@ -4,7 +4,7 @@ date: 2013-04-10T17:03:00.003+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/no-more-passwords-just-passthoughts.html" ]
-tags : [Neurosky, passthoughts, passwords, thought authentication, mindset, Intel, Technology, UC Berkeley]
+tags : [Scientific, Intel, Technology, UC Berkeley, sensor]
 ---
 
 [![](https://4.bp.blogspot.com/-KPk22WG6Lw8/UWVEmkBz45I/AAAAAAAAAvU/FKF3517RF8E/s400/brain-computer-interface-emotiv-640x353.jpg)](https://4.bp.blogspot.com/-KPk22WG6Lw8/UWVEmkBz45I/AAAAAAAAAvU/FKF3517RF8E/s1600/brain-computer-interface-emotiv-640x353.jpg)

@@ -4,7 +4,7 @@ date: 2013-04-12T10:19:00.001+05:30
 draft: false
 categories: ["🗃️ Tech", "📺 News"]
 aliases: [ "/2013/04/new-waterproof-material-that-halts.html" ]
-tags : [Harvard's Wyss Institute, Waterproof, tears, Scientific, transparent, nano, slips, Opaque, Technology, contact lenses, pipelines]
+tags : [News, Scientific, nano, materials, Technology]
 ---
 
 [![](https://2.bp.blogspot.com/-InI4oPZ5dvA/UWeQk7Q8zuI/AAAAAAAAA0o/cL2llo5jDPk/s400/tentmat.jpg)](https://2.bp.blogspot.com/-InI4oPZ5dvA/UWeQk7Q8zuI/AAAAAAAAA0o/cL2llo5jDPk/s1600/tentmat.jpg)

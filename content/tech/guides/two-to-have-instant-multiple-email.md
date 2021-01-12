@@ -4,7 +4,7 @@ date: 2015-06-16T14:50:00.001+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2015/06/two-to-have-instant-multiple-email.html" ]
-tags : [email, How To's, plus, Gmail, dots, multiple addresses]
+tags : [email, Guides, Gmail, dots, multiple addresses]
 ---
 
 During my recent voyage through the Reddit, I stumbled upon a useful fact about Gmail which actually let you have multiple emails for your single account. This is really helpful especially when one of your subscribing newsletter turns in to a spam. You just have to block the incoming for the email address you used for them!  

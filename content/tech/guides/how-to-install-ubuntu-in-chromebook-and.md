@@ -4,7 +4,7 @@ date: 2013-05-22T23:25:00.001+05:30
 draft: false
 categories: ["🗃️ Tech" , "📚 Guides"]
 aliases: [ "/2013/05/how-to-install-ubuntu-in-chromebook-and.html" ]
-tags : [How To's, pixel, Ubuntu, kubuntu, chromebook, dual boot, crouton, lubuntu, chrubuntu, xubuntu]
+tags : [Guides, Ubuntu, kubuntu, chromebook]
 ---
 
 There are some Chromebooks with awesome hardware out there, like [the beautiful Chromebook Pixel](https://gizmodo.com/5986747/google-chromebook-pixel-awesome-just-not-1300-worth-of-awesome), but they don't quite hit their full potential with Chrome OS. Here's how to install Ubuntu and get more out of your Chromebook.  
