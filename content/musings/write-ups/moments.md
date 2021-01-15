@@ -3,6 +3,7 @@ title: 'Moments...'
 date: 2013-05-24T00:39:00.003+05:30
 draft: false
 aliases: [ "/2013/05/moments.html" ]
+categories: ["💭 Musings", "📝 Write-ups"]
 tags : [Article]
 ---
 
