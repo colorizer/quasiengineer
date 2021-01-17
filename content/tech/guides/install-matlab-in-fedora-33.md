@@ -1,14 +1,14 @@
 ---
 title: "Install Matlab in Fedora 33"
-subtitle: "![Matlab Loading Screen](/images/2021/install-matlab-in-fedora-33/Screenshot_20210117_191232.png)"
 date: 2021-01-17T19:02:28+05:30
 draft: false
 tags: [Guides, Matlab, Linux, Fedora]
 categories: ["🗃️ Tech" , "📚 Guides"]
 typora-root-url: ../../../static
 ---
+![Matlab Loading Screen](/images/2021/install-matlab-in-fedora-33/Screenshot_20210117_191232.png)
 
-While Matlab installed just fine for me in Ubuntu, it greeted me with errors in Fedora. Here's how I got it working[^1]. Hope this helps someone.
+While Matlab installed just fine for me in Ubuntu, it greeted me with errors in Fedora. Here's how I got it working[^1]. Hope this helps someone.<!--more-->
 
 **Step 1:**
 

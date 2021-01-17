@@ -3,6 +3,8 @@ title: "Saudade"
 date: 2020-05-19T19:46:35+05:30  
 draft: false  
 type: "poetry"
+tags: [Poem]
+summary: "*Wikipedia*: A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one cares for and/or loves."
 categories: ["💭 Musings", "🎶 Poems"]
 ---  
 There was this little town    

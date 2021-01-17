@@ -1,12 +1,12 @@
 ---
-title: "Install Signal on Fedora 33"
-subtitle: "![signal-fedora](/images/2021/signal-on-fedora/signal-fedora.png)"
+title: "Install Signal in Fedora 33"
 date: 2021-01-13T23:20:30+05:30
 draft: false
 tags: [Linux, Signal, Messenger, Fedora]
 categories: ["🗃️ Tech" , "📚 Guides"]
 typora-root-url: ../../../static
 ---
+![signal-fedora](/images/2021/signal-on-fedora/signal-fedora.png)
 
 With the ongoing privacy issues being raised due to Whatsapp's new policy updates, many people are trying to switch over to Signal. It is a secure encrypted messenger that has been endorsed by many people including Elon Musk. Hence, I was also one of the new flocks in Signal and soon discovered that it is not officially available for Fedora.
 
