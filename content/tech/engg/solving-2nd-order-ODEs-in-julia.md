@@ -8,17 +8,21 @@ categories: ["🗃️ Tech", "🛠 Engg"]
 typora-root-url: ../../../static
 ---
 
-The second order Linear Differential Equations can be solved using DifferentialEquations.jl package available in Julia repository[^1]. Here is an example problem being solved using Julia.
+The second order Linear Differential Equations can be solved using DifferentialEquations.jl package available in [Julia repository](https://juliapackages.com/p/differentialequations). Here is an example problem being solved using Julia.
 
 Consider a 4-degree of freedom undamped free vibration system  as follows.
 
 ![4dof-system](/images/2021/solving-2nd-order-ODEs-in-julia/4dof-system.png)
 
 The above system can be represented by the equation,
+
 $$
 \displaystyle{[M] [\ddot{x}] + [K][x] = 0}
 $$
+
 where,
+
+<div>
 $$
 \displaystyle{
 \begin{aligned}
@@ -29,7 +33,11 @@ x =\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix}\\
 \end{aligned}
 }
 $$
+</div>
+
 Let's take the following values and initial conditions for this problem.
+
+<div>
 $$
 \displaystyle{
 \begin{aligned}
@@ -41,8 +49,10 @@ x\left( 0 \right) =\begin{bmatrix} 0.025 \\ 0.02 \\ 0.02 \\ 0.001 \end{bmatrix}
 \end{aligned}
 }
 $$
+</div>
 
 ```julia
+using DifferentialEquations
 M = Array(I(4)*5)
 K = Array(Tridiagonal([-5, -5, -5], [10, 10, 10, 5], [-5, -5, -5]))
 F = zeros(4)
@@ -52,14 +62,18 @@ B = -inv(M)*K
 ```
 
 The above differential equation can be re-arranged as,
+
+<div>
 $$
 \displaystyle{
 \begin{aligned}
-\ddot{x} &= -[M]^{-1}[K][x] \\\\
-&= [B][x] 
+ \ddot{x} &= -[M]^{-1}[K][x] \\
+ &= [B][x] 
 \end{aligned}
 }
 $$
+</div>
+
 where, $\displaystyle{[B] = -[M]^{-1}[K]}$.
 
 Now, to solve the equation $\displaystyle{\ddot{x} = Bx}$, the following code is run in julia.
