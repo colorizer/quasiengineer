@@ -48,11 +48,11 @@ $\displaystyle{n = 0,1,2,3,\ldots}$
 
 $\displaystyle{{k_1}_x=hf_x\left( t_n, x_n, y_n, z_n \right) }$
 
-$\displaystyle{{k_2}_x=hf_x\left( t_n + \frac{h}{2}, x_n+\frac{{k_1}_x}{2} \right) }$
+$\displaystyle{{k_2}_x=hf_x\left( t_n + \frac{h}{2}, x_n+\frac{{k_1}_x}{2},  y_n+\frac{{k_1}_y}{2}, z_n+\frac{{k_1}_z}{2} \right) }$
 
-$\displaystyle{{k_3}_x=hf_x\left( t_n+\frac{h}{2}, x_n +\frac{{k_2}_x}{2} \right) }$
+$\displaystyle{{k_3}_x=hf_x\left( t_n+\frac{h}{2}, x_n +\frac{{k_2}_x}{2},  y_n+\frac{{k_2}_y}{2}, z_n+\frac{{k_3}_z}{2} \right) }$
 
-$\displaystyle{{k_4}_x=hf_x\left( t_n+h, x_n +{k_3}_x \right) }$
+$\displaystyle{{k_4}_x=hf_x\left( t_n+h, x_n +{k_3}_x, y_n +{k_3}_y, z_n +{k_3}_z \right) }$
 
 and similarly for $y, z$ as well. [^1]
 
