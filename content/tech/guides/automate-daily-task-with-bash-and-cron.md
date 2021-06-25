@@ -21,16 +21,17 @@ You may have noticed that my Date Format is a bit different. This can be achieve
 ```bash
 #! /bin/bash -e
 
+HM="/home/username"
 TODAY=$(date +%d-%m-%y-%A)
 YDY=$(date +%d-%m-%y-%A --date=yesterday)
 TMW=$(date +%d-%m-%y-%A --date=tomorrow)
 DATMW=$(date +%d-%m-%y-%A --date="tomorrow tomorrow")
 JNL="Documents/Notes/Journal"
 
-if [ ! -s $HOME/$JNL/$TMW.md ]
+if [ ! -s $HM/$JNL/$TMW.md ]
 then
-	touch $HOME/$JNL/$TMW.md
-	cat <<- EOF > $HOME/$JNL/$TMW.md
+	touch $HM/$JNL/$TMW.md
+	cat <<- EOF > $HM/$JNL/$TMW.md
 	Date: [[$TMW]]
 	Previous: [[$TODAY]]  
 	Next: [[$DATMW]]
@@ -48,12 +49,20 @@ then
 fi
 ```
 
-The output of the cat command (which is the rest of the text until EOF) is piped to the file using a method called as [Here document redirection](https://linuxize.com/post/bash-heredoc/). This can be extensively helpful in remote SSH sessions as well. After creating, I had saved it with the filename `create-daily.sh`.
+The output of the cat command (which is the rest of the text until EOF) is piped to the file using a method called as [Here document redirection](https://linuxize.com/post/bash-heredoc/). This can be extensively helpful in remote SSH sessions as well. Note that, you have to replace `username` with your respective username. (One can also use the `$HOME` variable if the service is initiated in user profile. I am not doing that). After creating, I had saved it with the filename `create-daily.sh`. 
 
 The next step is to make it a daily task which gets automatically executed everyday. The problem with **cron** is that it is meant server environment. Hence, if your computer resumes after a shutdown, it won't get executed. The solution is to use **anacron** which Ubuntu happens to use by default. Hence, one can simply copy the above script to a predefined folder as follows
 
 ```shell
-sudo cp create-daily.sh /etc/cron.daily/
+sudo cp create-daily.sh /etc/cron.daily/create-daily
+sudo chmod +x /etc/cron.daily/create-daily
+```
+
+If you are using WSL inside windows, you have to run the following to create the file compatibility with bash. (I haven't actually run an anacron job inside WSL. Hence, if any issue rises, please let me know)
+
+```bash
+sudo apt install anacron dos2unix
+sudo dos2unix /etc/cron.daily/create-daily
 ```
 
 Thus, such simple but time consuming jobs can be automated.
