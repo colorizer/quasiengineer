@@ -546,7 +546,7 @@ uglyURLs = false
     #       name of the folder under the
     #       site’s `content` directory.
 
-    mainSections = ["tech", "musings"]
+    mainSections = ["tech"]
 
 
     ######################################
@@ -706,11 +706,11 @@ uglyURLs = false
     #       has a higher priority than here
 
     ## Disqus
-    enableDisqus = false
+    enableDisqus = true
     disqusShortname = "quasiengineer"
 
     ## Valine
-    enableValine = true
+    enableValine = false
     valineAppId = "sq1juK7kF6Rd5Pvw0l5Xsgmf-MdYXbMMI"
     valineAppKey = "5yhrqvQAoudOJTpCmL2pLobU"
     valinePlaceholder = "Just go go"

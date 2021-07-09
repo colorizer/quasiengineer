@@ -4,7 +4,7 @@ date: 2021-07-04T11:15:39+05:30
 draft: false
 katex: true
 plotly: true
-tags: ["Engineering"]
+tags: ["Engineering", "FEA", "Analysis", "Visualization"]
 categories: ["🗃️ Tech", "🛠 Engg"]
 typora-root-url: ../../../static
 ---
