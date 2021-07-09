@@ -210,6 +210,7 @@ N_{n} N_{1} & N_{n} N_{2} & \cdots & N_{n} N_{n}
 \end{aligned}
 $$
 </div>
+
 ### 2D Linear Elements
 
 ![2D Linear Elements](/images/2021/visualizing-FEM-basis-functions-in-julia/2dLinear.png)
