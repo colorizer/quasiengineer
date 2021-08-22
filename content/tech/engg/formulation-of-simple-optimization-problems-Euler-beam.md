@@ -9,6 +9,9 @@ typora-root-url: ../../../static
 ---
 
 
+
+This post is meant as an introduction into a simple graphical optimization problem using Python. Consider a simply supported (Euler) beam of uniform rectangular cross section. The objective is to minimize the weight of the beam. Breadth (b) and depth (d) are variable. Length is fixed. Stresses must be within safe limits and mid deflection should be $\le$1% of the span.
+
 ```python
 import numpy as np
 import matplotlib as mpl
@@ -16,8 +19,6 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import proj3d
 from matplotlib import patheffects
 ```
-
-This post is meant as an introduction into a simple graphical optimization problem using Python. Consider a simply supported (Euler) beam of uniform rectangular cross section. The objective is to minimize the weight of the beam. Breadth (b) and depth (d) are variable. Length is fixed. Stresses must be within safe limits and mid deflection should be $\le$1% of the span.
 
 ![Simply Supported beam](/images/2021/formulation-of-simple-optimization-problems-Euler-beam/beam.png)
 
@@ -47,7 +48,7 @@ $$
 </div>
 
 
-Now, let's substituted some numerical values. $L=1m$, $E=2\times 10^{11} N/m^2$, $\rho = 7000 kg/m^3$, $P=1600N$ and $\sigma_y = 200\text{MPa}$.
+Now, let's substituted some numerical values. $L=1m$, $E=2\times 10^{11} N/m^2$, $\rho = 7000 kg/m^3$, $P=2000N$ and $\sigma_y = 200\text{MPa}$.
 
 
 ```python
