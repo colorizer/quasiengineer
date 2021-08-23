@@ -169,9 +169,9 @@ Thus, the smallest value of the contour that touches the feasible region defines
 <div>
 $$
 \begin{aligned}
-b &= 0.01 m\\
-d &= 0.05 m\\
-W &= 3.5 kg
+b &= 0.005 m\\
+d &= 0.053 m\\
+W &= 1.98 kg
 \end{aligned}
 $$
 </div>
