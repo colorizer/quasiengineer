@@ -4,13 +4,13 @@ date: 2021-08-24T12:33:45+05:30
 draft: false
 katex: false
 tags: ["Coding",]
-categories: ["🗃️ Tech", "🛠 Coding"]
+categories: ["🗃️ Tech", "⌨️ Coding"]
 typora-root-url: ../../../static
 ---
 
 **Problem Statement**: [Link](https://www.codechef.com/problems/LECANDY)
 
-The following are my solutions to the problem statement.s
+The following are my solutions to the problem statement.
 
 ##  C++
 
