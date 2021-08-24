@@ -5,6 +5,7 @@ draft: false
 katex: false
 tags: ["Coding",]
 categories: ["🗃️ Tech", "⌨️ Coding"]
+summary: "Codechef LECANDY - my solution"
 typora-root-url: ../../../static
 ---
 
