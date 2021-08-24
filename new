@@ -2,7 +2,7 @@
 
 case $1 in
 
-    engg | news)
+    engg | news | coding)
     wd="tech/$1"
     ;;
     guide)
