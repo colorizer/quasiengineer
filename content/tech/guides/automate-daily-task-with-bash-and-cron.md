@@ -9,7 +9,7 @@ typora-root-url: ../../../static
 
 Here is a simple method in which I am automating the creation of "Tomorrow's notes" for my [Obsidian.md](https://obsidian.md/) notes[^1]. In a similar manner, any simple tasks that needs to be repetitively done daily can be done with the help of bash scripting and cron job.
 
-![image-20210620152537689](/2021/automate-daily-task-with-bash-and-cron/image-20210620152537689.png)
+![image-20210620152537689](/images/2021/automate-daily-task-with-bash-and-cron/image-20210620152537689.png)
 
 The above shows the daily notes I indent to create on a daily basis for the next day. This, I have implemented with the simple steps.
 
