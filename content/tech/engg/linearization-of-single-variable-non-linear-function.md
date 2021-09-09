@@ -1,10 +1,10 @@
 ---
 title: "Linearization of Single Variable Non-Linear function"
 date: 2021-09-09T15:56:46+05:30
-draft: true
+draft: false
 katex: true
 plotly: true
-tags: ["Engineering"]
+tags: ["Engineering", "Linearization", "Julia"]
 categories: ["🗃️ Tech", "🛠 Engg"]
 typora-root-url: ../../../static
 ---
@@ -102,5 +102,7 @@ I also generated a contour plot of the number of iterations ranging upto 10,000 
 
 ![convergence-contour-1](/images/2021/linearization-of-single-variable-non-linear-function/convergence-contour-1.png)
 
-I had generated the 
+I had generated the above code as a python notebook which can be found [here](https://github.com/colorizer/quasiengineer/raw/master/static/files/2021/linearization-of-single-variable-non-linear-function/linearization-of-single-variable-non-linear-function.ipynb) or it can be run directly online using binder if you follow [this link](https://mybinder.org/v2/gist/colorizer/b235e1eec40a3601f57137eb2a0c9175/dfd6b7d5856f563bfcd92af580543a40bf2d8708).
+
+{{< gist colorizer b235e1eec40a3601f57137eb2a0c9175 >}}
 
