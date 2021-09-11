@@ -33,17 +33,22 @@ $$
 \displaystyle{u_L(x) = c_1 + c_2 x}
 $$
 Applying the boundary conditions at index $i=0$,
+
 $$
 \begin{aligned}
 	u(x_0) &= c_1 + c_2 x_0 \\
 	u'(x_0) &= c_2
   \end{aligned}
 $$
+
 we get,
+
 $$
 \displaystyle{u_L(x) = u(x_0) + u'(x_0)(x-x_0)}
 $$
+
 where,
+
 $$
 \displaystyle{u'(x) = (1-2x) \left( 1+ \frac{1}{2\sqrt{\gamma}}\cos\left(\frac{2\pi x}{\gamma} \right) \right) }
 $$
