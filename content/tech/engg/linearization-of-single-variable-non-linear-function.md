@@ -34,12 +34,14 @@ $$
 $$
 Applying the boundary conditions at index $i=0$,
 
+<div>
 $$
 \begin{aligned}
 	u(x_0) &= c_1 + c_2 x_0 \\
 	u'(x_0) &= c_2
   \end{aligned}
 $$
+</div>
 
 we get,
 
