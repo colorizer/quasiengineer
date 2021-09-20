@@ -4,7 +4,7 @@ date: 2021-08-22T18:57:30+05:30
 draft: false
 katex: true
 tags: ["Engineering", "Optimization", "Python"]
-categories: ["🗃️ Tech", "🛠 Engg"]
+categories: ["🗃️ Tech", "🧰 Engg"]
 typora-root-url: ../../../static
 ---
 

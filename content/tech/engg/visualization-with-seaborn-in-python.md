@@ -4,7 +4,7 @@ date: 2021-07-09T23:48:29+05:30
 draft: false
 katex: fasle
 tags: ["Data Science", "Visualization"]
-categories: ["🗃️ Tech", "🛠 Engg"]
+categories: ["🗃️ Tech", "🧰 Engg"]
 typora-root-url: ../../../static
 ---
 

@@ -3,8 +3,8 @@ title: "Codechef LECANDY"
 date: 2021-08-24T12:33:45+05:30
 draft: false
 katex: false
-tags: ["Coding",]
-categories: ["🗃️ Tech", "⌨️ Coding"]
+tags: ["Coding", "cpp", "Python"]
+categories: ["⌨️ Coding", "🏆 Challenges"]
 summary: "Codechef LECANDY - my solution"
 typora-root-url: ../../../static
 ---

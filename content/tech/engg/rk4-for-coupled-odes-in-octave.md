@@ -4,7 +4,7 @@ date: 2021-01-08T01:26:42+05:30
 draft: false
 katex: true
 tags: ["Engineering", "RK4", "GNU Octave", "Matlab", "Numerical Computations" ]
-categories: ["🗃️ Tech", "🛠 Engg"]
+categories: ["🗃️ Tech", "🧰 Engg"]
 typora-root-url: ../../../static
 ---
 

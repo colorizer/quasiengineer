@@ -5,7 +5,7 @@ draft: false
 katex: true
 plotly: true
 tags: ["Engineering", "Linearization", "Julia"]
-categories: ["🗃️ Tech", "🛠 Engg"]
+categories: ["🗃️ Tech", "🧰 Engg"]
 typora-root-url: ../../../static
 ---
 

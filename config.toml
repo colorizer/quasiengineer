@@ -223,37 +223,43 @@ uglyURLs = false
         pre = "internal"
         post = "archive"
     [[menu.main]]
+        url = "/coding/"
+        name = "Coding"
+        weight = 2
+        pre = "internal"
+        post = "dna"
+    [[menu.main]]
         url = "/musings/"
         name = "Musings"
-        weight = 2
+        weight = 3
         pre = "internal"
         post = "musings"
     [[menu.main]]
         url = "/categories/"
         name = "Categories"
-        weight = 3
+        weight = 4
         pre = "internal"
         post = "th"
     [[menu.main]]
         url = "/tags/"
         name = "Tags"
-        weight = 4
+        weight = 5
         pre = "internal"
         post = "tags"
     [[menu.main]]
         url = "/about/"
         name = "About"
-        weight = 5
+        weight = 6
         pre = "internal"
         post = "user-circle"
     [[menu.main]]
-        weight = 6
+        weight = 7
         identifier = "theme-switcher"
     [[menu.main]]
-        weight = 7
+        weight = 8
         identifier = "lang-switcher"
     [[menu.main]]
-        weight = 8
+        weight = 9
         identifier = "search"
         post = "search"
     
@@ -546,7 +552,7 @@ uglyURLs = false
     #       name of the folder under the
     #       site’s `content` directory.
 
-    mainSections = ["tech"]
+    mainSections = ["tech", "coding"]
 
 
     ######################################
