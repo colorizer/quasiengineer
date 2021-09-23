@@ -2,9 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-katex: true
-tags: ["Engineering"]
-categories: ["🗃️ Tech", "🧰 Engg"]
+katex: false
+tags: ["Coding",]
+categories: ["⌨️ Coding", "🏆 Challenges"]
+summary: ""
 typora-root-url: ../../../static
 ---
 

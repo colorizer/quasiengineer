@@ -2,13 +2,18 @@
 
 case $1 in
 
-    engg | news | coding)
+    engg | news)
     wd="tech/$1"
     ;;
     guide)
     wd="tech/$1s"
     ;;
-    
+    challenge)
+    wd="coding/$1s"
+    ;;
+    generative)
+    wd="coding/$1"
+    ;;
     poem | write-up)
     wd="musings/$1s"
     ;;
