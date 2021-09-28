@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+file_name=$2
 case $1 in
 
     engg | news)
@@ -14,10 +15,14 @@ case $1 in
     generative)
     wd="coding/$1"
     ;;
+    log)
+    wd="coding/100daysofcode"
+    file_name="100-days-of-code-log-$2"
+    ;;
     poem | write-up)
     wd="musings/$1s"
     ;;
     
 esac
 
-hugo new -k $1 $wd/$2.md
+hugo new -k $1 $wd/$file_name.md
