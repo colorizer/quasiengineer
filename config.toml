@@ -12,7 +12,7 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 theme = "meme"
 
 # `hugo new` automatically opened text editor
-newContentEditor = "typora"
+newContentEditor = "typora --no-sandbox"
 
 # i18n
 defaultContentLanguage = "en"
