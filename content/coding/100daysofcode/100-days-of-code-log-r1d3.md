@@ -1,5 +1,5 @@
 ---
-title: "100 Days of Code Log R1d3"
+title: "100 Days of Code Log R1D3"
 date: 2021-09-29T22:47:15+05:30
 draft: false
 katex: false
@@ -45,7 +45,9 @@ function function_name(inputname) result(resultname)
 end function function_name
 ```
 
-Hence, the `result` keyword is used to specify the return value. There is no `return` keyword in Fortran. Also, fortran can take optional arguments. Inside the function body, these need to be declared with `optional` keyword.
+Hence, the `result` keyword is used to specify the return value. There is a `return` keyword in Fortran but it only returns the control back to the caller. Hence, the result need to be assigned properly.
+
+Also, fortran can take optional arguments. Inside the function body, these need to be declared with `optional` keyword.
 
 ```fortran
 integer, optional, intent(in) :: somenumber
