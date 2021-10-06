@@ -1,5 +1,5 @@
 ---
-title: "100 Days of Code Log R1d9"
+title: "100 Days of Code Log R1D9"
 date: 2021-10-05T19:25:01+05:30
 draft: false
 katex: false
@@ -201,7 +201,7 @@ These statements allow the compiler to optimize the iterations that has to be pe
 `forall` is restrictive in the sense that it can only be used for assignment of an array.
 
 ```fortran
-forall (i=1,n, j=1,n, ...., i<=j) ! logical expression is optional
+forall (i=1:n, j=1:n, ...., i<=j) ! logical expression is optional
 	A(i,j) = i+j
 end forall
 ```

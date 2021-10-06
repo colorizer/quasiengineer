@@ -2,7 +2,7 @@
 title: "100 Days of Code Log R1d7"
 date: 2021-10-03T22:36:29+05:30
 draft: false
-katex: false
+katex: true
 tags: ["Coding","Fortran"]
 categories: ["⌨️ Coding", "➿ 100DaysofCode"]
 summary: ""
