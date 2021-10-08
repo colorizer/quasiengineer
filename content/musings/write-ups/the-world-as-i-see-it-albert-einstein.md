@@ -56,7 +56,7 @@ These views sure state how much he was involved (psychologically as well as thro
 ### Germany
 > As long as I have any choice, I will only stay in a country where political liberty, toleration, and equality of all citizens before the law are the rule.
 
-This section mainly contains the series of interactions between Einstein and the Prussian Academy of Sciences which accused Einstein of involving in *activities as an agitator in foreign countries* when he resigned from the institute and renounced his citizenship. Here, he makes his stance as a *global citizen* standing by his views on Justice and liberty. He saw the  prevailing Anti-Semitism in Germany as a distruction of civilized Germany and all its cultural values. 
+This section mainly contains the series of interactions between Einstein and the Prussian Academy of Sciences which accused Einstein of involving in *activities as an agitator in foreign countries* when he resigned from the institute and renounced his citizenship. Here, he makes his stance as a *global citizen* standing by his views on Justice and liberty. He saw the  prevailing Anti-Semitism in Germany as a destruction of civilized Germany and all its cultural values.
 
 ### Jews
 Here, his views paints the vision with which the Palestine was established as a Jewish nation as the World War II came to an end. Here, his views as a Jew gives us a perspective on the ideologies which led on to the development of the Palestine (which may be necessary as it's still in a state of warfare today).
@@ -72,6 +72,6 @@ In one such event led by Jewish charitable associations, he can be seen addressi
 
 While the usual stories shared about Einstein revolves around his academia and related events, this is my first introduction to what he was as a member of humanity. While his scientific discoveries brought on his fame, he did his best to leverage that to the betterment of the human well being. The views he shared can be seen to be profound and well thought, which will only arise out of deep contemplation and involvement in the affairs of the state. 
 
-The write way to finish this is to state his words when he addressed youths.
+The right way to finish this is to state his words when he addressed youths.
 
 > Where can the strength for such a process come from? Only from those who have had the chance in their early years to fortify their minds and broaden their outlook through study.
