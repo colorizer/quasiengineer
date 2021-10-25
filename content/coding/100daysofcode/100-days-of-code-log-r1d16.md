@@ -1,5 +1,5 @@
 ---
-title: "100 Days of Code Log R1D6"
+title: "100 Days of Code Log R1D16"
 date: 2021-10-12T19:03:32+05:30
 draft: false
 katex: false
