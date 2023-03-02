@@ -13,4 +13,4 @@ comments: false
 >***Quasi Engineer***\
 >A four dimensional entity that _asymptotically_ approaches the _Engineer Subspace_.
 
-Hi, I'm Jebin and this is my '*everything-in-one-bin*' kind of blog. I am a postgraduate student in Indian Institute of Technology Madras. I'm interested in Design and Optimisation of Mechanical Systems. My other interests include Linux, Open Source and writing poems :)
+Hi, I'm Jebin and this is my '*everything-in-one-bin*' kind of blog. I, who completed master's in Mechanical Design, am currently a financial analyst. This, as per the definition above, makes me a quasiengineer. I'm interested in Design & Optimisation of Mechanical Systems and coding. My other interests include Linux, Open Source and writing poems :)
