@@ -12,7 +12,7 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 theme = "meme"
 
 # `hugo new` automatically opened text editor
-newContentEditor = "code"
+newContentEditor = "ghostwriter"
 
 # i18n
 defaultContentLanguage = "en"
@@ -1416,3 +1416,16 @@ uglyURLs = false
     fofVideoMp4 = ""
     # Note: you can leave these two
     #       options empty("")
+[security]
+  enableInlineShortcodes = false
+
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^ghostwriter$', '^code$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
