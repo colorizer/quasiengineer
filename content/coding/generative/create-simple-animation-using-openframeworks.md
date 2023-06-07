@@ -5,6 +5,7 @@ draft: false
 katex: true
 tags: ["Coding", "Art"]
 categories: ["⌨️ Coding", "🎨 Generative"]
+summary: ""
 typora-root-url: ../../../static
 ---
 
