@@ -81,7 +81,7 @@ void ofApp::draw(){
 }
 ```
 
-The `draw` function is called for each frame. In our case, we are using `for` loop to draw 36 ellipses. And for each iteration, we are rotating by a factor of 10°. This means that, if the first ellipse rotates by 10°, the last ellipse would have rotated by 360°. Hence, the first ellipse will need to rotate 36 times to meet the first ellipse again in the same place. The angular velocity of the center of each ellipses can be written down as $\omega = n\mult k\mult 10$ °/frame.
+The `draw` function is called for each frame. In our case, we are using `for` loop to draw 36 ellipses. And for each iteration, we are rotating by a factor of 10°. This means that, if the first ellipse rotates by 10°, the last ellipse would have rotated by 360°. Hence, the first ellipse will need to rotate 36 times to meet the first ellipse again in the same place. The angular velocity of the center of each ellipses can be written down as $\omega=n\cdot k\cdot 10$° per frame where $n$ is the index of the ellipse.
 
 The width and height of the ellipse are set as a factor of `d`. The offset is also provided as a factor of `d`. Note that, since we had already translated the co-ordinates to the center, (0,0) corresponds to the center of the ellipse where either ends of the major axis are $2.5d$ away from center.
 
