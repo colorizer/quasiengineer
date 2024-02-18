@@ -14,7 +14,7 @@ Charred to its soul.
 Nothing left to burn anymore.  
 
 Specular dust on its way back  
-Or Maybe not.  
+Or maybe not.  
 Just bound to drift around.  
 
 Why should the phoenix keep rising  
