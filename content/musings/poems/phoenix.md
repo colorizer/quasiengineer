@@ -9,8 +9,8 @@ tags: [Poem]
 ---
 
 Black debris falling off the sky.  
-Reminiscence of a fiery hope.  
-Charred to its soul  
+Reminiscence of a fiery hope  
+Charred to its soul.  
 Nothing left to burn anymore.  
 
 Specular dust on its way back  
