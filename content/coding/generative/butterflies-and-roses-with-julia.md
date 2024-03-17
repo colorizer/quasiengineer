@@ -3,8 +3,8 @@ title: "Butterflies and Roses With Julia"
 date: 2024-03-10T22:39:17+05:30
 draft: false
 katex: true
-plotly: true
-tags: ["Coding", "Art"]
+plotly: false
+tags: ["Coding", "Art", "Julia"]
 categories: ["⌨️ Coding", "🎨 Generative"]
 summary: ""
 typora-root-url: ../../../static
