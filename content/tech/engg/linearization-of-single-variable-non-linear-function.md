@@ -58,7 +58,7 @@ $$
 
 ## Algorithm
 
-Rearranging $u_L(x)$ in terms of $x$ and substituting $u_L(x) = u(x^*)$, we get
+Rearranging $u_L(x)$ in terms of $x$ and substituting $u_L(x) = u(x^\*)$, we get
 $$
 x_{i+1} = x_i + \frac{u(x^*) - u(x_i)}{u'(x_i)}
 $$
