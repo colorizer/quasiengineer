@@ -6,7 +6,7 @@ categories: ["💭 Musings", "📝  Write-ups"]
 tags: [Articles]
 ---
  
-I found the book to be esoteric and not intended for the public, although the book does sell as one. Or it might be just me who hasn't dwelled into the sections of theology and anthropology during library visits resulting in this book flying over my head most of the time. Apart from the challenging vocabulary of Hitchens' English prowess, the sheer amount of historical facts thrown around in every other sentence threw me off. But, for a more accustomed atheist who is itching for a debate, this book might be the ~~silver bullet~~ whole magazine of silver bullets.
+I found the book to be esoteric and not intended for the general public, although the book does sell as one. Or it might be just me who hasn't dwelled into the sections of theology and anthropology during library visits resulting in this book flying over my head most of the time. Apart from the challenging vocabulary of Hitchens' English prowess, the sheer amount of historical facts thrown around in every other sentence threw me off. But, for a more accustomed atheist who is itching for a debate, this book might be the ~~silver bullet~~ whole magazine of silver bullets.
 
 ![](https://www.mgoddingltd.co.uk/assets/images/product/221204.jpg)
 
