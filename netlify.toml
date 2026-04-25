@@ -3,7 +3,9 @@ publish = "public"  # default hugo build folder
 command = "hugo --gc --minify"# hugo build command
 
 [context.production.environment]
-HUGO_VERSION = "0.119.0"
-HUGO_ENV = "production"
+DART_SASS_VERSION = "1.99.0"
+GO_VERSION = "1.26.1"
+HUGO_VERSION = "0.160.0"
+NODE_VERSION = "24.14.1"
 HUGO_ENABLEGITINFO = "true"
 
