@@ -1,6 +1,9 @@
 [build]
 publish = "public"  # default hugo build folder
-command = "hugo --gc --minify"# hugo build command
+command = """\
+  git config core.quotepath false && \
+  hugo build --gc --minify --baseURL "${URL}"
+  """
 
 [context.production.environment]
 DART_SASS_VERSION = "1.99.0"
