@@ -1420,7 +1420,7 @@ uglyURLs = false
   enableInlineShortcodes = false
 
   [security.exec]
-    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^ghostwriter$', '^code$']
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^ghostwriter$', '^code$', '^git$']
     osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$']
 
   [security.funcs]
